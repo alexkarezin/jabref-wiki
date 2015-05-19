@@ -35,6 +35,12 @@ As we can see, there are several "special" characters: the percent sign and the 
 
 `Error_writing_XMP_to_file\:_%0=Fehler_beim_Schreiben_von_XMP_in_die_Datei:_%0`
 
+## Directly editing the files
+
+Github offers to edit the files directly without requiring to download them or to use git.
+Go to https://github.com/JabRef/jabref/tree/master/src/main/resources/resource.
+Choose the file and then click on the pencil icon. Easy!
+
 ## Using Popeye for editing translations
 
 To make it easier to keep track of your translation, we recommend using an application called [Popeye](https://github.com/JabRef/popeye), a binary is available at http://jabref.sourceforge.net/langproper-0.55.jar. This application lets you set up a project including those property files and languages that you want to follow.
