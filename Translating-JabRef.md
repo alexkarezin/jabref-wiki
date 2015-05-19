@@ -1,10 +1,10 @@
 ## Introduction
 
-JabRef comes with a set of translations into other languages, currently Chinese (simplified), Danish, English, French, German, Indonesian, Italian, Japanese, Norwegian, Spanish, Turkish and Vietnamese.
+JabRef comes with a set of translations into other languages, currently Chinese (simplified), Danish, English, French, German, Indonesian, Italian, Japanese, Norwegian, Spanish, Portuguese (Brazil), Russian, Turkish and Vietnamese.
 Adding a new language involves adding a new set of translation files - so-called property files.
 These are text files containing one text entry per line. 
 
-We are constantly looking for translators and translations into other languages. For example a Spanish or Portugese translation would be valuable and of course translations into any other language would be very much appreciated.
+We are constantly looking for translators and translations into other languages. For example a Polish translation would be valuable and of course translations into any other language would be very much appreciated.
 
 Contributing a new language to JabRef is easy since JabRef is prepared for multilanguage support. It only requires the creation of a new set of translation files - so-called property files. These are text files containing one text entry per line that can easily be generated using the java program Popeye a from a graphical user interface.
 
