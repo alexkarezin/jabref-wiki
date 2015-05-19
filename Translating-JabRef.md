@@ -253,9 +253,3 @@ For a translation to be available within JabRef, a corresponding line must be ad
 To test your translation you must be able to compile the source tree after making your additions.
 This requires you to install the [Java Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
 Execute `gradlew run` in the root directory and JabRef should start.
-
-## Translate the help files
-
-The help files are contained in https://github.com/JabRef/jabref/tree/master/src/main/resources/help.
-Translate them in your language and send the result to a developer via email.
-Alternatively, you can create a pull request. See above.
