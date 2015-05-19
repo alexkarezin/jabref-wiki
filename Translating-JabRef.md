@@ -38,8 +38,7 @@ As we can see, there are several "special" characters: the percent sign and the 
 ## Directly editing the files
 
 Github offers to edit the files directly without requiring to download them or to use git.
-Go to https://github.com/JabRef/jabref/tree/master/src/main/resources/resource.
-Choose the file and then click on the pencil icon. Easy!
+Go to https://github.com/JabRef/jabref/tree/master/src/main/resources/resource. To edit a file, click on the filename, and then click on the pencil icon (to the top right-hand). When you are done, add a message at the bottom and click on "Commit changes". You are done. Easy!
 
 ## Using Popeye for editing translations
 
