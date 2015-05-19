@@ -1,12 +1,12 @@
 ## Introduction
 
-JabRef comes with a set of translations into other languages, currently Chinese (simplified), Danish, English, French, German, Indonesian, Italian, Japanese, Norwegian, Spanish, Portuguese (Brazil), Russian, Turkish and Vietnamese.
+JabRef comes with a set of translations into other languages, currently Chinese (simplified), Danish, Dutch, English, French, German, Indonesian, Italian, Japanese, Norwegian, Spanish, Portuguese (Brazil), Russian, Turkish and Vietnamese.
 Adding a new language involves adding a new set of translation files - so-called property files.
 These are text files containing one text entry per line. 
 
 We are constantly looking for translators and translations into other languages. For example a Polish translation would be valuable and of course translations into any other language would be very much appreciated.
 
-Contributing a new language to JabRef is easy since JabRef is prepared for multilanguage support. It only requires the creation of a new set of translation files - so-called property files. These are text files containing one text entry per line that can easily be generated using the java program Popeye a from a graphical user interface.
+Contributing a new language to JabRef is easy since JabRef is prepared for multilanguage support. It only requires the creation of a new set of translation files - so-called property files. These are text files containing one text entry per line that can easily be generated using the java program Popeye from a graphical user interface.
 
 ## List of translation files
 
@@ -16,6 +16,138 @@ For each language there are three files (X denotes the country code for the lang
   * JabRef_X.properties: main translation file 
   * Menu_X.properties: translation of menu items, marked up for mnemonic keys 
   * IntegrityMessage_X.properties: small file containing messages for the database integrity check 
+
+Additionally, the [/src/main/resources/help](../tree/master/src/main/resources/help) directory
+contains the help files in the various languages. They are in html format.
+
+## Translation status (on May 19, 2015)
+
+#### Chinese (simplified)
+
+| File                          | % done|
+| ----------------------------- | --- |
+| IntegrityMessage_X.properties | 100 |
+| Menu_X.properties             |  93 |
+| JabRef_X.properties           |  74 |
+| Help files                    |   0 |
+
+#### Danish
+
+| File                          | % done|
+| ----------------------------- | --- |
+| IntegrityMessage_X.properties | 100 |
+| Menu_X.properties             |  93 |
+| JabRef_X.properties           |  84 |
+| Help files                    |   1 |
+
+#### Dutch
+
+| File                          | % done|
+| ----------------------------- | --- |
+| IntegrityMessage_X.properties | 100 |
+| Menu_X.properties             |  72 |
+| JabRef_X.properties           |  52 |
+| Help files                    |   0 |
+
+#### French
+
+| File                          | % done|
+| ----------------------------- | --- |
+| IntegrityMessage_X.properties | 100 |
+| Menu_X.properties             | 100 |
+| JabRef_X.properties           | 100 |
+| Help files                    | 100 |
+
+#### German
+
+| File                          | % done|
+| ----------------------------- | --- |
+| IntegrityMessage_X.properties | 100 |
+| Menu_X.properties             | 100 |
+| JabRef_X.properties           |  98 |
+| Help files                    |  80 |
+
+#### Indonesian
+
+| File                          | % done|
+| ----------------------------- | --- |
+| IntegrityMessage_X.properties | 100 |
+| Menu_X.properties             |  94 |
+| JabRef_X.properties           |  82 |
+| Help files                    |  60 |
+
+#### Italian
+
+| File                          | % done|
+| ----------------------------- | --- |
+| IntegrityMessage_X.properties | 100 |
+| Menu_X.properties             |  98 |
+| JabRef_X.properties           |  94 |
+| Help files                    |   0 |
+
+#### Japanese
+
+| File                          | % done|
+| ----------------------------- | --- |
+| IntegrityMessage_X.properties | 100 |
+| Menu_X.properties             | 100 |
+| JabRef_X.properties           |  97 |
+| Help files                    | 100 |
+
+#### Norwegian
+
+| File                          | % done|
+| ----------------------------- | --- |
+| IntegrityMessage_X.properties | 100 |
+| Menu_X.properties             |  97 |
+| JabRef_X.properties           |  84 |
+| Help files                    |   0 |
+
+#### Spanish
+
+| File                          | % done|
+| ----------------------------- | --- |
+| IntegrityMessage_X.properties | 100 |
+| Menu_X.properties             | 100 |
+| JabRef_X.properties           |  98 |
+| Help files                    |   0 |
+
+#### Portuguese (Brazil)
+
+| File                          | % done|
+| ----------------------------- | --- |
+| IntegrityMessage_X.properties | 100 |
+| Menu_X.properties             | 100 |
+| JabRef_X.properties           |  97 |
+| Help files                    |   0 |
+
+#### Russian
+
+| File                          | % done|
+| ----------------------------- | --- |
+| IntegrityMessage_X.properties | 100 |
+| Menu_X.properties             | 100 |
+| JabRef_X.properties           |  99 |
+| Help files                    |   0 |
+
+#### Turkish
+
+| File                          | % done|
+| ----------------------------- | --- |
+| IntegrityMessage_X.properties | 100 |
+| Menu_X.properties             | 100 |
+| JabRef_X.properties           |  98 |
+| Help files                    |   0 |
+
+#### Vietnamese
+
+| File                          | % done|
+| ----------------------------- | --- |
+| IntegrityMessage_X.properties | 100 |
+| Menu_X.properties             |  91 |
+| JabRef_X.properties           |  72 |
+| Help files                    |   0 |
+
 
 ## The format of the property files
 
