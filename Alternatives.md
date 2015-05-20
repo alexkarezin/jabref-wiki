@@ -37,4 +37,11 @@ Some of them are not listed at WikiPedia.
 
 ## Collaborative
 
+* [Aigaion](https://sourceforge.net/projects/aigaion/)
+* [BibORB](http://savannah.nongnu.org/projects/biborb/)
 * [Papyres](http://dl.acm.org/citation.cfm?id=1510120)
+* [refbase](http://refbase.sourceforge.net)
+* [RefWorks](https://www.refworks.com/)
+* [WIKINDX](http://wikindx.sourceforge.net/)
+
+An evaluation from the year 2007 of collaborative literature tools: [Fachstudie Nr. 61](http://elib.uni-stuttgart.de/opus/volltexte/2007/3367/pdf/FACH_0061.pdf).
