@@ -10,6 +10,8 @@ Some of them are not listed at WikiPedia.
 
 # BibTeX-based
 
+## Cross-Platform
+
 * [Bib-it](http://bib-it.sourceforge.net/index.php)
  * BibTeX style generator (bst): Bib-it features an advanced GUI based bst generator
  * Development discontinued
@@ -18,9 +20,14 @@ Some of them are not listed at WikiPedia.
 * [Docear](http://www.docear.org/), successor of http://www.sciplore.org
  * Friendly fork of JabRef. Source: https://github.com/Docear
  * https://github.com/stlanger/Docear seems to be another fork
-* [KBibTeX](http://home.gna.org/kbibtex/)
 * [org-bibref](https://gitorious.org/org-bibref), plugin for EMACS
+
+## Linux
+* [KBibTeX](http://home.gna.org/kbibtex/)
 * [Referencer](https://launchpad.net/referencer), a GNOME application
+
+## Mac OS X
+* [BibDesk](http://bibdesk.sourceforge.net/)
 
 # Non-BibTeX-based
 
