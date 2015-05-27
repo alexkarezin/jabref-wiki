@@ -41,6 +41,7 @@ Some of them are not listed at WikiPedia.
 * [BibORB](http://savannah.nongnu.org/projects/biborb/)
 * [Papyres](http://dl.acm.org/citation.cfm?id=1510120)
 * [refbase](http://refbase.sourceforge.net)
+* [RefDB](http://refdb.sourceforge.net/)
 * [RefWorks](https://www.refworks.com/)
 * [WIKINDX](http://wikindx.sourceforge.net/)
 
