@@ -31,6 +31,7 @@ Some of them are not listed at WikiPedia.
 
 # Non-BibTeX-based
 
+* [calibre](http://calibre-ebook.com/) for eBooks
 * [EndNote](http://endnote.com/product-details/basic)
 * [Zotoro](https://www.zotero.org/)
  * Recommended plugin: [Zotero: Better Bib(La)TeX (BBT)](https://github.com/ZotPlus/zotero-better-bibtex)
