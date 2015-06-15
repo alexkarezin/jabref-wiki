@@ -21,6 +21,7 @@ Some of them are not listed at WikiPedia.
  * Friendly fork of JabRef. Source: https://github.com/Docear
  * https://github.com/stlanger/Docear seems to be another fork
 * [org-bibref](https://gitorious.org/org-bibref), plugin for EMACS
+* [ebib](https://github.com/joostkremers/ebib), plugin für EMACS
 
 ## Linux
 * [KBibTeX](http://home.gna.org/kbibtex/)
