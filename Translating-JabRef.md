@@ -20,15 +20,15 @@ For each language there are three files (X denotes the country code for the lang
 Additionally, the [/src/main/resources/help](../tree/master/src/main/resources/help) directory
 contains the help files in the various languages. They are in html format.
 
-## Translation status (on June 3, 2015)
+## Translation status (on July 2, 2015)
 
 #### Chinese (simplified)
 
 | File                          | % done|
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             |  92 |
-| JabRef_X.properties           |  71 |
+| Menu_X.properties             |  91 |
+| JabRef_X.properties           |  70 |
 | Help files                    |   0 |
 
 #### Danish
@@ -36,8 +36,8 @@ contains the help files in the various languages. They are in html format.
 | File                          | % done|
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             |  92 |
-| JabRef_X.properties           |  81 |
+| Menu_X.properties             |  91 |
+| JabRef_X.properties           |  80 |
 | Help files                    |   1 |
 
 #### Dutch
@@ -45,8 +45,8 @@ contains the help files in the various languages. They are in html format.
 | File                          | % done|
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             |  71 |
-| JabRef_X.properties           |  49 |
+| Menu_X.properties             |  70 |
+| JabRef_X.properties           |  48 |
 | Help files                    |   0 |
 
 #### French
@@ -63,7 +63,7 @@ contains the help files in the various languages. They are in html format.
 | File                          | % done|
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             | 100 |
+| Menu_X.properties             |  99 |
 | JabRef_X.properties           |  95 |
 | Help files                    |  79 |
 
@@ -72,8 +72,8 @@ contains the help files in the various languages. They are in html format.
 | File                          | % done|
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             |  93 |
-| JabRef_X.properties           |  80 |
+| Menu_X.properties             |  92 |
+| JabRef_X.properties           |  79 |
 | Help files                    |  60 |
 
 #### Italian
@@ -81,8 +81,8 @@ contains the help files in the various languages. They are in html format.
 | File                          | % done|
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             | 100 |
-| JabRef_X.properties           |  93 |
+| Menu_X.properties             |  99 |
+| JabRef_X.properties           |  92 |
 | Help files                    |   0 |
 
 #### Japanese
@@ -91,7 +91,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             |  99 |
-| JabRef_X.properties           |  94 |
+| JabRef_X.properties           |  93 |
 | Help files                    | 100 |
 
 #### Norwegian
@@ -100,7 +100,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             |  96 |
-| JabRef_X.properties           |  82 |
+| JabRef_X.properties           |  80 |
 | Help files                    |   0 |
 
 #### Spanish
@@ -109,7 +109,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             |  99 |
-| JabRef_X.properties           |  96 |
+| JabRef_X.properties           | 100 |
 | Help files                    |   0 |
 
 #### Portuguese (Brazil)
@@ -118,7 +118,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             |  99 |
-| JabRef_X.properties           |  95 |
+| JabRef_X.properties           |  94 |
 | Help files                    |   0 |
 
 #### Russian
