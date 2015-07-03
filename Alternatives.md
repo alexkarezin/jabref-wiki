@@ -32,6 +32,8 @@ Some of them are not listed at WikiPedia.
 
 # Non-BibTeX-based
 
+* [Bibus](http://bibus-biblio.sourceforge.net/)
+ * Also offers integration with MS Word and LibreOffice.org
 * [calibre](http://calibre-ebook.com/) for eBooks
 * [EndNote](http://endnote.com/product-details/basic)
 * [Zotoro](https://www.zotero.org/)
