@@ -20,7 +20,7 @@ For each language there are three files (X denotes the country code for the lang
 Additionally, the [/src/main/resources/help](../tree/master/src/main/resources/help) directory
 contains the help files in the various languages. They are in html format.
 
-## Translation status (on July 6, 2015)
+## Translation status (on July 8, 2015)
 
 #### Chinese (simplified)
 
@@ -108,7 +108,7 @@ contains the help files in the various languages. They are in html format.
 | File                          | % done|
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             |  99 |
+| Menu_X.properties             | 100 |
 | JabRef_X.properties           | 100 |
 | Help files                    |   0 |
 
