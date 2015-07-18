@@ -20,7 +20,7 @@ For each language there are three files (X denotes the country code for the lang
 Additionally, the [/src/main/resources/help](../tree/master/src/main/resources/help) directory
 contains the help files in the various languages. They are in html format.
 
-## Translation status (on July 15, 2015)
+## Translation status (on July 18, 2015)
 
 #### Chinese (simplified)
 
@@ -28,7 +28,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             |  91 |
-| JabRef_X.properties           |  70 |
+| JabRef_X.properties           |  71 |
 | Help files                    |   0 |
 
 #### Danish
@@ -37,7 +37,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             |  91 |
-| JabRef_X.properties           |  80 |
+| JabRef_X.properties           |  81 |
 | Help files                    |   1 |
 
 #### Dutch
@@ -46,7 +46,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             |  70 |
-| JabRef_X.properties           |  48 |
+| JabRef_X.properties           |  49 |
 | Help files                    |   0 |
 
 #### French
@@ -64,7 +64,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             | 100 |
-| JabRef_X.properties           | 100 |
+| JabRef_X.properties           |  99 |
 | Help files                    |  79 |
 
 #### Indonesian
@@ -73,7 +73,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             |  92 |
-| JabRef_X.properties           |  79 |
+| JabRef_X.properties           |  80 |
 | Help files                    |  60 |
 
 #### Italian
@@ -82,7 +82,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             | 100 |
-| JabRef_X.properties           | 100 |
+| JabRef_X.properties           |  99 |
 | Help files                    |   0 |
 
 #### Japanese
@@ -91,7 +91,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             |  99 |
-| JabRef_X.properties           |  93 |
+| JabRef_X.properties           |  94 |
 | Help files                    | 100 |
 
 #### Norwegian
@@ -100,7 +100,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             |  96 |
-| JabRef_X.properties           |  80 |
+| JabRef_X.properties           |  81 |
 | Help files                    |   0 |
 
 #### Spanish
@@ -109,7 +109,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             | 100 |
-| JabRef_X.properties           | 100 |
+| JabRef_X.properties           |  99 |
 | Help files                    |   0 |
 
 #### Portuguese (Brazil)
@@ -127,7 +127,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             |  99 |
-| JabRef_X.properties           |  97 |
+| JabRef_X.properties           |  98 |
 | Help files                    |   0 |
 
 #### Turkish
@@ -136,7 +136,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             | 100 |
-| JabRef_X.properties           | 100 |
+| JabRef_X.properties           |  99 |
 | Help files                    |   0 |
 
 #### Vietnamese
@@ -145,7 +145,7 @@ contains the help files in the various languages. They are in html format.
 | ----------------------------- | --- |
 | IntegrityMessage_X.properties | 100 |
 | Menu_X.properties             |  90 |
-| JabRef_X.properties           |  70 |
+| JabRef_X.properties           |  71 |
 | Help files                    |   0 |
 
 
