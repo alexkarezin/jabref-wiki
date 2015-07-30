@@ -12,4 +12,4 @@ Old wiki with more information: https://sourceforge.net/p/jabref/wiki/Main_Page/
 
 ## Usage Information
 
- * [CLI Help](../CLI-help)
+ * [CLI Help](CLI-help)
