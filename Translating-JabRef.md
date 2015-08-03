@@ -13,9 +13,9 @@ Contributing a new language to JabRef is easy since JabRef is prepared for multi
 In the JabRef source code tree, the property files reside in the [/src/main/resources/resource](../tree/master/src/main/resources/resource) directory.
 For each language there are three files (X denotes the country code for the language): 
 
-  * JabRef_X.properties: main translation file 
-  * Menu_X.properties: translation of menu items, marked up for mnemonic keys 
-  * IntegrityMessage_X.properties: small file containing messages for the database integrity check 
+  * JabRef_xx.properties: main translation file 
+  * Menu_xx.properties: translation of menu items, marked up for mnemonic keys 
+  * IntegrityMessage_xx.properties: small file containing messages for the database integrity check 
 
 Additionally, the [/src/main/resources/help](../tree/master/src/main/resources/help) directory
 contains the help files in the various languages. They are in html format.
@@ -24,129 +24,129 @@ contains the help files in the various languages. They are in html format.
 
 #### Chinese (simplified)
 
-| File                          | % done|
-| ----------------------------- | --- |
-| IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             |  91 |
-| JabRef_X.properties           |  71 |
-| Help files                    |   0 |
+| File                           | % done|
+| ------------------------------ | --- |
+| IntegrityMessage_zh.properties | 100 |
+| Menu_zh.properties             |  91 |
+| JabRef_zh.properties           |  71 |
+| Help files                     |   0 |
 
 #### Danish
 
-| File                          | % done|
-| ----------------------------- | --- |
-| IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             |  91 |
-| JabRef_X.properties           |  81 |
-| Help files                    |   1 |
+| File                           | % done|
+| ------------------------------ | --- |
+| IntegrityMessage_da.properties | 100 |
+| Menu_da.properties             |  91 |
+| JabRef_da.properties           |  81 |
+| Help files                     |   1 |
 
 #### Dutch
 
-| File                          | % done|
-| ----------------------------- | --- |
-| IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             | 100 |
-| JabRef_X.properties           |  49 |
-| Help files                    |   0 |
+| File                           | % done|
+| ------------------------------ | --- |
+| IntegrityMessage_nl.properties | 100 |
+| Menu_nl.properties             | 100 |
+| JabRef_nl.properties           |  49 |
+| Help files                     |   0 |
 
 #### French
 
-| File                          | % done|
-| ----------------------------- | --- |
-| IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             | 100 |
-| JabRef_X.properties           | 100 |
-| Help files                    | 100 |
+| File                           | % done|
+| ------------------------------ | --- |
+| IntegrityMessage_fr.properties | 100 |
+| Menu_fr.properties             | 100 |
+| JabRef_fr.properties           | 100 |
+| Help files                     | 100 |
 
 #### German
 
-| File                          | % done|
-| ----------------------------- | --- |
-| IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             | 100 |
-| JabRef_X.properties           | 100 |
-| Help files                    |  79 |
+| File                           | % done|
+| ------------------------------ | --- |
+| IntegrityMessage_de.properties | 100 |
+| Menu_de.properties             | 100 |
+| JabRef_de.properties           | 100 |
+| Help files                     |  79 |
 
 #### Indonesian
 
-| File                          | % done|
-| ----------------------------- | --- |
-| IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             |  92 |
-| JabRef_X.properties           |  80 |
-| Help files                    |  60 |
+| File                           | % done|
+| ------------------------------ | --- |
+| IntegrityMessage_in.properties | 100 |
+| Menu_in.properties             |  92 |
+| JabRef_in.properties           |  80 |
+| Help files                     |  60 |
 
 #### Italian
 
-| File                          | % done|
-| ----------------------------- | --- |
-| IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             | 100 |
-| JabRef_X.properties           |  99 |
-| Help files                    |   0 |
+| File                           | % done|
+| ------------------------------ | --- |
+| IntegrityMessage_it.properties | 100 |
+| Menu_it.properties             | 100 |
+| JabRef_it.properties           |  99 |
+| Help files                     |   0 |
 
 #### Japanese
 
-| File                          | % done|
-| ----------------------------- | --- |
-| IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             |  99 |
-| JabRef_X.properties           |  94 |
-| Help files                    | 100 |
+| File                           | % done|
+| ------------------------------ | --- |
+| IntegrityMessage_ja.properties | 100 |
+| Menu_ja.properties             |  99 |
+| JabRef_ja.properties           |  94 |
+| Help files                     | 100 |
 
 #### Norwegian
 
-| File                          | % done|
-| ----------------------------- | --- |
-| IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             |  96 |
-| JabRef_X.properties           |  81 |
-| Help files                    |   0 |
+| File                           | % done|
+| ------------------------------ | --- |
+| IntegrityMessage_no.properties | 100 |
+| Menu_no.properties             |  96 |
+| JabRef_no.properties           |  81 |
+| Help files                     |   0 |
 
 #### Portuguese (Brazil)
 
-| File                          | % done|
-| ----------------------------- | --- |
-| IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             | 100 |
-| JabRef_X.properties           | 100 |
-| Help files                    |   0 |
+| File                              | % done|
+| --------------------------------- | --- |
+| IntegrityMessage_pt_BR.properties | 100 |
+| Menu_pt_BR.properties             | 100 |
+| JabRef_pt_BR.properties           | 100 |
+| Help files                        |   0 |
 
 #### Russian
 
-| File                          | % done|
-| ----------------------------- | --- |
-| IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             | 100 |
-| JabRef_X.properties           | 100 |
-| Help files                    |   0 |
+| File                           | % done|
+| ------------------------------ | --- |
+| IntegrityMessage_ru.properties | 100 |
+| Menu_ru.properties             | 100 |
+| JabRef_ru.properties           | 100 |
+| Help files                     |   0 |
 
 #### Spanish
 
-| File                          | % done|
-| ----------------------------- | --- |
-| IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             | 100 |
-| JabRef_X.properties           |  99 |
-| Help files                    |   0 |
+| File                           | % done|
+| ------------------------------ | --- |
+| IntegrityMessage_es.properties | 100 |
+| Menu_es.properties             | 100 |
+| JabRef_es.properties           |  99 |
+| Help files                     |   0 |
 
 #### Turkish
 
-| File                          | % done|
-| ----------------------------- | --- |
-| IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             | 100 |
-| JabRef_X.properties           | 100 |
-| Help files                    |   0 |
+| File                           | % done|
+| ------------------------------ | --- |
+| IntegrityMessage_tr.properties | 100 |
+| Menu_tr.properties             | 100 |
+| JabRef_tr.properties           | 100 |
+| Help files                     |   0 |
 
 #### Vietnamese
 
-| File                          | % done|
-| ----------------------------- | --- |
-| IntegrityMessage_X.properties | 100 |
-| Menu_X.properties             |  90 |
-| JabRef_X.properties           |  71 |
-| Help files                    |   0 |
+| File                           | % done|
+| ------------------------------ | --- |
+| IntegrityMessage_vi.properties | 100 |
+| Menu_vi.properties             |  90 |
+| JabRef_vi.properties           |  71 |
+| Help files                     |   0 |
 
 
 ## The format of the property files
