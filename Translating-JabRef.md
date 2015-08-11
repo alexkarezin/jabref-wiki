@@ -20,7 +20,7 @@ For each language there are three files (X denotes the country code for the lang
 Additionally, the [/src/main/resources/help](../tree/master/src/main/resources/help) directory
 contains the help files in the various languages. They are in html format.
 
-## Translation status (on August 3, 2015)
+## Translation status (on August 10, 2015)
 
 #### Chinese (simplified)
 
