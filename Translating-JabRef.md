@@ -82,7 +82,7 @@ contains the help files in the various languages. They are in html format.
 | ------------------------------ | --- |
 | IntegrityMessage_it.properties | 100 |
 | Menu_it.properties             | 100 |
-| JabRef_it.properties           |  99 |
+| JabRef_it.properties           | 100 |
 | Help files                     |   0 |
 
 #### Japanese
