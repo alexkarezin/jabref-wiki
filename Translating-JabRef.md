@@ -10,7 +10,7 @@ Contributing a new language to JabRef is easy since JabRef is prepared for multi
 
 ## List of translation files
 
-In the JabRef source code tree, the property files reside in the [/src/main/resources/resource](../tree/master/src/main/resources/resource) directory.
+In the JabRef source code tree, the property files reside in the [/src/main/resources/l10n](../tree/master/src/main/resources/l10n) directory.
 For each language there are three files (X denotes the country code for the language): 
 
   * JabRef_xx.properties: main translation file 
@@ -170,7 +170,7 @@ As we can see, there are several "special" characters: the percent sign and the 
 ## Directly editing the files
 
 Github offers to edit the files directly without requiring to download them or to use git.
-Go to https://github.com/JabRef/jabref/tree/master/src/main/resources/resource. To edit a file, click on the filename, and then click on the pencil icon (to the top right-hand). When you are done, add a message at the bottom and click on "Commit changes". You are done. Easy!
+Go to https://github.com/JabRef/jabref/tree/master/src/main/resources/l10n. To edit a file, click on the filename, and then click on the pencil icon (to the top right-hand). When you are done, add a message at the bottom and click on "Commit changes". You are done. Easy!
 
 ## Using Popeye for editing translations
 
@@ -186,9 +186,9 @@ This guide presents a quick way to begin with translation without the need to in
   1. Install Java (you've already done this if you are able to run JabRef) 
   2. Create a new folder "JabRef translations" 
   3. Store http://jabref.sourceforge.net/langproper-0.55.jar in it 
-  4. Store [IntegrityMessage_en.properties](https://raw.githubusercontent.com/JabRef/jabref/master/src/main/resources/resource/IntegrityMessage_en.properties) in it 
-  5. Store [JabRef_en.properties](https://raw.githubusercontent.com/JabRef/jabref/master/src/main/resources/resource/JabRef_en.properties) in it 
-  6. Store [Menu_en.properties](https://raw.githubusercontent.com/JabRef/jabref/master/src/main/resources/resource/Menu_en.properties) in it 
+  4. Store [IntegrityMessage_en.properties](https://raw.githubusercontent.com/JabRef/jabref/master/src/main/resources/l10n/IntegrityMessage_en.properties) in it 
+  5. Store [JabRef_en.properties](https://raw.githubusercontent.com/JabRef/jabref/master/src/main/resources/l10n/JabRef_en.properties) in it 
+  6. Store [Menu_en.properties](https://raw.githubusercontent.com/JabRef/jabref/master/src/main/resources/l10n/Menu_en.properties) in it 
   8. Run langproper-0.55.jar (double click should be enough). This starts Popeye.
 
 ### Create Projects
