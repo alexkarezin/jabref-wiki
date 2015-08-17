@@ -1,6 +1,6 @@
 ## Introduction
 
-JabRef comes with a set of translations into other languages, currently Chinese (simplified), Danish, Dutch, English, French, German, Indonesian, Italian, Japanese, Norwegian, Spanish, Portuguese (Brazil), Russian, Turkish and Vietnamese.
+JabRef comes with a set of translations into other languages, currently Chinese (simplified), Danish, Dutch, English, French, German, Indonesian, Italian, Japanese, Norwegian, Persian, Spanish, Portuguese (Brazil), Russian, Turkish and Vietnamese.
 Adding a new language involves adding a new set of translation files - so-called property files.
 These are text files containing one text entry per line. 
 
@@ -101,6 +101,15 @@ contains the help files in the various languages. They are in html format.
 | IntegrityMessage_no.properties | 100 |
 | Menu_no.properties             |  96 |
 | JabRef_no.properties           |  81 |
+| Help files                     |   0 |
+
+#### Persian
+
+| File                           | % done|
+| ------------------------------ | --- |
+| IntegrityMessage_fa.properties | 100 |
+| Menu_fa.properties             |  99 |
+| JabRef_fa.properties           |   0 |
 | Help files                     |   0 |
 
 #### Portuguese (Brazil)
