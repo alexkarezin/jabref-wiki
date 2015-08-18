@@ -33,6 +33,7 @@ Nothing about facebook, twitter, researchgate, academia, diaspora, google+, link
 
 ### Allow me to work with others, please.
 
+- Make JabRef serialization compatible with v2.9.2 again: <https://sourceforge.net/p/jabref/feature-requests/864/>
 - Automatic export and groups: <http://sourceforge.net/p/jabref/feature-requests/186/>
 - CVS support: <http://sourceforge.net/p/jabref/feature-requests/250/>
 - versioning system: <http://sourceforge.net/p/jabref/feature-requests/258/>
