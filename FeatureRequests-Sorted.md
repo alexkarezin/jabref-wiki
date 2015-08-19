@@ -506,10 +506,6 @@ For entry cleanup but also for other purposes, third-party softwares are suggest
 - External Program Call: <http://sourceforge.net/p/jabref/feature-requests/229/>
 - Make --importToOpen avaiable via Preferences: <http://sourceforge.net/p/jabref/feature-requests/707/>
 
-**`Remark:`** 
-
-Support of command-line has been dropped, right? Definitely? In such case, these feature requests should be put to "won't fix".
-
 
 ### Export my data, please.
 
