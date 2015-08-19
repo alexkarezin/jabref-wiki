@@ -43,6 +43,7 @@ Some of them are not listed at WikiPedia.
 
 * [Aigaion](https://sourceforge.net/projects/aigaion/)
 * [BibORB](http://savannah.nongnu.org/projects/biborb/)
+* [Mendeley](https://www.mendeley.com/)
 * [Papyres](http://dl.acm.org/citation.cfm?id=1510120)
 * [refbase](http://refbase.sourceforge.net)
 * [RefDB](http://refdb.sourceforge.net/)
