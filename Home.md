@@ -1,7 +1,5 @@
 # JabRef
 
-Please report bugs at https://sourceforge.net/p/jabref/bugs/
-
 Old wiki with more information: https://sourceforge.net/p/jabref/wiki/Main_Page/
 
 ## Development Information
