@@ -30,6 +30,9 @@ Some of them are not listed at WikiPedia.
 ## Mac OS X
 * [BibDesk](http://bibdesk.sourceforge.net/)
 
+## Android
+* [Eratosthenes](https://bitbucket.org/mkmatlock/eratosthenes/wiki/Home)
+
 # Non-BibTeX-based
 
 * [Bibus](http://bibus-biblio.sourceforge.net/)
