@@ -1,3 +1,5 @@
+[![Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://www.paypal.com/cgi-bin/webscr?item_name=JabRef+Bibliography+Manager&cmd=_donations&lc=US&currency_code=EUR&business=jabrefmail%40gmail.com)
+
 This page lists how we intend to use the donations:
 
 * Design of new icons for [Font Awesome](http://fontawesome.io/). See #130 for a discussion
