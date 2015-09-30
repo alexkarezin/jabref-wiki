@@ -2,6 +2,9 @@
 
 Old wiki with more information: https://sourceforge.net/p/jabref/wiki/Main_Page/
 
+## General Information
+* [[Donations]]: Usage of donations
+
 ## Development Information
 
  * [Setup a local Workspace - step-by-step](Guidelines-for-setting-up-a-local-workspace)
