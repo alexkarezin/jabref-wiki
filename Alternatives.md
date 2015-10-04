@@ -46,6 +46,7 @@ Some of them are not listed at WikiPedia.
 
 * [Aigaion](https://sourceforge.net/projects/aigaion/)
 * [BibORB](http://savannah.nongnu.org/projects/biborb/)
+* [BibServer](https://github.com/okfn/bibserver) - unsure whether it is really collaborative or for single users only.
 * [Mendeley](https://www.mendeley.com/)
 * [Papers](http://www.papersapp.com/)
 * [Papyres](http://dl.acm.org/citation.cfm?id=1510120)
