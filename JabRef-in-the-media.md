@@ -5,7 +5,9 @@ Feel free to add something. We are open to suggestions for including tools in ou
 
 [@Wagner2015] discuss the relationship between the [Quamoco](http://www.quamoco.de/) base quality model and the "Linzer Software Verkostung" [@Gruber2010].
 
-[@Hummel2010], [@Jürgens2010], [@Steidl2013], [@Steidl2014]
+[@Hummel2010] discuss the number of clones in JabRef.
+
+[@Jürgens2010], [@Steidl2013], [@Steidl2014]
 
 ## Papers discussing JabRef aspects
 * @Hummel2010: Benjamin Hummel, Elmar Juergens, Lars Heinemann, Michael Conradt: Index-Based Code Clone Detection: Incremental, Distributed, Scalable. Proceedings of the 26th IEEE International Conference on Software Maintenance (ICSM’10), 2010. http://dx.doi.org/10.1109/ICSM.2010.5609665
