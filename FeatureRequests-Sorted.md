@@ -122,9 +122,7 @@ This goes beyong search and grouping (also it may be related).
 
 ### Make it work for my text editor, please.
 
-- Push to Texmaker: <http://sourceforge.net/p/jabref/feature-requests/582/>
 - Insert citations into TeXniccenter?: <http://sourceforge.net/p/jabref/feature-requests/83/>
-- Link with Texmaker: <http://sourceforge.net/p/jabref/feature-requests/318/>
 - Integrate Texniccenter: <http://sourceforge.net/p/jabref/feature-requests/428/>
 - Scientists need Integration with OpenOffice!: <http://sourceforge.net/p/jabref/feature-requests/423/>
 - MS Word: <http://sourceforge.net/p/jabref/feature-requests/595/>
@@ -133,7 +131,7 @@ This goes beyong search and grouping (also it may be related).
 
 **`Remark:`** 
 
-While for text processors (word, LibreOffice), this may be a difficult task, I believe that for text editors (TexMaker, TeXniccenter, TexWorks, etc.), it is easy (the feature "just need" to be copied so that it inserts a \cite{} to another software). I even believe it should be a priority if we consider that JabRef was primarily designed to work for LaTeX edition.
+While for text processors (word, LibreOffice), this may be a difficult task, I believe that for text editors (TeXniccenter, TexWorks, etc.), it is easy (the feature "just need" to be copied so that it inserts a \cite{} to another software). I even believe it should be a priority if we consider that JabRef was primarily designed to work for LaTeX edition.
 
 ### Make it work better with my text editor, please.
 
