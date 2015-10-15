@@ -51,6 +51,7 @@ Some of them are not listed at WikiPedia.
 * [Papers](http://www.papersapp.com/)
 * [Papyres](http://dl.acm.org/citation.cfm?id=1510120)
 * [PUMA](http://www.academic-puma.de/)
+  * Source: https://bitbucket.org/bibsonomy/puma
 * [refbase](http://refbase.sourceforge.net)
 * [RefDB](http://refdb.sourceforge.net/)
 * [RefWorks](https://www.refworks.com/)
