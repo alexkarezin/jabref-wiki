@@ -50,6 +50,7 @@ Some of them are not listed at WikiPedia.
 * [Mendeley](https://www.mendeley.com/)
 * [Papers](http://www.papersapp.com/)
 * [Papyres](http://dl.acm.org/citation.cfm?id=1510120)
+* [PUMA](http://www.academic-puma.de/)
 * [refbase](http://refbase.sourceforge.net)
 * [RefDB](http://refdb.sourceforge.net/)
 * [RefWorks](https://www.refworks.com/)
