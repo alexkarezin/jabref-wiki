@@ -1,6 +1,7 @@
 Next TelCo
 
 - Caching on CircleCI
+- TravisCI vs. CircleCI should be documented somewhere or TravisCI removed
 - Licensing
 - Output Format
 - install4j
