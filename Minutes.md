@@ -6,3 +6,4 @@ Next TelCo
 - install4j
 - JavaFX
 - Save All as new CTRL+S shortcut
+- CircleCI caching vs. keeping gradle build file clean
