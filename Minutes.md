@@ -5,3 +5,4 @@ Next TelCo
 - Output Format
 - install4j
 - JavaFX
+- Save All as new CTRL+S shortcut
