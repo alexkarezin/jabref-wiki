@@ -16,7 +16,7 @@
   - ge.tt vs. bintray
 - Current state of the issues
   - Which content is expected at the WikiPedia articles?
-- Formatting rules
+- [x] Formatting rules - done by @koppor and @matthiasgeiger
 - Roadmap to release
   - We should release sth. on the 12th anniversary on 29 November
   - Should we release a v2.80b1 before?
