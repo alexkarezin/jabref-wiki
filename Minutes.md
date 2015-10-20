@@ -1,4 +1,4 @@
-Next TelCo
+# Next TelCo
 
 - Caching on CircleCI
 - TravisCI vs. CircleCI should be documented somewhere or TravisCI removed
@@ -22,4 +22,6 @@ Next TelCo
   - Should we release a v2.80b1 before?
 - Toolbar design: Buttons: Edit Preamble, Edit Strings
 
+# Future
+- Preferences: Structure and Necessity
 
