@@ -9,6 +9,8 @@
 - Format whole code according to the new formatting rules
 - Status 2.11: Waiting for translation of About dialogs. Release scheduled on November, 5th.
 - CircleCI: Automatically run generate-authors.sh and generate-developers.sh? (with `|| exit 0`)
+- Highlight vs Pinning for marked entries (see preferences -> entry table -> float marked entries ...)
+- must be implemented "vernünftig (matthias)" "Entry table -> fit table horizontally ...."
 
 # Future
 - Preferences: Structure and Necessity
