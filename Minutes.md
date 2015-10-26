@@ -11,6 +11,7 @@
 - CircleCI: Automatically run generate-authors.sh and generate-developers.sh? (with `|| exit 0`)
 - Highlight vs Pinning for marked entries (see preferences -> entry table -> float marked entries ...)
 - must be implemented "vernünftig (matthias)" "Entry table -> fit table horizontally ...."
+- Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
 
 # Future
 - Preferences: Structure and Necessity
