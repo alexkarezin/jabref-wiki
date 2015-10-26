@@ -8,6 +8,7 @@
 - 3 vs 2.80 because we break so much?
 - Format whole code according to the new formatting rules
 - Status 2.11: Waiting for translation of About dialogs. Release scheduled on November, 5th.
+- CircleCI: Automatically run generate-authors.sh and generate-developers.sh? (with `|| exit 0`)
 
 # Future
 - Preferences: Structure and Necessity
