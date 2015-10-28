@@ -13,6 +13,7 @@
 - must be implemented "vernünftig (matthias)" "Entry table -> fit table horizontally ...."
 - Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
 - Remove gitter?
+- XMLUtil.main -> CLI strategy
 
 # Future
 - Preferences: Structure and Necessity
