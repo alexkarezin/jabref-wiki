@@ -15,7 +15,6 @@ For each language there are three files (X denotes the country code for the lang
 
   * JabRef_xx.properties: main translation file 
   * Menu_xx.properties: translation of menu items, marked up for mnemonic keys 
-  * IntegrityMessage_xx.properties: small file containing messages for the database integrity check 
 
 Additionally, the [/src/main/resources/help](../tree/master/src/main/resources/help) directory
 contains the help files in the various languages. They are in html format.
@@ -26,7 +25,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| IntegrityMessage_zh.properties | 100 |
 | Menu_zh.properties             | 100 |
 | JabRef_zh.properties           |  80 |
 | Help files                     |   0 |
@@ -35,7 +33,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| IntegrityMessage_da.properties | 100 |
 | Menu_da.properties             |  91 |
 | JabRef_da.properties           |  81 |
 | Help files                     |   1 |
@@ -44,7 +41,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| IntegrityMessage_nl.properties | 100 |
 | Menu_nl.properties             | 100 |
 | JabRef_nl.properties           |  49 |
 | Help files                     |   0 |
@@ -53,7 +49,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| IntegrityMessage_fr.properties | 100 |
 | Menu_fr.properties             | 100 |
 | JabRef_fr.properties           | 100 |
 | Help files                     | 100 |
@@ -62,7 +57,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| IntegrityMessage_de.properties | 100 |
 | Menu_de.properties             | 100 |
 | JabRef_de.properties           | 100 |
 | Help files                     |  79 |
@@ -71,7 +65,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| IntegrityMessage_in.properties | 100 |
 | Menu_in.properties             |  92 |
 | JabRef_in.properties           |  80 |
 | Help files                     |  60 |
@@ -80,7 +73,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| IntegrityMessage_it.properties | 100 |
 | Menu_it.properties             | 100 |
 | JabRef_it.properties           | 100 |
 | Help files                     |   0 |
@@ -89,7 +81,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| IntegrityMessage_ja.properties | 100 |
 | Menu_ja.properties             |  99 |
 | JabRef_ja.properties           |  94 |
 | Help files                     | 100 |
@@ -98,7 +89,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| IntegrityMessage_no.properties | 100 |
 | Menu_no.properties             |  96 |
 | JabRef_no.properties           |  81 |
 | Help files                     |   0 |
@@ -107,7 +97,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| IntegrityMessage_fa.properties | 100 |
 | Menu_fa.properties             | 100 |
 | JabRef_fa.properties           |   0 |
 | Help files                     |   0 |
@@ -116,7 +105,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                              | % done|
 | --------------------------------- | --- |
-| IntegrityMessage_pt_BR.properties | 100 |
 | Menu_pt_BR.properties             | 100 |
 | JabRef_pt_BR.properties           | 100 |
 | Help files                        |   0 |
@@ -125,7 +113,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| IntegrityMessage_ru.properties | 100 |
 | Menu_ru.properties             | 100 |
 | JabRef_ru.properties           | 100 |
 | Help files                     |   0 |
@@ -134,7 +121,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| IntegrityMessage_es.properties | 100 |
 | Menu_es.properties             | 100 |
 | JabRef_es.properties           |  99 |
 | Help files                     |   0 |
@@ -143,7 +129,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| IntegrityMessage_tr.properties | 100 |
 | Menu_tr.properties             | 100 |
 | JabRef_tr.properties           | 100 |
 | Help files                     |   0 |
@@ -152,7 +137,6 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| IntegrityMessage_vi.properties | 100 |
 | Menu_vi.properties             |  90 |
 | JabRef_vi.properties           |  71 |
 | Help files                     |   0 |
@@ -196,10 +180,9 @@ This guide presents a quick way to begin with translation without the need to in
   1. Install Java (you've already done this if you are able to run JabRef) 
   2. Create a new folder "JabRef translations" 
   3. Store http://jabref.sourceforge.net/langproper-0.55.jar in it 
-  4. Store [IntegrityMessage_en.properties](https://raw.githubusercontent.com/JabRef/jabref/master/src/main/resources/l10n/IntegrityMessage_en.properties) in it 
-  5. Store [JabRef_en.properties](https://raw.githubusercontent.com/JabRef/jabref/master/src/main/resources/l10n/JabRef_en.properties) in it 
-  6. Store [Menu_en.properties](https://raw.githubusercontent.com/JabRef/jabref/master/src/main/resources/l10n/Menu_en.properties) in it 
-  8. Run langproper-0.55.jar (double click should be enough). This starts Popeye.
+  4. Store [JabRef_en.properties](https://raw.githubusercontent.com/JabRef/jabref/master/src/main/resources/l10n/JabRef_en.properties) in it 
+  5. Store [Menu_en.properties](https://raw.githubusercontent.com/JabRef/jabref/master/src/main/resources/l10n/Menu_en.properties) in it 
+  6. Run langproper-0.55.jar (double click should be enough). This starts Popeye.
 
 ### Create Projects
 
@@ -234,11 +217,9 @@ Create project for JabRef_en.properties, where no translation exists:
   13. File / Save project 
   14. Choose "JabRef.ppf" als file name 
 
-Repeat the last steps for "IntegrityMessage_en.properties" and "IntegrityMessage.ppf" as project filename 
-
 ### Translation
 
-From now on, after starting langproper-0.55.jar, you can open the projects Menu.ppf, JaBref.ppf, and IntegrityMessage.ppf. Then you can translate and save each time you want. 
+From now on, after starting langproper-0.55.jar, you can open the projects Menu.ppf and JabRef.ppf. Then you can translate and save each time you want. 
 
 ## How to contribute your translation
 
