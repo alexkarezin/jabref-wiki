@@ -15,7 +15,9 @@
 - Remove gitter?
 - XMLUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266))
 - New default setting for `Use native file dialog`: `Yes`? Should we remove that option completely?
-- UI Improvement: Default: Web search should be opened and "DOI to BibTeX" (or "ISBN to BibTeX") should be selected as default. (refs: handling of minor issues)
+- Fetchers/Web Search:
+  - Distinguish between simple "fetch by key" and free keyword search? Different menu items?
+  - UI Improvement: Default: Web search should be opened and "DOI to BibTeX" (or "ISBN to BibTeX") should be selected as default. (refs: handling of minor issues)
 
 # Future
 - Preferences: Structure and Necessity
