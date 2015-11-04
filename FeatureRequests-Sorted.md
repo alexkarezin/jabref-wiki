@@ -441,11 +441,9 @@ The key formatters could be unified with the import and export formatters.
 - Removal of dublicate file links: <http://sourceforge.net/p/jabref/feature-requests/532/>
 - Set specified field for duplicates: <http://sourceforge.net/p/jabref/feature-requests/494/>
 - Duplicate finding: <http://sourceforge.net/p/jabref/feature-requests/500/>
-- merge duplicates: <http://sourceforge.net/p/jabref/feature-requests/882/>
 - database merger: <http://sourceforge.net/p/jabref/feature-requests/425/>
 - Find duplicate by bibtex-key: <http://sourceforge.net/p/jabref/feature-requests/732/>
 - Highlighting differences for comparing duplicates: <http://sourceforge.net/p/jabref/feature-requests/384/>
-- Deselect all duplicates on import: <http://sourceforge.net/p/jabref/feature-requests/315/>
 
 #### Clean my files, URLs and DOIs. 
 - check consistency of doi fields: <http://sourceforge.net/p/jabref/feature-requests/867/>
