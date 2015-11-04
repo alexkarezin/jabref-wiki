@@ -136,16 +136,13 @@ While for text processors (word, LibreOffice), this may be a difficult task, I b
 ### Make it work better with my text editor, please.
 
 - External String Files : <http://sourceforge.net/p/jabref/feature-requests/238/>
-- configurable command for LyX/​Kile : <http://sourceforge.net/p/jabref/feature-requests/197/>
 - Cite while you write : <http://sourceforge.net/p/jabref/feature-requests/371/>
-- choice between \cite{key} and \citep{key} : <http://sourceforge.net/p/jabref/feature-requests/779/>
 - running bibtex : <http://sourceforge.net/p/jabref/feature-requests/59/>
 - Changge default option of Push to external Application for Oo Plugin : <http://sourceforge.net/p/jabref/feature-requests/848/>
 - request: pushing citations in Mac OS X apps : <http://sourceforge.net/p/jabref/feature-requests/74/>
 - Option export style : <http://sourceforge.net/p/jabref/feature-requests/310/>
 - Have database-specific style titles : <http://sourceforge.net/p/jabref/feature-requests/871/>
 - Push citation to emacsclient : <http://sourceforge.net/p/jabref/feature-requests/433/>
-- Alternatives for \cite commands pushed to Emacs : <http://sourceforge.net/p/jabref/feature-requests/242/>
 - Add option for pushing to Emacs use server-start : <http://sourceforge.net/p/jabref/feature-requests/205/>
 
 
