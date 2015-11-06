@@ -22,6 +22,7 @@
   - UI Improvement: Default: Web search should be opened and "DOI to BibTeX" (or "ISBN to BibTeX") should be selected as default. (refs: handling of minor issues)
 - Translations: switch to pull requests
 - SourceForge Tracker: Close/Make ready-only
+- How do we treat http://www.nature.com/news/eight-ways-to-clean-a-digital-library-1.18695 ?
 
 # Future
 - Preferences: Structure and Necessity
