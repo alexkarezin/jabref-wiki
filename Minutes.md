@@ -3,6 +3,7 @@
 - 2.11 released, next version: 3.0
 - Sorting and Output Format: Fix rules vs. only format what has changed
 - Licensing
+- Remove Gitter
 - install4j: jre bundle download over jabref.org; oracle license of bundling jre
 - We release 3.0 on the 12th anniversary on 29 November
 - spin.jar: remove now or with transition to JavaFX?
