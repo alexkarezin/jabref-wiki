@@ -23,6 +23,7 @@
 - Translations: switch to pull requests
 - SourceForge Tracker: Close/Make ready-only
 - How do we treat http://www.nature.com/news/eight-ways-to-clean-a-digital-library-1.18695 ?
+- Search #164 and #104
 
 # Future
 - Preferences: Structure and Necessity
