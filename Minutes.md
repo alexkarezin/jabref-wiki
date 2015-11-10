@@ -13,12 +13,13 @@
 # 2015-11-10
 - Next version: 3.0
   - Yes
-- ~~Remove Gitter~~
+- [x] Remove Gitter
 - install4j: jre bundle download over jabref.org; oracle license of bundling jre
   - It is allowed to bundle and distribute. Use with jabref.org. Maybe use for 3.0?
 - We release 3.0 on the 12th anniversary on 29 November
   - Yes. Create branch on 20.11. for jabref-3.0
-- ~~CircleCI: Automatically run generate-authors.sh? No, must be done manually for consistency reasons.~~
+- [x] CircleCI: Automatically run generate-authors.sh? 
+  - No, must be done manually for consistency reasons.
 - Format whole code according to the new formatting rules? 
   - No, because of `git blame`
 - Sorting and Output Format: Fix rules vs. only format what has changed
