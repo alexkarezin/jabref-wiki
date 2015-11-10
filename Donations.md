@@ -12,5 +12,5 @@ If any reader donated 5$, the developers would only have to invest their free ti
 
 We are aware of the fees at PayPal (~5%) or flattr (~10%).
 If you don't want to pay fees, ask us about our IBAN.
-In case you live in the EU, you can ask about Oliver's private Email Address to [send money for free](https://www.paypal.com/de/webapps/mpp/paypal-fees).
+In case you live in the EU, you can ask for Oliver's private Email Address to [send money for free](https://www.paypal.com/de/webapps/mpp/paypal-fees).
 
