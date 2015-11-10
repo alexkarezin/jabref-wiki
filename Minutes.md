@@ -26,6 +26,7 @@
 - How do we treat http://www.nature.com/news/eight-ways-to-clean-a-digital-library-1.18695 ?
 - Search #164 and #104
   - Also https://github.com/JabRef/jabref/pull/162 ?
+- Pull requests: Codecov auf geforktem Repo? --> Wie können die Studis sehen, ob sie alles "erwischt" haben?
 
 # Future
 - Preferences: Structure and Necessity
