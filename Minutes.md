@@ -13,8 +13,7 @@
 # 2015-11-10
 - Next version: 3.0
   - Yes
-- Remove Gitter
-  - Removed
+- ~~Remove Gitter~~
 - install4j: jre bundle download over jabref.org; oracle license of bundling jre
   - It is allowed to bundle and distribute. Use with jabref.org. Maybe use for 3.0?
 - We release 3.0 on the 12th anniversary on 29 November
