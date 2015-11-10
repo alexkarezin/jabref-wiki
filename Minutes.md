@@ -11,7 +11,7 @@
 - How do we treat http://www.nature.com/news/eight-ways-to-clean-a-digital-library-1.18695 ?
 
 # 2015-11-10
-- Next version: 3.0
+- [x] Next version: 3.0
   - Yes
 - [x] Remove Gitter
 - install4j: jre bundle download over jabref.org; oracle license of bundling jre
@@ -20,7 +20,7 @@
   - Yes. Create branch on 20.11. for jabref-3.0
 - [x] CircleCI: Automatically run generate-authors.sh? 
   - No, must be done manually for consistency reasons.
-- Format whole code according to the new formatting rules? 
+- [x] Format whole code according to the new formatting rules? 
   - No, because of `git blame`
 - Sorting and Output Format: Fix rules vs. only format what has changed
   - Use standard format for new things, keep existing format
@@ -33,7 +33,7 @@
   - Indent: = aligned on one space after longest key
   - Formatter: cleanup on load moved to separate formatter with defaults
   - Tests are required for to implement these! According to `BibtexEntryWriterTest.roundTripTest`. For each entry type and formatting option.
-- spin.jar: remove now or with transition to JavaFX?
+- [x] spin.jar: remove now or with transition to JavaFX?
   - On transition to JavaFX
 - Highlight vs Pinning for marked entries (see preferences -> entry table -> float marked entries ...)
   - Add toggle button for float on/off and move out of preferences menu
@@ -44,9 +44,9 @@
   - native always on without option
 - Translations: switch to pull requests
   - olly asks @mlep
-- SourceForge Tracker: Close/Make ready-only
+- [x] SourceForge Tracker: Close/Make ready-only
   - is already read only
-- Pull requests: Codecov auf geforktem Repo? --> Wie können die Studis sehen, ob sie alles "erwischt" haben?
+- [x] Pull requests: Codecov auf geforktem Repo? --> Wie können die Studis sehen, ob sie alles "erwischt" haben?
   - EclEmma in Eclipse or simply in IntelliJ IDEA
 - Search #164 and #104
   - Also https://github.com/JabRef/jabref/pull/162 ?
