@@ -9,6 +9,9 @@
   - Distinguish between simple "fetch by key" and free keyword search? Different menu items?
   - UI Improvement: Default: Web search should be opened and "DOI to BibTeX" (or "ISBN to BibTeX") should be selected as default. (refs: handling of minor issues)
 - How do we treat http://www.nature.com/news/eight-ways-to-clean-a-digital-library-1.18695 ?
+- Use online instead of offline help files? (add by Matthias)
+  - Pros: Easier to update, easier to add translations
+  - Cons: Internet access required (but can be assumed nowadays?)
 
 # 2015-11-10
 - [x] Next version: 3.0
