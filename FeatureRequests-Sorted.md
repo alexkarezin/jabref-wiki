@@ -10,13 +10,6 @@
 - For some requests, I could not find a dedicated category. So they go to the Section Uncategorized.
 - An idea: students could be given a group of feature requests to be integrated, so that they can concentrate on some parts of the software.
 
-
-## Advocacy to launch a survey
-- One may postulate that more requests on a given subject implies a higher priority.
-However, less request does not imply lower priority: a fantastic idea may have appeared in only one mind (you may find it in the category "Uncategorized...". So...
-- Users know what they want better than us. Do they use JabRef as we think they do? How many use LaTeX? What other things do they do with JabRef? 
-
-
 ## Main issues found in the feature requests
 
 Note: no particular order.
