@@ -1,5 +1,6 @@
 ## Preliminary remarks
 
+- This list sorts https://sourceforge.net/p/jabref/feature-requests/ and does not take into account features reported via GitHub (see https://github.com/JabRef/jabref/labels/feature). The goal is to ease treatment of "old" feature requests, which should not get lost along the way.
 - Not a bullet-proof analysis. Just intended to be helpful in defining where to go.
 - Not to point at a specific request to be implemented, but to organize the wishes.
 - Classification based on my own perception of the main issues mentionned in the requests.
