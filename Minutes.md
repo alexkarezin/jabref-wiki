@@ -12,6 +12,9 @@
 - Use online instead of offline help files? (add by Matthias)
   - Pros: Easier to update, easier to add translations
   - Cons: Internet access required (but can be assumed nowadays?)
+- Search -> postpone to JavaFX?
+- Add section about current dev-strategy to wiki?
+- Unique selling point: customization in JabRef?
 
 # 2015-11-10
 - [x] Next version: 3.0
