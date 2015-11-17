@@ -8,6 +8,7 @@
 - Fetchers/Web Search:
   - Distinguish between simple "fetch by key" and free keyword search? Different menu items?
   - UI Improvement: Default: Web search should be opened and "DOI to BibTeX" (or "ISBN to BibTeX") should be selected as default. (refs: handling of minor issues)
+  - UI Improvement: "Add entry": Should we add "from DOI", "from ISBN" ... there? Maybe move all the non-search fetchers to there?!
 - How do we treat http://www.nature.com/news/eight-ways-to-clean-a-digital-library-1.18695 ?
 - Use online instead of offline help files? (add by Matthias)
   - Pros: Easier to update, easier to add translations
