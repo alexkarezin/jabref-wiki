@@ -15,6 +15,7 @@
 - Search -> postpone to JavaFX?
 - Add section about current dev-strategy to wiki?
 - Unique selling point: customization in JabRef?
+- Do we want [![Feature Requests](http://feathub.com/JabRef/jabref?format=svg)](http://feathub.com/JabRef/jabref)? (svg might not be displayed?!)
 
 # 2015-11-10
 - [x] Next version: 3.0
