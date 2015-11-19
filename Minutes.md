@@ -1,5 +1,6 @@
 # Next TelCo
 - Licensing
+  - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
 - jabref.org
 - must be implemented "vernünftig (matthias)" "Entry table -> fit table horizontally ...."
 - Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
