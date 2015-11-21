@@ -20,6 +20,7 @@
 - Do we want [![Feature Requests](http://feathub.com/JabRef/jabref?format=svg)](http://feathub.com/JabRef/jabref)? (svg might not be displayed?!)
 - STUPRO: test strategy for the importers: compare with bibtex serialization instead of a long list of assertEquals statements? use a single class which in the end ensures that only the right importers can recognize the right file using all available test files for this (which can only be done after all importer tests were made)
 - Formatting: Tags everywhere (why??), strange behavior in some PRs with indentation
+- https://github.com/koppor/jabref/issues/36
 
 # 2015-11-10
 - [x] Next version: 3.0
