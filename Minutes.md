@@ -18,9 +18,13 @@
 - Add section about current dev-strategy to wiki?
 - Unique selling point: customization in JabRef?
 - Do we want [![Feature Requests](http://feathub.com/JabRef/jabref?format=svg)](http://feathub.com/JabRef/jabref)? (svg might not be displayed?!)
-- STUPRO: test strategy for the importers: compare with bibtex serialization instead of a long list of assertEquals statements? use a single class which in the end ensures that only the right importers can recognize the right file using all available test files for this (which can only be done after all importer tests were made)
+- STUPRO: test strategy for the importers: 
+  - compare with bibtex serialization instead of a long list of assertEquals statements?
+    - see https://github.com/JabRef/jabref/blob/gvk_fetcher/src/test/java/net/sf/jabref/importer/fetcher/GVKParserTest.java (discussion at https://github.com/JabRef/jabref/pull/378)
+  - use a single class which in the end ensures that only the right importers can recognize the right file using all available test files for this (which can only be done after all importer tests were made)
 - Formatting: Tags everywhere (why??), strange behavior in some PRs with indentation
 - https://github.com/koppor/jabref/issues/36
+- https://github.com/koppor/jabref/issues/34
 
 # 2015-11-10
 - [x] Next version: 3.0
