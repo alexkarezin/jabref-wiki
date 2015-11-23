@@ -1,30 +1,50 @@
 # Next TelCo
+
 - Licensing
   - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
-- jabref.org
 - must be implemented "vernünftig (matthias)" "Entry table -> fit table horizontally ...."
+- XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
+
+# 2015-11-23
+- jabref.org
+  - works now
 - Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
   - Solution: Remove icon on the left; Remove "Download"; Auto: if not found, say "not found. please input URL <input field>. [OK] [CANCEL]"; 
-- XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266))
+  - For a single entry: Look up full text document in local folder, Look up full text document in web, Download document from URL (also check what Tools -> lookup full text document)
+  - For a bunch of entries: Synchronize (combination of find unlinked and automatically set file links)  
 - Fetchers/Web Search:
   - Distinguish between simple "fetch by key" and free keyword search? Different menu items?
   - UI Improvement: Default: Web search should be opened and "DOI to BibTeX" (or "ISBN to BibTeX") should be selected as default. (refs: handling of minor issues)
   - UI Improvement: "Add entry": Should we add "from DOI", "from ISBN" ... there? Maybe move all the non-search fetchers to there?!
+  - @koppor creates issue
 - How do we treat http://www.nature.com/news/eight-ways-to-clean-a-digital-library-1.18695 ?
+  - done, no reaction
 - Use online instead of offline help files? (add by Matthias)
   - Pros: Easier to update, easier to add translations
   - Cons: Internet access required (but can be assumed nowadays?)
-- Search -> postpone to JavaFX?
+  - For 3.0: Update documentation rudimentary
+  - For 3.1+: Online + markdown + own repository
+- Search
+  - Concurrency Bug
+  - Documentation
 - Add section about current dev-strategy to wiki?
+  - done
 - Unique selling point: customization in JabRef?
+  - we know it
 - Do we want [![Feature Requests](http://feathub.com/JabRef/jabref?format=svg)](http://feathub.com/JabRef/jabref)? (svg might not be displayed?!)
+  - Too early, maybe later when JabRef is more mature.
 - STUPRO: test strategy for the importers: 
   - compare with bibtex serialization instead of a long list of assertEquals statements?
     - see https://github.com/JabRef/jabref/blob/gvk_fetcher/src/test/java/net/sf/jabref/importer/fetcher/GVKParserTest.java (discussion at https://github.com/JabRef/jabref/pull/378)
   - use a single class which in the end ensures that only the right importers can recognize the right file using all available test files for this (which can only be done after all importer tests were made)
+    - by team leader to be organized
+  - done with canonical serialization format for bibtex entries, suggestion in GVK branch, should be used for testing
 - Formatting: Tags everywhere (why??), strange behavior in some PRs with indentation
+  - should be reduced, maybe through better language script
 - https://github.com/koppor/jabref/issues/36
+  - done
 - https://github.com/koppor/jabref/issues/34
+  - done
 
 # 2015-11-10
 - [x] Next version: 3.0
