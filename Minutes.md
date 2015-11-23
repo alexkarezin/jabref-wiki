@@ -31,7 +31,7 @@
   - done
 - Unique selling point: customization in JabRef?
   - we know it
-- Do we want [![Feature Requests](http://feathub.com/JabRef/jabref?format=svg)](http://feathub.com/JabRef/jabref)? (svg might not be displayed?!)
+- Do we want http://feathub.com/JabRef/jabref (svg might not be displayed?!)
   - Too early, maybe later when JabRef is more mature.
 - STUPRO: test strategy for the importers: 
   - compare with bibtex serialization instead of a long list of assertEquals statements?
