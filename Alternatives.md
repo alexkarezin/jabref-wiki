@@ -20,11 +20,13 @@ Some of them are not listed at WikiPedia.
 * [Docear](http://www.docear.org/), successor of http://www.sciplore.org
  * Friendly fork of JabRef. Source: https://github.com/Docear
  * https://github.com/stlanger/Docear seems to be another fork
-* [org-bibref](https://gitorious.org/org-bibref), plugin for EMACS
 * [ebib](https://github.com/joostkremers/ebib), plugin für EMACS
+* [org-bibref](https://gitorious.org/org-bibref), plugin for EMACS
+* [sixpack](http://sourceforge.net/projects/sixpack/) - development discontinued
 
 ## Linux
 * [KBibTeX](http://home.gna.org/kbibtex/)
+* [Pybliographer](http://pybliographer.org/), a GNOME application
 * [Referencer](https://launchpad.net/referencer), a GNOME application
 
 ## Mac OS X
@@ -41,6 +43,7 @@ Some of them are not listed at WikiPedia.
 * [EndNote](http://endnote.com/product-details/basic)
 * [Zotoro](https://www.zotero.org/)
  * Recommended plugin: [Zotero: Better Bib(La)TeX (BBT)](https://github.com/ZotPlus/zotero-better-bibtex)
+ * Integration with JabRef: [FireBib Firefox Addon](https://github.com/tobiasdiez/Jabref-FirefoxAddon)
 
 ## Collaborative
 
