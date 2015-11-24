@@ -7,6 +7,8 @@ Feel free to add something. We are open to suggestions for including tools in ou
 
 [@Jürgens2010], [@Steidl2013], [@Steidl2014]
 
+[Usage in debian installations](https://qa.debian.org/popcon-graph.php?packages=jabref&show_installed=on&show_vote=on&show_old=on&want_legend=on&want_ticks=on&from_date=&to_date=&hlght_date=&date_fmt=%25Y-%25m&beenhere=1).
+
 ## Meta
 [@Tramullas2015] lists all papers evaluating literature management software.
 
