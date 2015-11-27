@@ -4,6 +4,8 @@
   - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
 - must be implemented "vernünftig (matthias)" "Entry table -> fit table horizontally ...."
 - XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
+- Look-and-Feel: Use Metal for Linux as default because other LaF fail when used with openjdk?
+
 
 # 2015-11-23
 - jabref.org
