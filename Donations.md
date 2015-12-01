@@ -8,6 +8,7 @@ This page lists how we intend to use the donations:
 * Payment of developers for adding features. See [How to proceed with the development of the Docear4LibreOffice add-on](http://www.docear.org/2014/10/23/how-to-proceed-with-the-development-of-the-docear4libreoffice-add-on/) for a similar discussion.
 * Coverage of food and drinks during hacking sessions
 
+Please use [this Amazon link](http://www.amazon.de/b?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&node=13690631&site-redirect=de&tag=jabref-21) to start your Amazon ordering. This gives us funding without any additional costs for you!
 
 If any reader donated 5$, the developers would only have to invest their free time and not any material goods for JabRef development.
 
