@@ -7,7 +7,7 @@ Please use [this Amazon link](http://www.amazon.de/b?_encoding=UTF8&camp=1638&cr
 
 In case you want to **donate regularly**, please visit http://www.jabref.org/donations.
 
-If every reader donated **5$**, the developers would only have to invest their free time and not any material goods for JabRef development.
+If every reader donated **5€**, the developers would only have to invest their free time and not any material goods for JabRef development.
 
 We are aware of the fees at PayPal (~5%) or flattr (~10%).
 If you don't want to pay fees, ask us about our IBAN.
