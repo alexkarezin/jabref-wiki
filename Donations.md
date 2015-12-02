@@ -3,13 +3,11 @@
 [![PayPal Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://www.paypal.com/cgi-bin/webscr?item_name=JabRef+Bibliography+Manager&cmd=_donations&lc=US&currency_code=EUR&business=jabrefmail%40gmail.com)
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=koppor&url=https%3A%2F%2Fgithub.com%2FJabRef%2Fjabref&title=JabRef&language=Java&tags=github&category=software)
 
-Please use [this Amazon link](http://www.amazon.de/b?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&node=13690631&site-redirect=de&tag=jabref-21) to start your Amazon ordering. This gives us funding without any additional costs for you!
-
-Alternatively, visit [our sponsors](http://www.jabref.org/#backing).
+Please use [this Amazon link](http://www.amazon.de/b?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&node=13690631&site-redirect=de&tag=jabref-21) to start your Amazon ordering. This gives us funding without any additional costs for you! Alternatively, visit [our sponsors](http://www.jabref.org/#backing).
 
 In case you want to **donate regularly**, please visit http://www.jabref.org/donations.
 
-If any reader donated 5$, the developers would only have to invest their free time and not any material goods for JabRef development.
+If every reader donated **5$**, the developers would only have to invest their free time and not any material goods for JabRef development.
 
 We are aware of the fees at PayPal (~5%) or flattr (~10%).
 If you don't want to pay fees, ask us about our IBAN.
