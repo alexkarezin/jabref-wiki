@@ -7,7 +7,7 @@ Please use [this Amazon link](http://www.amazon.de/b?_encoding=UTF8&camp=1638&cr
 
 Alternatively, visit [our sponsors](http://www.jabref.org/#backing).
 
-In case you want to donate regularly, please visit http://www.jabref.org/donations.
+In case you want to **donate regularly**, please visit http://www.jabref.org/donations.
 
 If any reader donated 5$, the developers would only have to invest their free time and not any material goods for JabRef development.
 
