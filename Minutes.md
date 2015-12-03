@@ -3,15 +3,16 @@
 - [ ] Look-and-Feel: Use Metal for Linux as default because other LaF fail when used with openjdk?
 - [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
 - [ ] https://github.com/JabRef/jabref/issues/447 -> Handling of BibTeXEntryTypes
-- [ ] Licensing
-  - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
-- [ ] must be implemented "vernünftig (matthias)" "Entry table -> fit table horizontally ...."
-- [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
-- [ ] sponsoring: what defines a sponsor?
 - [ ] bibtex/biblatex handling + fetcher - what is the strategy behind this?
 - [ ] When should 3.1 be released?
 - [ ] Log output of exceptions: `LOGGER.debug("msg", e");` vs `LOGGER.debug("msg" + e.getMessage());`
 - [ ] Each bibtex entry should store a latex-free version of its fields for searching and passing to search engines. Add wrapper to be able to change default returns of getField to latex-free version of the field value.
+- [ ] https://github.com/JabRef/jabref/pull/391 - How are we dealing with linebreaks? CRLF vs. LF? When the bib file uses CRLF, the user has set "LF" as separator, and the user changes something, the updated entry is written using `LF`, whereas the other parts of the file are written using `CRLF`. This leads to a mix of CRLF and LF, which is not professional.
+- [ ] sponsoring: what defines a sponsor?
+- [ ] must be implemented "vernünftig (matthias)" "Entry table -> fit table horizontally ...."
+- [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
+- [ ] Licensing
+  - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
 
 # 2015-11-23
 - jabref.org
