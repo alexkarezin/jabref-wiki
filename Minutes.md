@@ -11,7 +11,7 @@
 - [ ] bibtex/biblatex handling + fetcher - what is the strategy behind this?
 - [ ] When should 3.1 be released?
 - [ ] Log output of exceptions: `LOGGER.debug("msg", e");` vs `LOGGER.debug("msg" + e.getMessage());`
-- [ ] Each bibtex entry should store a latex-free version of its fields for searching and passing to search engines
+- [ ] Each bibtex entry should store a latex-free version of its fields for searching and passing to search engines. Add wrapper to be able to change default returns of getField to latex-free version of the field value.
 
 # 2015-11-23
 - jabref.org
