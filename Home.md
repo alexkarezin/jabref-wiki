@@ -12,7 +12,6 @@ Old wiki with more information: https://sourceforge.net/p/jabref/wiki/Main_Page/
 ## Development Information
 
  * [Setup a local Workspace - step-by-step](Guidelines-for-setting-up-a-local-workspace)
- * [Developer landing page](https://sourceforge.net/p/jabref/wiki/Developing_and_extending_JabRef/)
  * [[Code Howtos]]
  * [Sync your fork with the JabRef repository](https://help.github.com/articles/syncing-a-fork/)
 
