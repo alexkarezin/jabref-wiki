@@ -2,6 +2,7 @@
 
 - [ ] Look-and-Feel: Use Metal for Linux as default because other LaF fail when used with openjdk?
 - [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
+- [ ] Should we add [Objects.requireNonNull](https://docs.oracle.com/javase/8/docs/api/java/util/Objects.html#requireNonNull-T-) to the code howtos
 - [ ] https://github.com/JabRef/jabref/issues/447 -> Handling of BibTeXEntryTypes
 - [ ] bibtex/biblatex handling + fetcher - what is the strategy behind this?
 - [ ] When should 3.1 be released?
