@@ -2,8 +2,8 @@
 
 - [ ] Look-and-Feel: Use Metal for Linux as default because other LaF fail when used with openjdk?
 - [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
-- [ ] Should we add [Objects.requireNonNull](https://docs.oracle.com/javase/8/docs/api/java- [ ] Log output of exceptions: `LOGGER.debug("msg", e");` vs `LOGGER.debug("msg" + e.getMessage());` vs `LOGGER.error("runCommand error: " + ex.getMessage(), ex)`
-/util/Objects.html#requireNonNull-T-) to the code howtos
+- [ ] Should we add [Objects.requireNonNull](https://docs.oracle.com/javase/8/docs/api/java/util/Objects.html#requireNonNull-T-) to the code howtos?
+- [ ] Log output of exceptions: `LOGGER.debug("msg", e");` vs `LOGGER.debug("msg" + e.getMessage());` vs `LOGGER.error("runCommand error: " + ex.getMessage(), ex)`
 - [ ] https://github.com/JabRef/jabref/issues/447 -> Handling of BibTeXEntryTypes
 - [ ] Each bibtex entry should store a latex-free version of its fields for searching and passing to search engines. Add wrapper to be able to change default returns of getField to latex-free version of the field value.
 - [ ] https://github.com/JabRef/jabref/pull/391 - How are we dealing with linebreaks? CRLF vs. LF? When the bib file uses CRLF, the user has set "LF" as separator, and the user changes something, the updated entry is written using `LF`, whereas the other parts of the file are written using `CRLF`. This leads to a mix of CRLF and LF, which is not professional.
