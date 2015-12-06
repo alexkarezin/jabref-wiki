@@ -9,6 +9,7 @@
 - [ ] https://github.com/JabRef/jabref/pull/391 - How are we dealing with linebreaks? CRLF vs. LF? When the bib file uses CRLF, the user has set "LF" as separator, and the user changes something, the updated entry is written using `LF`, whereas the other parts of the file are written using `CRLF`. This leads to a mix of CRLF and LF, which is not professional.
 - [ ] bibtex/biblatex handling + fetcher - what is the strategy behind this?
 - [ ] biblatex: journal as alias for journalTitle. How to treat?
+- [ ] https://github.com/JabRef/jabref/pull/472 - non-empty fields in the main table also for `@Book`.
 - [ ] must be implemented "vernünftig (matthias)" "Entry table -> fit table horizontally ...."
 - [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
 - [ ] When should 3.1 be released?
