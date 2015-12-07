@@ -17,6 +17,7 @@
 - [ ] sponsoring: what defines a sponsor?
 - [ ] Licensing
   - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
+- [ ] #483: Should we fix erroneous bibtex files?
 
 # 2015-11-23
 - jabref.org
