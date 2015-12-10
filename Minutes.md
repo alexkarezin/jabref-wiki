@@ -1,7 +1,6 @@
 # Next TelCo
 - [ ] Last telco items done?
 - [ ] Badge Wahnsinn inside README file
-- [ ] Issues at koppor/jabref create another issue repo. I think one tracker is enough and issues are important or not.
 - [ ] Look-and-Feel: Use Metal for Linux as default because other LaF fail when used with openjdk?
 - [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
 - [ ] Should we add [Objects.requireNonNull](https://docs.oracle.com/javase/8/docs/api/java/util/Objects.html#requireNonNull-T-) to the code howtos?
@@ -16,6 +15,7 @@
 - [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
 - [ ] When should 3.1 be released?
 - [ ] koppor/jabref/issues vs. JabRef/issues. Should JabRef/issues the primary repo? (see https://github.com/JabRef/jabref/issues/455#issuecomment-161713097 - which says "no" to that)? Should we point users to koppor/jabref? (That was NOT the real intention). Should we close down koppor/issues (and have 100+ open issues at JabRef/issues)? Leave everything as is, but have JabRef/issues as main issue repo?
+- [ ] Issues at koppor/jabref create another issue repo. I think one tracker is enough and issues are important or not.
 - [ ] sponsoring: what defines a sponsor?
 - [ ] Licensing
   - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
