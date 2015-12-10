@@ -1,4 +1,5 @@
 # Next TelCo
+- [ ] Last telco items done?
 - [ ] Badge Wahnsinn inside README file
 - [ ] Issues at koppor/jabref create another issue repo. I think one tracker is enough and issues are important or not.
 - [ ] Look-and-Feel: Use Metal for Linux as default because other LaF fail when used with openjdk?
