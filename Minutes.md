@@ -22,44 +22,44 @@
 - [ ] #483: Should we fix erroneous bibtex files?
 
 # 2015-11-23
-- jabref.org
+- [x] jabref.org
   - works now
-- Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
+- [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
   - Solution: Remove icon on the left; Remove "Download"; Auto: if not found, say "not found. please input URL <input field>. [OK] [CANCEL]"; 
-  - For a single entry: Look up full text document in local folder, Look up full text document in web, Download document from URL (also check what Tools -> lookup full text document)
-  - For a bunch of entries: Synchronize (combination of find unlinked and automatically set file links)  
-- Fetchers/Web Search:
+  - [ ] For a single entry: Look up full text document in local folder, Look up full text document in web, Download document from URL (also check what Tools -> lookup full text document)
+  - [ ] For a bunch of entries: Synchronize (combination of find unlinked and automatically set file links)  
+- [ ] Fetchers/Web Search:
   - Distinguish between simple "fetch by key" and free keyword search? Different menu items?
-  - UI Improvement: Default: Web search should be opened and "DOI to BibTeX" (or "ISBN to BibTeX") should be selected as default. (refs: handling of minor issues)
-  - UI Improvement: "Add entry": Should we add "from DOI", "from ISBN" ... there? Maybe move all the non-search fetchers to there?!
+  - [ ] UI Improvement: Default: Web search should be opened and "DOI to BibTeX" (or "ISBN to BibTeX") should be selected as default. (refs: handling of minor issues)
+  - [ ] UI Improvement: "Add entry": Should we add "from DOI", "from ISBN" ... there? Maybe move all the non-search fetchers to there?!
   - @koppor creates issue
-- How do we treat http://www.nature.com/news/eight-ways-to-clean-a-digital-library-1.18695 ?
+- [x] How do we treat http://www.nature.com/news/eight-ways-to-clean-a-digital-library-1.18695 ?
   - done, no reaction
-- Use online instead of offline help files? (add by Matthias)
+- [ ] Use online instead of offline help files? (add by Matthias)
   - Pros: Easier to update, easier to add translations
   - Cons: Internet access required (but can be assumed nowadays?)
   - For 3.0: Update documentation rudimentary
   - For 3.1+: Online + markdown + own repository
-- Search
+- [ ] Search
   - Concurrency Bug
   - Documentation
-- Add section about current dev-strategy to wiki?
+- [x] Add section about current dev-strategy to wiki?
   - done
-- Unique selling point: customization in JabRef?
+- [x] Unique selling point: customization in JabRef?
   - we know it
 - [x] Do we want http://feathub.com/JabRef/jabref (svg might not be displayed?!)
   - Too early, maybe later when JabRef is more mature.
-- STUPRO: test strategy for the importers: 
+- [ ] STUPRO: test strategy for the importers: 
   - compare with bibtex serialization instead of a long list of assertEquals statements?
     - see https://github.com/JabRef/jabref/blob/gvk_fetcher/src/test/java/net/sf/jabref/importer/fetcher/GVKParserTest.java (discussion at https://github.com/JabRef/jabref/pull/378)
   - use a single class which in the end ensures that only the right importers can recognize the right file using all available test files for this (which can only be done after all importer tests were made)
     - by team leader to be organized
   - done with canonical serialization format for bibtex entries, suggestion in GVK branch, should be used for testing
-- Formatting: Tags everywhere (why??), strange behavior in some PRs with indentation
+- [ ] Formatting: Tags everywhere (why??), strange behavior in some PRs with indentation
   - should be reduced, maybe through better language script
-- https://github.com/koppor/jabref/issues/36
+- [x] https://github.com/koppor/jabref/issues/36
   - done
-- https://github.com/koppor/jabref/issues/34
+- [x] https://github.com/koppor/jabref/issues/34
   - done
 
 # 2015-11-10
@@ -68,13 +68,13 @@
 - [x] Remove Gitter
 - install4j: jre bundle download over jabref.org; oracle license of bundling jre
   - It is allowed to bundle and distribute. Use with jabref.org. Maybe use for 3.0?
-- We release 3.0 on the 12th anniversary on 29 November
+- [x] We release 3.0 on the 12th anniversary on 29 November
   - Yes. Create branch on 20.11. for jabref-3.0
 - [x] CircleCI: Automatically run generate-authors.sh? 
   - No, must be done manually for consistency reasons.
 - [x] Format whole code according to the new formatting rules? 
   - No, because of `git blame`
-- Sorting and Output Format: Fix rules vs. only format what has changed
+- [ ] Sorting and Output Format: Fix rules vs. only format what has changed
   - Use standard format for new things, keep existing format
   - Sorting Strategy of Entries: change as little as possible on load/save-cycle; no sort; insert on new entries on bottom
   - New entries: write with fixed format, but for existing files use
@@ -87,20 +87,20 @@
   - Tests are required for to implement these! According to `BibtexEntryWriterTest.roundTripTest`. For each entry type and formatting option.
 - [x] spin.jar: remove now or with transition to JavaFX?
   - On transition to JavaFX
-- Highlight vs Pinning for marked entries (see preferences -> entry table -> float marked entries ...)
+- [ ] Highlight vs Pinning for marked entries (see preferences -> entry table -> float marked entries ...)
   - Add toggle button for float on/off and move out of preferences menu
-- New default setting for `Use native file dialog`: `Yes`? Should we remove that option completely?
+- [ ] New default setting for `Use native file dialog`: `Yes`? Should we remove that option completely?
   - native: java icon, but right-click as usual (on Mac OS X really better than our dialog)
   - our dialog: jabref icon, but right-click only our options
   - (Windows) sieht sonst ziemlich gleich aus
   - native always on without option
-- Translations: switch to pull requests
+- [ ] Translations: switch to pull requests
   - olly asks @mlep
 - [x] SourceForge Tracker: Close/Make ready-only
   - is already read only
 - [x] Pull requests: Codecov auf geforktem Repo? --> Wie können die Studis sehen, ob sie alles "erwischt" haben?
   - EclEmma in Eclipse or simply in IntelliJ IDEA
-- Search #164 and #104
+- [ ] Search #164 and #104
   - Also https://github.com/JabRef/jabref/pull/162 ?
   - Remove incremental, filter, always live on, select matches, autocomplete always on
 
