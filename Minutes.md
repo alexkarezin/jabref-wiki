@@ -1,4 +1,5 @@
 # Next TelCo
+- [ ] Badge Wahnsinn inside README file
 - [ ] Issues at koppor/jabref create another issue repo. I think one tracker is enough and issues are important or not.
 - [ ] Look-and-Feel: Use Metal for Linux as default because other LaF fail when used with openjdk?
 - [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
