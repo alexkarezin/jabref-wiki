@@ -101,7 +101,7 @@
   - is already read only
 - [x] Pull requests: Codecov auf geforktem Repo? --> Wie können die Studis sehen, ob sie alles "erwischt" haben?
   - EclEmma in Eclipse or simply in IntelliJ IDEA
-- [ ] Search #164 and #104
+- [x] Search #164 and #104
   - Also https://github.com/JabRef/jabref/pull/162 ?
   - Remove incremental, filter, always live on, select matches, autocomplete always on
 
