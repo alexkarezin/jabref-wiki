@@ -1,6 +1,7 @@
 # Next TelCo
 - [ ] Last telco items done?
 - [ ] Badge Wahnsinn inside README file
+- [ ] travis-ci reactivating because CircleCI cannot automatically inform the committer of a failing commit. This is annoying, especially for the stupro as well as PRs. We should add travis-ci only for executing the tests (which is fast, compared to building the binaries and other checks)
 - [ ] Look-and-Feel: Use Metal for Linux as default because other LaF fail when used with openjdk?
 - [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
 - [ ] Should we add [Objects.requireNonNull](https://docs.oracle.com/javase/8/docs/api/java/util/Objects.html#requireNonNull-T-) to the code howtos?
