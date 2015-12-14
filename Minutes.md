@@ -41,7 +41,7 @@
   - Cons: Internet access required (but can be assumed nowadays?)
   - For 3.0: Update documentation rudimentary
   - For 3.1+: Online + markdown + own repository
-- [ ] Search
+- [x] Search
   - Concurrency Bug
   - Documentation
 - [x] Add section about current dev-strategy to wiki?
@@ -90,7 +90,7 @@
   - On transition to JavaFX
 - [ ] Highlight vs Pinning for marked entries (see preferences -> entry table -> float marked entries ...)
   - Add toggle button for float on/off and move out of preferences menu
-- [ ] New default setting for `Use native file dialog`: `Yes`? Should we remove that option completely?
+- [x] New default setting for `Use native file dialog`: `Yes`? Should we remove that option completely?
   - native: java icon, but right-click as usual (on Mac OS X really better than our dialog)
   - our dialog: jabref icon, but right-click only our options
   - (Windows) sieht sonst ziemlich gleich aus
