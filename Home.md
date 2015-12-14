@@ -8,6 +8,7 @@ Old wiki with more information: https://sourceforge.net/p/jabref/wiki/Main_Page/
 ## General Information
 * [[Donations]]: Usage of donations
 * [[Development Strategy]]: How we are currently pushing JabRef forward
+* [[High-Level-Documentation]]: The absolute essence of technical documentation
 
 ## Development Information
 
