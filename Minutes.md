@@ -1,4 +1,6 @@
 # Next TelCo
+
+# 2015-12-15
 - [ ] Last telco items done?
 - [ ] Badge Wahnsinn inside README file
 - [ ] travis-ci reactivating because CircleCI cannot automatically inform the committer of a failing commit. This is annoying, especially for the stupro as well as PRs. We should add travis-ci only for executing the tests (which is fast, compared to building the binaries and other checks)
