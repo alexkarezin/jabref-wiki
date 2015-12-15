@@ -1,46 +1,73 @@
 # Next TelCo
-
-# 2015-12-15
-- [ ] Last telco items done?
-- [ ] Badge Wahnsinn inside README file
-- [ ] travis-ci reactivating because CircleCI cannot automatically inform the committer of a failing commit. This is annoying, especially for the stupro as well as PRs. We should add travis-ci only for executing the tests (which is fast, compared to building the binaries and other checks)
-- [ ] Look-and-Feel: Use Metal for Linux as default because other LaF fail when used with openjdk?
-- [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
-- [ ] Should we add [Objects.requireNonNull](https://docs.oracle.com/javase/8/docs/api/java/util/Objects.html#requireNonNull-T-) to the code howtos?
-- [ ] Log output of exceptions: `LOGGER.debug("msg", e");` vs `LOGGER.debug("msg" + e.getMessage());` vs `LOGGER.error("runCommand error: " + ex.getMessage(), ex)`
-- [ ] https://github.com/JabRef/jabref/issues/447 -> Handling of BibTeXEntryTypes
-- [ ] Each bibtex entry should store a latex-free version of its fields for searching and passing to search engines. Add wrapper to be able to change default returns of getField to latex-free version of the field value.
-- [ ] https://github.com/JabRef/jabref/pull/391 - How are we dealing with linebreaks? CRLF vs. LF? When the bib file uses CRLF, the user has set "LF" as separator, and the user changes something, the updated entry is written using `LF`, whereas the other parts of the file are written using `CRLF`. This leads to a mix of CRLF and LF, which is not professional.
-- [ ] bibtex/biblatex handling + fetcher - what is the strategy behind this?
-- [ ] biblatex: journal as alias for journalTitle. How to treat?
-- [ ] https://github.com/JabRef/jabref/pull/472 - non-empty fields in the main table also for `@Book`.
-- [ ] must be implemented "vernünftig (matthias)" "Entry table -> fit table horizontally ...."
-- [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
-- [ ] When should 3.1 be released?
-- [ ] koppor/jabref/issues vs. JabRef/issues. Should JabRef/issues the primary repo? (see https://github.com/JabRef/jabref/issues/455#issuecomment-161713097 - which says "no" to that)? Should we point users to koppor/jabref? (That was NOT the real intention). Should we close down koppor/issues (and have 100+ open issues at JabRef/issues)? Leave everything as is, but have JabRef/issues as main issue repo?
-- [ ] Issues at koppor/jabref create another issue repo. I think one tracker is enough and issues are important or not.
-- [ ] sponsoring: what defines a sponsor?
-- [ ] Licensing
-  - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
-- [ ] #483: Should we fix erroneous bibtex files?
-- [ ] PR status?
-- [ ] v3.1 issue status
-
-# 2015-11-23
-- [x] jabref.org
-  - works now
+- [ ] Use online instead of offline help files?
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
   - Solution: Remove icon on the left; Remove "Download"; Auto: if not found, say "not found. please input URL <input field>. [OK] [CANCEL]"; 
   - [ ] For a single entry: Look up full text document in local folder, Look up full text document in web, Download document from URL (also check what Tools -> lookup full text document)
   - [ ] For a bunch of entries: Synchronize (combination of find unlinked and automatically set file links)  
-- [ ] Fetchers/Web Search:
+- [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
+- [ ] must be implemented "vernünftig (matthias)" "Entry table -> fit table horizontally ...."
+- [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
+- [ ] Licensing
+  - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
+- [ ] PR status?
+- [ ] v3.1 issue status
+
+# 2015-12-15
+- [x] Last telco items done?
+- [x] Badge Wahnsinn inside README file
+- [x] travis-ci reactivating because CircleCI cannot automatically inform the committer of a failing commit. This is annoying, especially for the stupro as well as PRs. We should add travis-ci only for executing the tests (which is fast, compared to building the binaries and other checks)
+- [x] Look-and-Feel: Use Metal for Linux as default because other LaF fail when used with openjdk?
+- [x] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
+- [x] Should we add [Objects.requireNonNull](https://docs.oracle.com/javase/8/docs/api/java/util/Objects.html#requireNonNull-T-) to the code howtos?
+- [x] Log output of exceptions: `LOGGER.debug("msg", e);` vs `LOGGER.debug("msg" + e.getMessage());` vs `LOGGER.error("runCommand error: " + ex.getMessage(), ex)`
+- [x] https://github.com/JabRef/jabref/issues/447 -> Handling of BibTeXEntryTypes
+- [x] Each bibtex entry should store a latex-free version of its fields for searching and passing to search engines. Add wrapper to be able to change default returns of getField to latex-free version of the field value.: `getField` and `getFieldRaw`. See https://github.com/JabRef/jabref/issues/518
+- [x] https://github.com/JabRef/jabref/pull/391 - How are we dealing with linebreaks? CRLF vs. LF? When the bib file uses CRLF, the user has set "LF" as separator, and the user changes something, the updated entry is written using `LF`, whereas the other parts of the file are written using `CRLF`. This leads to a mix of CRLF and LF, which is not professional.
+  - Discussion: always LF vs. configurable CR/LF.
+  - Keep as is. Mixed cases seem to appear very rarely.
+- [x] bibtex/biblatex handling + fetcher - what is the strategy behind this?
+  - Each fetcher has to take care
+- [x] biblatex: journal as alias for journalTitle. How to treat?
+- [x] https://github.com/JabRef/jabref/pull/472 - non-empty fields in the main table also for `@Book`.
+- [x] must be implemented "vernünftig (matthias)" "Entry table -> fit table horizontally ...."
+- [x] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
+- [x] koppor/jabref/issues vs. JabRef/issues. Should JabRef/issues the primary repo? (see https://github.com/JabRef/jabref/issues/455#issuecomment-161713097 - which says "no" to that)? Should we point users to koppor/jabref? (That was NOT the real intention). Should we close down koppor/issues (and have 100+ open issues at JabRef/issues)? Leave everything as is, but have JabRef/issues as main issue repo?
+- [x] Issues at koppor/jabref create another issue repo. I think one tracker is enough and issues are important or not.
+- [x] sponsoring: what defines a sponsor?
+- [x] Licensing
+  - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
+- [x] https://github.com/JabRef/jabref/issues/483: Should we fix erroneous bibtex files?
+  - We will create a page showing the quality of the exported bibtex entries
+- [x] PR status?
+- [x] v3.1 issue status
+- [x] When should 3.1 be released?
+- [x] Sorting and Output Format: Fix rules vs. only format what has changed
+  - [x] Use standard format for new things, keep existing format
+  - [x] Sorting Strategy of Entries: change as little as possible on load/save-cycle; no sort; insert on new entries on bottom
+  - [x] New entries: write with fixed format, but for existing files use
+  - [x] Only format entry if it is changed
+  - [x] Casing for keys: only lower case
+  - [x] Casing for entry types: camel case
+  - [x] Content: do not change anything
+  - [x] Indent: = aligned on one space after longest key
+  - Formatter: cleanup on load moved to separate formatter with defaults
+  - Tests are required for to implement these! According to `BibtexEntryWriterTest.roundTripTest`. For each entry type and formatting option.
+
+# 2015-11-23
+- [x] jabref.org
+  - works now
+- [x] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
+  - Solution: Remove icon on the left; Remove "Download"; Auto: if not found, say "not found. please input URL <input field>. [OK] [CANCEL]"; 
+  - [x] For a single entry: Look up full text document in local folder, Look up full text document in web, Download document from URL (also check what Tools -> lookup full text document)
+  - [x] For a bunch of entries: Synchronize (combination of find unlinked and automatically set file links)  
+- [x] Fetchers/Web Search:
   - Distinguish between simple "fetch by key" and free keyword search? Different menu items?
-  - [ ] UI Improvement: Default: Web search should be opened and "DOI to BibTeX" (or "ISBN to BibTeX") should be selected as default. (refs: handling of minor issues)
-  - [ ] UI Improvement: "Add entry": Should we add "from DOI", "from ISBN" ... there? Maybe move all the non-search fetchers to there?!
+  - [x] UI Improvement: Default: Web search should be opened and "DOI to BibTeX" (or "ISBN to BibTeX") should be selected as default. (refs: handling of minor issues)
+  - [x] UI Improvement: "Add entry": Should we add "from DOI", "from ISBN" ... there? Maybe move all the non-search fetchers to there?!
   - @koppor creates issue
 - [x] How do we treat http://www.nature.com/news/eight-ways-to-clean-a-digital-library-1.18695 ?
   - done, no reaction
-- [ ] Use online instead of offline help files? (add by Matthias)
+- [x] Use online instead of offline help files? (add by Matthias)
   - Pros: Easier to update, easier to add translations
   - Cons: Internet access required (but can be assumed nowadays?)
   - For 3.0: Update documentation rudimentary
@@ -54,13 +81,13 @@
   - we know it
 - [x] Do we want http://feathub.com/JabRef/jabref (svg might not be displayed?!)
   - Too early, maybe later when JabRef is more mature.
-- [ ] STUPRO: test strategy for the importers: 
+- [x] STUPRO: test strategy for the importers: 
   - compare with bibtex serialization instead of a long list of assertEquals statements?
     - see https://github.com/JabRef/jabref/blob/gvk_fetcher/src/test/java/net/sf/jabref/importer/fetcher/GVKParserTest.java (discussion at https://github.com/JabRef/jabref/pull/378)
   - use a single class which in the end ensures that only the right importers can recognize the right file using all available test files for this (which can only be done after all importer tests were made)
     - by team leader to be organized
   - done with canonical serialization format for bibtex entries, suggestion in GVK branch, should be used for testing
-- [ ] Formatting: Tags everywhere (why??), strange behavior in some PRs with indentation
+- [x] Formatting: Tags everywhere (why??), strange behavior in some PRs with indentation
   - should be reduced, maybe through better language script
 - [x] https://github.com/koppor/jabref/issues/36
   - done
@@ -79,7 +106,7 @@
   - No, must be done manually for consistency reasons.
 - [x] Format whole code according to the new formatting rules? 
   - No, because of `git blame`
-- [ ] Sorting and Output Format: Fix rules vs. only format what has changed
+- [x] Sorting and Output Format: Fix rules vs. only format what has changed
   - Use standard format for new things, keep existing format
   - Sorting Strategy of Entries: change as little as possible on load/save-cycle; no sort; insert on new entries on bottom
   - New entries: write with fixed format, but for existing files use
@@ -92,14 +119,14 @@
   - Tests are required for to implement these! According to `BibtexEntryWriterTest.roundTripTest`. For each entry type and formatting option.
 - [x] spin.jar: remove now or with transition to JavaFX?
   - On transition to JavaFX
-- [ ] Highlight vs Pinning for marked entries (see preferences -> entry table -> float marked entries ...)
+- [x] Highlight vs Pinning for marked entries (see preferences -> entry table -> float marked entries ...)
   - Add toggle button for float on/off and move out of preferences menu
 - [x] New default setting for `Use native file dialog`: `Yes`? Should we remove that option completely?
   - native: java icon, but right-click as usual (on Mac OS X really better than our dialog)
   - our dialog: jabref icon, but right-click only our options
   - (Windows) sieht sonst ziemlich gleich aus
   - native always on without option
-- [ ] Translations: switch to pull requests
+- [x] Translations: switch to pull requests
   - olly asks @mlep
 - [x] SourceForge Tracker: Close/Make ready-only
   - is already read only
