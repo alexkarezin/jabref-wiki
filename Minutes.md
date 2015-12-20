@@ -1,4 +1,7 @@
 # Next TelCo
+- [ ] Branches - at JabRef/jabref or each developer on his own
+  - Currently, there are many branches which are *all* copied to all forks. Users have difficulties to get rid of them
+  - Proposal: keep only "master" and "dev_2.11"
 - [ ] Use online instead of offline help files?
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
   - Solution: Remove icon on the left; Remove "Download"; Auto: if not found, say "not found. please input URL <input field>. [OK] [CANCEL]"; 
