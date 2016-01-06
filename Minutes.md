@@ -2,7 +2,11 @@
 - [ ] Branches - at JabRef/jabref or each developer on his own
   - Currently, there are many branches which are *all* copied to all forks. Users have difficulties to get rid of them
   - Proposal: keep only "master" and "dev_2.11"
-- [ ] Use online instead of offline help files?
+- [ ] BibType - see https://github.com/JabRef/jabref/pull/605
+- [ ] PR status?
+- [ ] v3.1 issue status
+
+## Ongoing Discussions
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
   - Solution: Remove icon on the left; Remove "Download"; Auto: if not found, say "not found. please input URL <input field>. [OK] [CANCEL]"; 
   - [ ] For a single entry: Look up full text document in local folder, Look up full text document in web, Download document from URL (also check what Tools -> lookup full text document)
@@ -10,10 +14,9 @@
 - [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
 - [ ] must be implemented "vernünftig (matthias)" "Entry table -> fit table horizontally ...."
 - [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
+- [ ] Use online instead of offline help files?
 - [ ] Licensing
   - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
-- [ ] PR status?
-- [ ] v3.1 issue status
 
 # 2015-12-15
 - [x] Last telco items done?
