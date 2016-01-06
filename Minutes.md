@@ -1,4 +1,5 @@
 # Next TelCo
+- [ ] [JabCon](http://jabcon.jabref.org/)
 - [ ] Branches - at JabRef/jabref or each developer on his own
   - Currently, there are many branches which are *all* copied to all forks. Users have difficulties to get rid of them
   - Proposal: keep only "master" and "dev_2.11"
