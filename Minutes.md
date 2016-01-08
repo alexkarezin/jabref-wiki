@@ -1,11 +1,7 @@
 # Next TelCo
-- [ ] [JabCon](http://jabcon.jabref.org/)
-- [ ] Branches - at JabRef/jabref or each developer on his own
-  - Currently, there are many branches which are *all* copied to all forks. Users have difficulties to get rid of them
-  - Proposal: keep only "master" and "dev_2.11"
-- [ ] BibType - see https://github.com/JabRef/jabref/pull/605
+
 - [ ] PR status?
-- [ ] v3.1 issue status
+- [ ] v3.2 issue status
 
 ## Ongoing Discussions
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
@@ -18,6 +14,20 @@
 - [ ] Use online instead of offline help files?
 - [ ] Licensing
   - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
+
+# 2016-01-08
+
+- [ ] 3.2 with current state
+- [ ] [JabCon](http://jabcon.jabref.org/)
+  - Currently registered: 2 + Orgas + 1?
+  - Travelling through Nuremberg
+  - Informal presentation at beginning of conference, infos presented in Wiki @olly email
+- [x] Branches - at JabRef/jabref or each developer on his own
+  - Currently, there are many branches which are *all* copied to all forks. Users have difficulties to get rid of them
+  - Proposal: keep only "master" and "dev_2.11"
+  - EVERYTHING IS LEFT AS IS
+- [ ] BibType - see https://github.com/JabRef/jabref/pull/605
+  - skype call required, make advantages more explicit through bullet list
 
 # 2015-12-15
 - [x] Last telco items done?
