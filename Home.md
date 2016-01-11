@@ -9,6 +9,7 @@ Old wiki with more information: https://sourceforge.net/p/jabref/wiki/Main_Page/
 * [[Donations]]: Usage of donations
 * [[Development Strategy]]: How we are currently pushing JabRef forward
 * [[High-Level-Documentation]]: The absolute essence of technical documentation
+* [[JabCon 2016]]: Information about JabCon 2016
 
 ## Development Information
 
