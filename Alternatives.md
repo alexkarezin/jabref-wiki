@@ -41,9 +41,12 @@ Some of them are not listed at WikiPedia.
  * Also offers integration with MS Word and LibreOffice.org
 * [calibre](http://calibre-ebook.com/) for eBooks
 * [EndNote](http://endnote.com/product-details/basic)
-* [Zotoro](https://www.zotero.org/)
+* [Zotero](https://www.zotero.org/)
  * Recommended plugin: [Zotero: Better Bib(La)TeX (BBT)](https://github.com/ZotPlus/zotero-better-bibtex)
  * Integration with JabRef: [FireBib Firefox Addon](https://github.com/tobiasdiez/Jabref-FirefoxAddon)
+
+* [ReadCube](https://www.readcube.com/)
+ * Seems quite good to deal with pdf files
 
 ## Collaborative
 
