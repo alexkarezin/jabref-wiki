@@ -1,5 +1,5 @@
 # Next TelCo
-
+- [ ] [#496](https://github.com/JabRef/jabref/issues/496): Should the possibility to define more than one file-directory be added?
 - [ ] PR status?
 - [ ] v3.2 issue status
 
