@@ -1,7 +1,7 @@
 # JabRef
 
 To foster its developments, the JabRef core team conducted a survey until November 14, 2015.
-The results will be published soon.
+The results are published at http://www.jabref.org/surveys/2015/.
 
 Old wiki with more information: https://sourceforge.net/p/jabref/wiki/Main_Page/
 
