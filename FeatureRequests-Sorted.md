@@ -224,7 +224,6 @@ The key formatters could be unified with the import and export formatters.
 - Addition of Notes: <http://sourceforge.net/p/jabref/feature-requests/187/>
 - A better file (PDF e PS) manager: <http://sourceforge.net/p/jabref/feature-requests/343/>
 - auto-file confirmation dialog: make settings sticky: <http://sourceforge.net/p/jabref/feature-requests/611/>
-- Allow drag and drop PDFs: <http://sourceforge.net/p/jabref/feature-requests/381/>
 - inlcude supplemental material: <http://sourceforge.net/p/jabref/feature-requests/163/>
 - monitor PDF folder: <http://sourceforge.net/p/jabref/feature-requests/183/>
 - Other automatic file-program links like pdf: <http://sourceforge.net/p/jabref/feature-requests/413/>
