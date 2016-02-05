@@ -5,7 +5,7 @@
 
 Please use [this Amazon link](http://www.amazon.de/b?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&node=13690631&site-redirect=de&tag=jabref-21) to start your Amazon ordering. This gives us funding without any additional costs for you! Alternatively, visit [our sponsors](http://www.jabref.org/#backing).
 
-In case you want to **donate regularly**, please visit http://www.jabref.org/donations.
+In case you want to **donate regularly**, please visit http://www.jabref.org/paypal.
 
 If every reader donated **5€**, the developers would only have to invest their free time and not any material goods for JabRef development.
 
