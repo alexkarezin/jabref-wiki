@@ -1,6 +1,6 @@
 # JabCon 2016
 
-[JabCon 2016](jabcon.jabref.org) is *the* conference to move JabRef forward. 
+[JabCon 2016](http://jabcon.jabref.org) is *the* conference to move JabRef forward. 
 
 ## The Foundation of JabRef
 TBD
