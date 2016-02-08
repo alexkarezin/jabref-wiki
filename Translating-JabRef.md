@@ -19,30 +19,30 @@ For each language there are three files (X denotes the country code for the lang
 Additionally, the [/src/main/resources/help](../tree/master/src/main/resources/help) directory
 contains the help files in the various languages. They are in html format.
 
-## Translation status (on December 2, 2015 - Branch Master)
+## Translation status (on February 8, 2016 - Branch Master)
 
 #### Chinese (simplified)
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_zh.properties             |  96 |
-| JabRef_zh.properties           |  75 |
+| Menu_zh.properties             |  94 |
+| JabRef_zh.properties           |  73 |
 | Help files                     |   0 |
 
 #### Danish
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_da.properties             |  87 |
-| JabRef_da.properties           |  78 |
+| Menu_da.properties             |  85 |
+| JabRef_da.properties           |  76 |
 | Help files                     |   1 |
 
 #### Dutch
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_nl.properties             |  95 |
-| JabRef_nl.properties           |  50 |
+| Menu_nl.properties             |  94 |
+| JabRef_nl.properties           |  51 |
 | Help files                     |   0 |
 
 #### French
@@ -50,95 +50,95 @@ contains the help files in the various languages. They are in html format.
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_fr.properties             | 100 |
-| JabRef_fr.properties           |  94 |
+| JabRef_fr.properties           | 100 |
 | Help files                     | 100 |
 
 #### German
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_de.properties             | 100 |
-| JabRef_de.properties           | 100 |
+| Menu_de.properties             |  98 |
+| JabRef_de.properties           |  96 |
 | Help files                     |  79 |
 
 #### Indonesian
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_in.properties             |  88 |
-| JabRef_in.properties           |  76 |
+| Menu_in.properties             |  86 |
+| JabRef_in.properties           |  75 |
 | Help files                     |  60 |
 
 #### Italian
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_it.properties             |  96 |
-| JabRef_it.properties           |  94 |
+| Menu_it.properties             |  94 |
+| JabRef_it.properties           |  90 |
 | Help files                     |   0 |
 
 #### Japanese
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_ja.properties             |  99 |
-| JabRef_ja.properties           |  99 |
+| Menu_ja.properties             |  98 |
+| JabRef_ja.properties           |  95 |
 | Help files                     | 100 |
 
 #### Norwegian
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_no.properties             |  90 |
-| JabRef_no.properties           |  78 |
+| Menu_no.properties             |  89 |
+| JabRef_no.properties           |  76 |
 | Help files                     |   0 |
 
 #### Persian
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_fa.properties             |  93 |
-| JabRef_fa.properties           |   0 |
+| Menu_fa.properties             |  92 |
+| JabRef_fa.properties           |   6 |
 | Help files                     |   0 |
 
 #### Portuguese (Brazil)
 
 | File                              | % done|
 | --------------------------------- | --- |
-| Menu_pt_BR.properties             |  96 |
-| JabRef_pt_BR.properties           |  94 |
+| Menu_pt_BR.properties             |  95 |
+| JabRef_pt_BR.properties           |  91 |
 | Help files                        |   0 |
 
 #### Russian
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_ru.properties             |  96 |
-| JabRef_ru.properties           |  94 |
+| Menu_ru.properties             |  94 |
+| JabRef_ru.properties           |  90 |
 | Help files                     |   0 |
 
 #### Spanish
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_es.properties             |  96 |
-| JabRef_es.properties           |  93 |
+| Menu_es.properties             |  94 |
+| JabRef_es.properties           |  90 |
 | Help files                     |   0 |
 
 #### Turkish
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_tr.properties             |  99 |
-| JabRef_tr.properties           |  99 |
+| Menu_tr.properties             |  97 |
+| JabRef_tr.properties           |  95 |
 | Help files                     |   0 |
 
 #### Vietnamese
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_vi.properties             |  85 |
-| JabRef_vi.properties           |  67 |
+| Menu_vi.properties             |  84 |
+| JabRef_vi.properties           |  66 |
 | Help files                     |   0 |
 
 
