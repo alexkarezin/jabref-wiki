@@ -9,7 +9,7 @@ TBD
 - Major Improvements
   - Search UI
   - Consistent localization
-  - Integrate VGK Plugin
+  - Integrate GVK Plugin
   - Higher Test Coverage
   - Better Code and Package Structure
   - Reworked Integrity Check
