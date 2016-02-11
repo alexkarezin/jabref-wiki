@@ -13,6 +13,11 @@ We are aware of the fees at PayPal (~5%) or flattr (~10%).
 If you don't want to pay fees, ask jabrefmail at gmail.com about our IBAN.
 In case you live in the EU, you can ask [Oliver](https://github.com/koppor) for his private Email Address to [send money for free](https://www.paypal.com/de/webapps/mpp/paypal-fees).
 
+Quote from the PayPal page. Unfortunately, only available in German:
+
+    Sie können innerhalb Deutschlands und der EU kostenlos Geld an Freunde und Familie senden, sofern Sie Ihr hinterlegtes Bankkonto oder Ihr PayPal-Guthaben nutzen und keine Währungsumrechnung erforderlich ist. Gebühren fallen erst an, wenn Sie eine Kreditkarte nutzen oder Geld ins Ausland oder in anderen Währungen senden.
+
+
 ## Usage of donations
 
 * [JabCon](http://jabcon.jabref.org)
