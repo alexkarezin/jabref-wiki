@@ -1,7 +1,8 @@
 # Next TelCo
 - [ ] [#496](https://github.com/JabRef/jabref/issues/496): Should the possibility to define more than one file-directory be added?
-- [ ] PR status?
 - [ ] v3.2 issue status
+- [ ] [All issues tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
+- [ ] PR status?
 
 ## Ongoing Discussions
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
