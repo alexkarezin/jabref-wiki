@@ -1,4 +1,7 @@
 # Next TelCo
+- [ ] non-code contributions: jstyle files, layout-files abbreviations
+  - current state: basic files available in JabRef distri, further files can be copied from [htdocs](https://github.com/JabRef/htdocs/tree/master/jstyles) (jstyle files) or from https://github.com/JabRef/reference-abbreviations
+  - Olly: A) include all these things directly in JabRef, B) maintain ALL in a separate repository and integrate that during the build
 - [ ] [#496](https://github.com/JabRef/jabref/issues/496): Should the possibility to define more than one file-directory be added?
 - [ ] v3.2 issue status
 - [ ] [All issues tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
