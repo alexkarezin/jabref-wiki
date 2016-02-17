@@ -6,6 +6,7 @@
 - [ ] v3.2 issue status
 - [ ] [All issues tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] PR status?
+- [ ] Hosting of binaries - github vs./and sf.net?
 
 ## Ongoing Discussions
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
