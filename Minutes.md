@@ -22,8 +22,8 @@
 
 # 2016-01-08
 
-- [ ] 3.2 with current state
-- [ ] [JabCon](http://jabcon.jabref.org/)
+- [x] 3.2 with current state
+- [x] [JabCon](http://jabcon.jabref.org/)
   - Currently registered: 2 + Orgas + 1?
   - Travelling through Nuremberg
   - Informal presentation at beginning of conference, infos presented in Wiki @olly email
@@ -31,7 +31,7 @@
   - Currently, there are many branches which are *all* copied to all forks. Users have difficulties to get rid of them
   - Proposal: keep only "master" and "dev_2.11"
   - EVERYTHING IS LEFT AS IS
-- [ ] BibType - see https://github.com/JabRef/jabref/pull/605
+- [x] BibType - see https://github.com/JabRef/jabref/pull/605
   - skype call required, make advantages more explicit through bullet list
 
 # 2015-12-15
