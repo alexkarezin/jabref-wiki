@@ -8,6 +8,7 @@
 - [ ] https://github.com/blog/2111-issue-and-pull-request-templates
 - [ ] PR status?
 - [ ] Hosting of binaries - github vs./and sf.net?
+- [ ] Pull Requests without tests - OK or NOT OK?
 
 ## Ongoing Discussions
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
