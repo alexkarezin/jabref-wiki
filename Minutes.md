@@ -5,11 +5,15 @@
 - [ ] [#496](https://github.com/JabRef/jabref/issues/496): Should the possibility to define more than one file-directory be added?
 - [ ] [Issue status targeted for next release](https://github.com/JabRef/jabref/milestones/v3.3)
 - [ ] [All issues tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
-- [ ] https://github.com/blog/2111-issue-and-pull-request-templates
+- [x] https://github.com/blog/2111-issue-and-pull-request-templates
+  - updated during dev call: see [#836](https://github.com/JabRef/jabref/pull/836)
 - [ ] PR status?
-- [ ] Hosting of binaries - github vs./and sf.net?
+- [x] Hosting of binaries:
+  - Hosting on all platforms: sf.net; github and fosshub.com
+  - Default download platform used @jabref.org: fosshub.com
 - [ ] Pull Requests without tests - OK or NOT OK?
-- [ ] Cleanup branches on builds.jabref.org
+- [x] Cleanup branches on builds.jabref.org
+  - Olly will try to automate deletion (trash everything older than one month)
 
 ## Ongoing Discussions
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
@@ -19,7 +23,6 @@
 - [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
 - [ ] must be implemented "vernünftig (matthias)" "Entry table -> fit table horizontally ...."
 - [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
-- [ ] Use online instead of offline help files?
 - [ ] Licensing
   - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
 
