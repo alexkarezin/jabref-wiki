@@ -1,7 +1,7 @@
 ## Next TelCo: scheduled for: 2016-08-03 - 10:00
 - [ ] [Issue status targeted for next release](https://github.com/JabRef/jabref/milestones/v3.3)
-- [ ] [All issues tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
-- [ ] PR status?
+- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
+- [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
 - [ ] non-code contributions: jstyle files, layout-files abbreviations
   - current state: basic files available in JabRef distri, further files can be copied from [htdocs](https://github.com/JabRef/htdocs/tree/master/jstyles) (jstyle files) or from https://github.com/JabRef/reference-abbreviations
   - Olly: A) include all these things directly in JabRef, B) maintain ALL in a separate repository and integrate that during the build
