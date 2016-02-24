@@ -1,19 +1,11 @@
-# Next TelCo
+## Next TelCo: scheduled for: 2016-08-03 - 10:00
+- [ ] [Issue status targeted for next release](https://github.com/JabRef/jabref/milestones/v3.3)
+- [ ] [All issues tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
+- [ ] PR status?
 - [ ] non-code contributions: jstyle files, layout-files abbreviations
   - current state: basic files available in JabRef distri, further files can be copied from [htdocs](https://github.com/JabRef/htdocs/tree/master/jstyles) (jstyle files) or from https://github.com/JabRef/reference-abbreviations
   - Olly: A) include all these things directly in JabRef, B) maintain ALL in a separate repository and integrate that during the build
 - [ ] [#496](https://github.com/JabRef/jabref/issues/496): Should the possibility to define more than one file-directory be added?
-- [ ] [Issue status targeted for next release](https://github.com/JabRef/jabref/milestones/v3.3)
-- [ ] [All issues tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
-- [x] https://github.com/blog/2111-issue-and-pull-request-templates
-  - updated during dev call: see [#836](https://github.com/JabRef/jabref/pull/836)
-- [ ] PR status?
-- [x] Hosting of binaries:
-  - Hosting on all platforms: sf.net; github and fosshub.com
-  - Default download platform used @jabref.org: fosshub.com
-- [ ] Pull Requests without tests - OK or NOT OK?
-- [x] Cleanup branches on builds.jabref.org
-  - Olly will try to automate deletion (trash everything older than one month)
 
 ## Ongoing Discussions
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
@@ -25,6 +17,32 @@
 - [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
 - [ ] Licensing
   - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
+
+# 2016-02-24
+- [x] Plan for 3.3: focus on bug fixing; no new features should be added until release of 3.3
+  - planned release date for: 1st week of March
+- [ ] [Issue status targeted for next release](https://github.com/JabRef/jabref/milestones/v3.3)
+  - [x] partially discussed
+- [x] [All issues tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
+  - [x] [#825](https://github.com/JabRef/jabref/issues/825): Postponed to 3.4, awaiting feedback from users
+  - [x] [#629](https://github.com/JabRef/jabref/issues/629): will be implemented; goal 3.4
+    - UI should remain the same
+    - technical side: only dynamical groups
+    - migration is important
+- [x] https://github.com/blog/2111-issue-and-pull-request-templates
+  - updated during dev call: see [#836](https://github.com/JabRef/jabref/pull/836)
+- [x] Hosting of binaries:
+  - Hosting on all platforms: sf.net; github and fosshub.com
+  - Default download platform used @jabref.org: fosshub.com
+- [x] Pull Requests without tests - OK or NOT OK?
+  - new/changed model/database code should be tested
+  - UI tests not mandatory
+  - minimal requirement: at least one test
+  - [x] adjust PR template
+- [x] Cleanup branches on builds.jabref.org
+  - Olly will try to automate deletion (trash everything older than one month)
+- [x] UI tests... still not working; should be checked how to execute stabily on travis-ci
+- [x] stupro PRs: should be made ready for merge - will be closed otherwise in the next days 
 
 # 2016-01-08
 
