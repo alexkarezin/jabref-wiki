@@ -9,6 +9,7 @@
 - [ ] PR status?
 - [ ] Hosting of binaries - github vs./and sf.net?
 - [ ] Pull Requests without tests - OK or NOT OK?
+- [ ] Cleanup branches on builds.jabref.org
 
 ## Ongoing Discussions
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
