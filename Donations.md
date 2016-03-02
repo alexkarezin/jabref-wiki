@@ -9,10 +9,10 @@ In case you want to **donate regularly**, please visit http://www.jabref.org/pay
 
 If every reader donated **5€**, the developers would only have to invest their free time and not any material goods for JabRef development.
 
-We are aware of the fees at PayPal (~5%) or flattr (~10%).
-If you don't want to pay fees:
+We are aware of the fees at PayPal (~5%) or flattr (~10%). <br />
+**If you don't want to pay fees:**
 - Ask jabrefmail at gmail.com about our IBAN.
-- In case you live in the EU, you can send money for free using Paypal. For this, ask [Oliver](https://github.com/koppor) for his private Email Address. Quote from the [PayPal page](https://www.paypal.com/en/webapps/mpp/paypal-fees) (unfortunately, only available in German):
+- In case you live in the EU, you can send money for free using Paypal. For this, transfer money to [Oliver's email address](https://github.com/koppor). Quote from the [PayPal page](https://www.paypal.com/en/webapps/mpp/paypal-fees) (unfortunately, only available in German):
 
     Sie können innerhalb Deutschlands und der EU kostenlos Geld an Freunde und Familie senden, sofern Sie Ihr hinterlegtes Bankkonto oder Ihr PayPal-Guthaben nutzen und keine Währungsumrechnung erforderlich ist. Gebühren fallen erst an, wenn Sie eine Kreditkarte nutzen oder Geld ins Ausland oder in anderen Währungen senden.
 
