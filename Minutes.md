@@ -37,6 +37,7 @@
   - [x] issues created
 - [ ] release 3.3
   - only blocker: documentation of save actions in code and doc
+  - blog post of new features
 
 # 2016-02-24
 - [x] Plan for 3.3: focus on bug fixing; no new features should be added until release of 3.3
