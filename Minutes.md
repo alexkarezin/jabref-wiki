@@ -1,8 +1,9 @@
-## Next TelCo: scheduled for: 2016-08-03 - 11:00 **update**
-- [ ] [Issues targeted for next release](https://github.com/JabRef/jabref/milestones/v3.3)
+## Next TelCo
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
-- [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
+- [ ] [Issues targeted for next release](https://github.com/JabRef/jabref/milestones/v3.3)
+- [ ] [#851](https://github.com/JabRef/jabref/pull/851) Should we rediscuss the alignment of `=`?
 - [ ] [#496](https://github.com/JabRef/jabref/issues/496): Should the possibility to define more than one file-directory be added?
+- [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
 
 ## Ongoing Discussions
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
