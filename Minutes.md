@@ -4,6 +4,7 @@
 - [ ] [#851](https://github.com/JabRef/jabref/pull/851) Should we rediscuss the alignment of `=`?
 - [ ] [#496](https://github.com/JabRef/jabref/issues/496): Should the possibility to define more than one file-directory be added?
 - [ ] We need help from our users in documenting JabRef. A shout out to the mailing list should be made - no programming skills required, only motivation to help JabRef.
+- [ ] Developers should favor pull requests over issues for minor things, e.g., #963
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
 
 ## Ongoing Discussions
