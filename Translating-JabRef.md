@@ -160,6 +160,8 @@ As we can see, there are several "special" characters: the percent sign and the 
 
 `Error_writing_XMP_to_file\:_%0=Fehler_beim_Schreiben_von_XMP_in_die_Datei:_%0`
 
+The character encoding should be **ISO-8859-1** (Latin-1). Unicode characters can still be used by using Unicode escaping such as `\u2302`.
+
 ## Directly editing the files
 
 Github offers to edit the files directly without requiring to download them or to use git.
