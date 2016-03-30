@@ -18,6 +18,9 @@
 - [ ] Licensing
   - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
 
+# 2016-03-30
+- Worked on PRs and Issues
+
 # 2016-03-08
 
 - [x] https://github.com/JabRef/jabref/pull/877
