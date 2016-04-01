@@ -1,7 +1,6 @@
 ## Next TelCo
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [Issues targeted for next release](https://github.com/JabRef/jabref/milestones/v3.3)
-- [ ] [#851](https://github.com/JabRef/jabref/pull/851) Should we rediscuss the alignment of `=`?
 - [ ] [#496](https://github.com/JabRef/jabref/issues/496): Should the possibility to define more than one file-directory be added?
 - [ ] We need help from our users in documenting JabRef. A shout out to the mailing list should be made - no programming skills required, only motivation to help JabRef.
 - [ ] Developers should favor pull requests over issues for minor things, e.g., [#963](https://github.com/JabRef/jabref/issues/963), for less bureaucracy
@@ -17,6 +16,11 @@
 - [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
 - [ ] Licensing
   - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
+
+# 2016-04-01
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
+- [x] [Issues targeted for next release](https://github.com/JabRef/jabref/milestones/v3.3)
+- [x] [#851](https://github.com/JabRef/jabref/pull/851) Should we rediscuss the alignment of `=`?
 
 # 2016-03-30
 - Worked on PRs and Issues
