@@ -1,11 +1,13 @@
 ## Next TelCo
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
+- [ ] Package renaming `net.sf.jabref` to `org.jabref`. Relates to [#152](https://github.com/JabRef/jabref/issues/152)
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [Issues targeted for next release](https://github.com/JabRef/jabref/milestones/v3.3)
 - [ ] [#496](https://github.com/JabRef/jabref/issues/496): Should the possibility to define more than one file-directory be added?
 - [ ] We need help from our users in documenting JabRef. A shout out to the mailing list should be made - no programming skills required, only motivation to help JabRef.
 - [ ] Developers should favor pull requests over issues for minor things, e.g., [#963](https://github.com/JabRef/jabref/issues/963), for less bureaucracy
 - [ ] FXML vs. Java Code for building the JavaFX UIs, see [pull request](https://github.com/boceckts/jabref/pull/1)
+- [ ] JabRef 4.0
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
 
 ## Ongoing Discussions
