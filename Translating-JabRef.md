@@ -129,8 +129,8 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_sv.properties             |  94 |
-| JabRef_sv.properties           |  61 |
+| Menu_sv.properties             | 100 |
+| JabRef_sv.properties           |  68 |
 | Help files                     |   0 |
 
 #### Turkish
