@@ -19,7 +19,7 @@ For each language there are three files (X denotes the country code for the lang
 Additionally, the [/src/main/resources/help](../tree/master/src/main/resources/help) directory
 contains the help files in the various languages. They are in html format.
 
-## Translation status (on April 9, 2016 - Branch Master)
+## Translation status (on April 11, 2016 - Branch Master)
 
 #### Chinese (simplified)
 
@@ -50,7 +50,7 @@ contains the help files in the various languages. They are in html format.
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_fr.properties             | 100 |
-| JabRef_fr.properties           |  99 |
+| JabRef_fr.properties           | 100 |
 | Help files                     | 100 |
 
 #### German
@@ -97,7 +97,7 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_fa.properties             |  90 |
+| Menu_fa.properties             | 100 |
 | JabRef_fa.properties           |   1 |
 | Help files                     |   0 |
 
@@ -137,8 +137,8 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_tr.properties             |  97 |
-| JabRef_tr.properties           |  99 |
+| Menu_tr.properties             | 100 |
+| JabRef_tr.properties           | 100 |
 | Help files                     |   0 |
 
 #### Vietnamese
