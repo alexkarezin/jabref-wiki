@@ -2,6 +2,7 @@
 
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
+- [ ] JabRef 4.0. Target date: October 2016 and fix issues such as [#1179](https://github.com/JabRef/jabref/issues/1179)
 
 ### Ongoing Discussions
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
@@ -29,7 +30,6 @@
 - [x] FXML vs. Java Code for building the JavaFX UIs, see [pull request](https://github.com/boceckts/jabref/pull/1)
   - We move forward using FXML
 - [x] discussed some pull request, including blog posts.
-- [ ] JabRef 4.0
 
 # 2016-04-01
 - [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
