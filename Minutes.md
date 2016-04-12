@@ -18,7 +18,7 @@
 ## 2016-04-12
 - [x] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
   - Do we need a new logo? - See [#1177](https://github.com/JabRef/jabref/issues/1177)
-- [x] Package renaming `net.sf.jabref` to `org.jabref`. Relates to [#152](https://github.com/JabRef/jabref/issues/152)
+- [x] Package renaming `net.sf.jabref` to `org.jabref`. Relates to [#152](https://github.com/JabRef/jabref/issues/152). Filed at [#1179](https://github.com/JabRef/jabref/issues/1179)
 - [x] [Issues targeted for next release](https://github.com/JabRef/jabref/milestones/v3.3)
 - [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
   - https://github.com/JabRef/jabref/issues/1091
