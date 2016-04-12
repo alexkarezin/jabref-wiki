@@ -154,7 +154,7 @@ contains the help files in the various languages. They are in html format.
 
 Each entry is first given in English, then in the other language, with the two parts separated by an '=' character. For instance, a line can look like this in a German translation file: 
 
-`Background_color_for_optional_fields=Hintergrundfarbe_f\u00fcr_optionale_Felder`
+`Background_color_for_optional_fields=Hintergrundfarbe_für_optionale_Felder`
 
 Note that each space character is replaced by an underscore, both in the English and the translated version. 
 
@@ -168,7 +168,7 @@ As we can see, there are several "special" characters: the percent sign and the 
 
 `Error_writing_XMP_to_file\:_%0=Fehler_beim_Schreiben_von_XMP_in_die_Datei:_%0`
 
-The character encoding should be **ISO-8859-1** (Latin-1). Unicode characters can still be used by using Unicode escaping such as `\u2302`.
+The character encoding should be **UTF-8**. Please try to avoid Unicode escaping such as `\u2302`.
 
 ## Directly editing the files
 
