@@ -1,16 +1,10 @@
 ## Next TelCo
-- [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
-- [ ] Package renaming `net.sf.jabref` to `org.jabref`. Relates to [#152](https://github.com/JabRef/jabref/issues/152)
+
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
-- [ ] [Issues targeted for next release](https://github.com/JabRef/jabref/milestones/v3.3)
-- [ ] [#496](https://github.com/JabRef/jabref/issues/496): Should the possibility to define more than one file-directory be added?
-- [ ] We need help from our users in documenting JabRef. A shout out to the mailing list should be made - no programming skills required, only motivation to help JabRef.
-- [ ] Developers should favor pull requests over issues for minor things, e.g., [#963](https://github.com/JabRef/jabref/issues/963), for less bureaucracy
-- [ ] FXML vs. Java Code for building the JavaFX UIs, see [pull request](https://github.com/boceckts/jabref/pull/1)
-- [ ] JabRef 4.0
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
 
-## Ongoing Discussions
+### Ongoing Discussions
+- [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
   - Solution: Remove icon on the left; Remove "Download"; Auto: if not found, say "not found. please input URL <input field>. [OK] [CANCEL]"; 
   - [ ] For a single entry: Look up full text document in local folder, Look up full text document in web, Download document from URL (also check what Tools -> lookup full text document)
@@ -19,6 +13,23 @@
 - [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
 - [ ] Licensing
   - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
+
+## 2016-04-12
+- [x] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
+  - Do we need a new logo? - See [#1177](https://github.com/JabRef/jabref/issues/1177)
+- [x] Package renaming `net.sf.jabref` to `org.jabref`. Relates to [#152](https://github.com/JabRef/jabref/issues/152)
+- [x] [Issues targeted for next release](https://github.com/JabRef/jabref/milestones/v3.3)
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
+  - https://github.com/JabRef/jabref/issues/1091
+- [x] [#496](https://github.com/JabRef/jabref/issues/496): Should the possibility to define more than one file-directory be added?
+  - Decision: If someone else comes up with the same issue, we will have a look again
+- [x] We need help from our users in documenting JabRef. A shout out to the mailing list should be made - no programming skills required, only motivation to help JabRef.
+  - Mail after release
+- [x] Developers should favor pull requests over issues for minor things, e.g., [#963](https://github.com/JabRef/jabref/issues/963), for less bureaucracy
+- [x] FXML vs. Java Code for building the JavaFX UIs, see [pull request](https://github.com/boceckts/jabref/pull/1)
+  - We move forward using FXML
+- [x] discussed some pull request, including blog posts.
+- [ ] JabRef 4.0
 
 # 2016-04-01
 - [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
@@ -42,13 +53,13 @@
   - Be careful about `file` as it is a field of MetaData but never stored in the .bib file
 - [x] https://github.com/JabRef/jabref/issues/574
   - Display in the bibtex code tab all fields which are written
-- [ ] https://github.com/JabRef/jabref/pull/851
+- [x] https://github.com/JabRef/jabref/pull/851
   - postpone, too complex for now, more thought needed
-- [ ] non-code contributions: jstyle files, layout-files abbreviations
+- [x] non-code contributions: jstyle files, layout-files abbreviations
   - current state: basic files available in JabRef distri, further files can be copied from [htdocs](https://github.com/JabRef/htdocs/tree/master/jstyles) (jstyle files) or from https://github.com/JabRef/reference-abbreviations
   - Olly: A) include all these things directly in JabRef, B) maintain ALL in a separate repository and integrate that during the build
   - [x] issues created
-- [ ] release 3.3
+- [x] release 3.3
   - only blocker: documentation of save actions in code and doc
   - blog post of new features
 
