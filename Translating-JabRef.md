@@ -73,7 +73,7 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_it.properties             |  93 |
+| Menu_it.properties             | 100 |
 | JabRef_it.properties           |  83 |
 | Help files                     |   0 |
 
