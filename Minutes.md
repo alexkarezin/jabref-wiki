@@ -1,5 +1,6 @@
 ## Next TelCo
 
+- [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
 - [ ] JabRef 4.0. Target date: October 2016 and fix issues such as [#1179](https://github.com/JabRef/jabref/issues/1179)
