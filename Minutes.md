@@ -1,5 +1,6 @@
 ## Next TelCo
 
+- [ ] Close old waiting-for-feedback issues?
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
