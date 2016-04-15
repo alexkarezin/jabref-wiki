@@ -1,6 +1,6 @@
 # JabRef
 
-Note: Old wiki with more (but may be outdated) information: https://sourceforge.net/p/jabref/wiki/Main_Page/
+Note: Old wiki with more (but possibly outdated) information: https://sourceforge.net/p/jabref/wiki/Main_Page/
 
 
 ## General Information
