@@ -43,7 +43,7 @@ Some of them are not listed at WikiPedia.
 * [EndNote](http://endnote.com/product-details/basic)
 * [Zotero](https://www.zotero.org/)
  * Recommended plugin: [Zotero: Better Bib(La)TeX (BBT)](https://github.com/ZotPlus/zotero-better-bibtex)
- * Integration with JabRef: [FireBib Firefox Addon](https://github.com/tobiasdiez/Jabref-FirefoxAddon)
+ * Integration with JabRef: [JabFox Firefox Addon](https://github.com/JabRef/JabFox)
 
 * [ReadCube](https://www.readcube.com/)
  * Seems quite good to deal with pdf files
