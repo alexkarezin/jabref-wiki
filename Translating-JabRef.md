@@ -19,7 +19,7 @@ For each language there are three files (X denotes the country code for the lang
 Additionally, the [/src/main/resources/help](../tree/master/src/main/resources/help) directory
 contains the help files in the various languages. They are in html format.
 
-## Translation status (on April 13, 2016 - Branch Master)
+## Translation status (on April 15, 2016 - Branch Master)
 
 #### Chinese (simplified)
 
@@ -29,8 +29,7 @@ contains the help files in the various languages. They are in html format.
 | JabRef_zh.properties           |  87 |
 | Help files                     |   0 |
 
-#### Danish
-
+#### Danish5
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_da.properties             | 100 |
@@ -41,8 +40,8 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_nl.properties             |  92 |
-| JabRef_nl.properties           |  46 |
+| Menu_nl.properties             | 100 |
+| JabRef_nl.properties           |  45 |
 | Help files                     |   0 |
 
 #### French
@@ -50,7 +49,7 @@ contains the help files in the various languages. They are in html format.
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_fr.properties             | 100 |
-| JabRef_fr.properties           | 100 |
+| JabRef_fr.properties           |  99 |
 | Help files                     | 100 |
 
 #### German
@@ -66,7 +65,7 @@ contains the help files in the various languages. They are in html format.
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_in.properties             | 100 |
-| JabRef_in.properties           |  67 |
+| JabRef_in.properties           |  88 |
 | Help files                     |  60 |
 
 #### Italian
@@ -81,7 +80,7 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_ja.properties             |  95 |
+| Menu_ja.properties             | 100 |
 | JabRef_ja.properties           |  89 |
 | Help files                     | 100 |
 
@@ -89,7 +88,7 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_no.properties             |  86 |
+| Menu_no.properties             | 100 |
 | JabRef_no.properties           |  69 |
 | Help files                     |   0 |
 
@@ -106,7 +105,7 @@ contains the help files in the various languages. They are in html format.
 | File                              | % done|
 | --------------------------------- | --- |
 | Menu_pt_br.properties             | 100 |
-| JabRef_pt_bf.properties           |  87 |
+| JabRef_pt_bf.properties           |  86 |
 | Help files                        |   0 |
 
 #### Russian
@@ -122,7 +121,7 @@ contains the help files in the various languages. They are in html format.
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_es.properties             | 100 |
-| JabRef_es.properties           | 100 |
+| JabRef_es.properties           |  99 |
 | Help files                     |   0 |
 
 #### Swedish
@@ -138,7 +137,7 @@ contains the help files in the various languages. They are in html format.
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_tr.properties             | 100 |
-| JabRef_tr.properties           | 100 |
+| JabRef_tr.properties           |  99 |
 | Help files                     |   0 |
 
 #### Vietnamese
@@ -146,7 +145,7 @@ contains the help files in the various languages. They are in html format.
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_vi.properties             |  82 |
-| JabRef_vi.properties           |  60 |
+| JabRef_vi.properties           |  59 |
 | Help files                     |   0 |
 
 
