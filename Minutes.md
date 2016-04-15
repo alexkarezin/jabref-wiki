@@ -4,6 +4,7 @@
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
+- [ ] Wiki Migration von Sourceforge - anything interesting still in the old wiki? Otherwise remove the link
 - [ ] JabRef 4.0. Target date: October 2016 and fix issues such as [#1179](https://github.com/JabRef/jabref/issues/1179)
 
 ### Ongoing Discussions
