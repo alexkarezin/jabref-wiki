@@ -10,6 +10,8 @@ Note: Old wiki with more (but possibly outdated) information: https://sourceforg
 * [[JabCon 2016]]: Information about JabCon 2016
 * [[Minutes]]: Ongoing discussion about JabRef roadmap
 * [2015 Survey](http://www.jabref.org/surveys/2015/): Current usage and new features, by its users.
+* [[Download Mirrors]]: Places which host JabRef
+* [[JabRef in the Press]]: Articles about JabRef in the Press
 
 ## Development Information
 
