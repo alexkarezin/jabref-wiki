@@ -1,0 +1,1 @@
+- http://www.heise.de/ct/ausgabe/2016-1-Einfache-Wege-zu-einer-persoenlichen-BibTeX-Literaturdatenbank-3045068.html
