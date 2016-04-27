@@ -12,3 +12,4 @@
 - http://www.netzwelt.de/download/12279-jabref.html
 - http://www.macupdate.com/app/mac/19869/jabref
 - https://wiki.ubuntuusers.de/JabRef/
+- http://filehippo.com/de/download_jabref/
