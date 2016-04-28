@@ -1,5 +1,6 @@
 ## Next TelCo
 
+- [ ] focus of releases and work packages
 - [ ] Close old waiting-for-feedback issues?
 - [ ] Do not mark as bug if it wasn't reproduced yet
 - [ ] Prioritize, discuss, and close the mass of open issues
