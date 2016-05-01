@@ -9,6 +9,7 @@
 - [ ] Wiki Migration von Sourceforge - anything interesting still in the old wiki? Otherwise remove the link
 - [ ] JabRef 4.0. Target date: October 2016 and fix issues such as [#1179](https://github.com/JabRef/jabref/issues/1179)
 - [ ] The amount of open PRs: how can we reduce them? What is our target? Try to keep them below 10?
+- [ ] Developer++?
 
 ### Ongoing Discussions
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
