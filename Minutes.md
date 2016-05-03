@@ -1,5 +1,6 @@
 ## Next TelCo
 
+- [ ] We need to keep the number of issues down. The more issues we have the more immature and buggy our product looks. Other projects have pointed this out as well.
 - [ ] focus of releases and work packages
 - [ ] Close old waiting-for-feedback issues?
 - [ ] Do not mark as bug if it wasn't reproduced yet
