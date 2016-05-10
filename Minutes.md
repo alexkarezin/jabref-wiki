@@ -1,17 +1,18 @@
 ## Next TelCo
-
-- [x] Bundle Jabref for app stores? See [#1371](https://github.com/JabRef/jabref/issues/1179).
-- [x] evaluate auto update by students. maybe we should use something like texcenter that just displays a dialog and a link rather than auto downloading it (donations). we need to evaluate what install4j can do!
-- [ ] We need to keep the number of issues down. The more issues we have the more immature and buggy our product looks. Other projects have pointed this out as well.
-- [ ] focus of releases and work packages
-- [x] Close old waiting-for-feedback issues? Close after 4 weeks.
-- [x] Do not mark as bug if it wasn't reproduced yet
+- [ ] JabRef 4.0. Target date: October 2016 and fix issues such as [#1179](https://github.com/JabRef/jabref/issues/1179)
+- [ ] The amount of open PRs: how can we reduce them? What is our target? Try to keep them below 10?
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
+
+## 2016-05-10
+- [x] Bundle Jabref for app stores? See [#1371](https://github.com/JabRef/jabref/issues/1179).
+- [x] evaluate auto update by students. maybe we should use something like texcenter that just displays a dialog and a link rather than auto downloading it (donations). we need to evaluate what install4j can do!
+- [x] We need to keep the number of issues down. The more issues we have the more immature and buggy our product looks. Other projects have pointed this out as well.
+- [x] focus of releases and work packages
+- [x] Close old waiting-for-feedback issues? Close after 4 weeks.
+- [x] Do not mark as bug if it wasn't reproduced yet
 - [x] Wiki Migration von Sourceforge - anything interesting still in the old wiki? Otherwise remove the link
-- [ ] JabRef 4.0. Target date: October 2016 and fix issues such as [#1179](https://github.com/JabRef/jabref/issues/1179)
-- [ ] The amount of open PRs: how can we reduce them? What is our target? Try to keep them below 10?
 - [x] Developer++?
 
 ### Ongoing Discussions
