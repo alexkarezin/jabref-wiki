@@ -1,8 +1,5 @@
 # JabRef
 
-Note: Old wiki with more (but possibly outdated) information: https://sourceforge.net/p/jabref/wiki/Main_Page/
-
-
 ## General Information
 * [Main website](http://www.jabref.org): JabRef, its features, releases
 * [[Donations]]: Usage of donations, and how to make a donation
