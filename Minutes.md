@@ -1,5 +1,7 @@
 ## Next TelCo
 
+- [ ] bundle Jabref for app stores? (at least apple?)
+- [ ] evaluate auto update by students. maybe we should use something like texcenter that just displays a dialog and a link rather than auto downloading it (donations). we need to evaluate what install4j can do!
 - [ ] We need to keep the number of issues down. The more issues we have the more immature and buggy our product looks. Other projects have pointed this out as well.
 - [ ] focus of releases and work packages
 - [ ] Close old waiting-for-feedback issues?
