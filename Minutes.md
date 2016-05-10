@@ -1,6 +1,6 @@
 ## Next TelCo
 
-- [x] Bundle Jabref for app stores? See #1371.
+- [x] Bundle Jabref for app stores? See [#1371](https://github.com/JabRef/jabref/issues/1179).
 - [ ] evaluate auto update by students. maybe we should use something like texcenter that just displays a dialog and a link rather than auto downloading it (donations). we need to evaluate what install4j can do!
 - [ ] We need to keep the number of issues down. The more issues we have the more immature and buggy our product looks. Other projects have pointed this out as well.
 - [ ] focus of releases and work packages
