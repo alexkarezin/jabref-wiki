@@ -5,7 +5,7 @@
 - [ ] We need to keep the number of issues down. The more issues we have the more immature and buggy our product looks. Other projects have pointed this out as well.
 - [ ] focus of releases and work packages
 - [ ] Close old waiting-for-feedback issues?
-- [ ] Do not mark as bug if it wasn't reproduced yet
+- [x] Do not mark as bug if it wasn't reproduced yet
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
