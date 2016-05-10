@@ -4,7 +4,7 @@
 - [x] evaluate auto update by students. maybe we should use something like texcenter that just displays a dialog and a link rather than auto downloading it (donations). we need to evaluate what install4j can do!
 - [ ] We need to keep the number of issues down. The more issues we have the more immature and buggy our product looks. Other projects have pointed this out as well.
 - [ ] focus of releases and work packages
-- [ ] Close old waiting-for-feedback issues?
+- [x] Close old waiting-for-feedback issues? Close after 4 weeks.
 - [x] Do not mark as bug if it wasn't reproduced yet
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
