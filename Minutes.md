@@ -4,6 +4,7 @@
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
+- [ ] Financial Status
 
 ## 2016-05-10
 - [x] Bundle Jabref for app stores? See [#1371](https://github.com/JabRef/jabref/issues/1179).
