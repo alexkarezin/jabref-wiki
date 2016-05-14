@@ -6,16 +6,6 @@
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
 - [ ] Financial Status
 
-## 2016-05-10
-- [x] Bundle Jabref for app stores? See [#1371](https://github.com/JabRef/jabref/issues/1179).
-- [x] evaluate auto update by students. maybe we should use something like texcenter that just displays a dialog and a link rather than auto downloading it (donations). we need to evaluate what install4j can do!
-- [x] We need to keep the number of issues down. The more issues we have the more immature and buggy our product looks. Other projects have pointed this out as well.
-- [x] focus of releases and work packages
-- [x] Close old waiting-for-feedback issues? Close after 4 weeks.
-- [x] Do not mark as bug if it wasn't reproduced yet
-- [x] Wiki Migration von Sourceforge - anything interesting still in the old wiki? Otherwise remove the link
-- [x] Developer++?
-
 ### Ongoing Discussions
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
@@ -27,6 +17,16 @@
 - [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
 - [ ] Licensing
   - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
+
+## 2016-05-10
+- [x] Bundle Jabref for app stores? See [#1371](https://github.com/JabRef/jabref/issues/1179).
+- [x] evaluate auto update by students. maybe we should use something like texcenter that just displays a dialog and a link rather than auto downloading it (donations). we need to evaluate what install4j can do!
+- [x] We need to keep the number of issues down. The more issues we have the more immature and buggy our product looks. Other projects have pointed this out as well.
+- [x] focus of releases and work packages
+- [x] Close old waiting-for-feedback issues? Close after 4 weeks.
+- [x] Do not mark as bug if it wasn't reproduced yet
+- [x] Wiki Migration von Sourceforge - anything interesting still in the old wiki? Otherwise remove the link
+- [x] Developer++?
 
 ## 2016-04-12
 - [x] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
