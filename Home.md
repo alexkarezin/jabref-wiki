@@ -9,6 +9,7 @@
 * [2015 Survey](http://www.jabref.org/surveys/2015/): Current usage and new features, by its users.
 * [[Download Mirrors]]: Places which host JabRef
 * [[JabRef in the Press]]: Articles about JabRef in the Press
+* [[JabRef Best Practices]]: JabRef Best Practices
 
 ## Development Information
 
