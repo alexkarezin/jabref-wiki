@@ -85,16 +85,16 @@ Rationale: We could possibly do a bugfix release, so we only increment the major
 ## Publish Binaries 
 1. Sourceforge
 Create Folder and put files there-> https://sourceforge.net/projects/jabref/files/jabref/
-(at v3.0 to v3.2) is was automatically done when releasing on github 
+(at v3.0 to v3.2) is was automatically done when releasing on GitHub 
 Web Content
 Update
 2. FossHub (via developer account)
-3. Github  
+3. GitHub  
 [Create new release](https://github.com/JabRef/jabref/releases) based on tag.
-Upload binaries to Github release page. 
+Upload binaries to GitHub release page. 
 
 ## Spread the word
-1. Add news text
+1. Add news text to the GitHub release
 2. Write a blog entry
-3. Write to mailinglist
-4. https://github.com/JabRef/jabref/wiki/Information-update-after-a-release/
+3. Write to [mailinglist](https://sourceforge.net/p/jabref/mailman/jabref-users/)
+4. Follow https://github.com/JabRef/jabref/wiki/Information-update-after-a-release/
