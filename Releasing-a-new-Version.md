@@ -32,7 +32,7 @@ with
 ```
 3. `build.gradle`   
 `version` (3.4, 3.4dev)
-`project.ext.threeDotVersion`
+`project.ext.threeDotVersion` = `3.4.0.0`
 
 4. Update `AUTHORS` file
 `generate-authors.sh`
