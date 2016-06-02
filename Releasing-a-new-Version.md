@@ -18,6 +18,8 @@ Use the same URLs as in the last step (meda file URLs).
 
 1. `CHANGELOG.md`  
 Replace Version.
+At ther very end of the file:
+`[3.4]: https://github.com/JabRef/jabref/compare/v3.3...v3.4`
 2. `README.md`  
 Replace 
 ```md
