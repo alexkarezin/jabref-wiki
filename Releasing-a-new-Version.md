@@ -94,7 +94,7 @@ Update
 Upload binaries to Github release page. 
 
 ## Spread the word
-Add news text
-Write a blog entry
-Write to mailinglist
-https://github.com/JabRef/jabref/wiki/Information-update-after-a-release/
+1. Add news text
+2. Write a blog entry
+3. Write to mailinglist
+4. https://github.com/JabRef/jabref/wiki/Information-update-after-a-release/
