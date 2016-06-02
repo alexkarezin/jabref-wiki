@@ -53,7 +53,7 @@ At least, quickly check if contents in __Help - About JabRef__ are properly repl
 ## Prepare for next version
 1. `CHANGELOG.md`
 At the beginning of the file:
-``` 
+```md
 ## [Unreleased]
 
 ### Changed
@@ -62,14 +62,16 @@ At the beginning of the file:
 
 ### Removed
 ```
+
 At the very end of the file:
 `[Unreleased]: https://github.com/JabRef/jabref/compare/v3.4...HEAD`
 
 2. `README.md`  
 Readd development info at the beginning of the file:
-```
+```md
 # JabRef Development Version
 This version is a development version. Features may not work as expected.
+```
 
 3. `build.gradle`
 `version` 3.5dev
