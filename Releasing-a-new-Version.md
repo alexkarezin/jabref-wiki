@@ -42,8 +42,7 @@ Commit changes and update `.mailmap` if necessary.
 `git commit - log message "Release v3.0"`
  
 ## Build Release
-1. Execute `gradlew assemble` (to generate the sources)
-2. Download binaries from CircleCI
+Download binaries from CircleCI
 
 ## Test Release
 At least, quickly check if contents in __Help - About JabRef__ are properly replaced.
