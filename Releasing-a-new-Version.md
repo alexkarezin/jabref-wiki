@@ -38,7 +38,10 @@ with
 `generate-authors.sh`
 Commit changes and update `.mailmap` if necessary.
 
-5. Create a release commit
+5. `circle.yml` 
+Set `-pdev=false` for building release files.
+
+6. Create a release commit
 `git commit - log message "Release v3.0"`
  
 ## Build Release
