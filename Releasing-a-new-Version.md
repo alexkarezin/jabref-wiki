@@ -7,7 +7,7 @@
 Select most recent Win32, Win64 JREs [packed].  
 Select most recent MacOSX JRE [unpacked].  
 They will be stored inside `C:\Users\<username>\.install4j6\jres`
-3. Move these files to jabref.org `/var/www/files.jabref.org/jres`
+3. Copy these files to jabref.org `files_jabref_org@files.jabref.org:www/jres` using [sftp](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol). Send your ssh pubkey to @koppor to get access.
 4. Adapt install4j media files config
 Just select the new JREs and change the URLs
 5. Adapt `scripts/prepare-install4j.sh`  
@@ -60,7 +60,11 @@ At the beginning of the file:
 ### Fixed
 
 ### Removed
+
+(50 empty lines)
 ```
+
+The 50 empty lines are required to cause conflicts for pull requests not being merged before the release, but affecting the CHANGELOG.
 
 At the very end of the file:
 `[Unreleased]: https://github.com/JabRef/jabref/compare/v3.4...HEAD`
