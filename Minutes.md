@@ -1,4 +1,5 @@
 ## Next TelCo
+- [ ] Icon contest?
 - [ ] main issue for 3.5 -> https://github.com/JabRef/jabref/issues/518?
 - [ ] Clear workflow when to merge PRs. Personally, I'm looking for a more focused discussion and workflow.
 - [ ] Status of Stupro labeled issues etc.
