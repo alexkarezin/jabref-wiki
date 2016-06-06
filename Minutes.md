@@ -1,4 +1,5 @@
 ## Next TelCo
+- [ ] GUI tests randomly fail, its annoying for PRs etc...
 - [ ] Icon contest?
 - [ ] main issue for 3.5 -> https://github.com/JabRef/jabref/issues/518?
 - [ ] Clear workflow when to merge PRs. Personally, I'm looking for a more focused discussion and workflow.
