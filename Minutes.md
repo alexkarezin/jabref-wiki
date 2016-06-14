@@ -1,7 +1,9 @@
 ## Next TelCo
-- [ ] GUI tests randomly fail, its annoying for PRs etc...
+- [ ] schedule next bug fix release:
+  - [ ] [#1495](https://github.com/JabRef/jabref/issues/1495): very crucial - no quickfix possible
+- [ ] Define main topic for release 3.5
+  - proposal by Stefan: Store LaTeX-free version of entry to improve search/download abilities -> https://github.com/JabRef/jabref/issues/518?
 - [ ] Icon contest?
-- [ ] main issue for 3.5 -> https://github.com/JabRef/jabref/issues/518?
 - [ ] Status of Stupro labeled issues etc.
 - [ ] The amount of open PRs: how can we reduce them? What is our target? Try to keep them below 10?
 - [ ] Prioritize, discuss, and close the mass of open issues
@@ -22,11 +24,10 @@
   - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
 
 ## 2016-06-14
-- [ ] a bug fix release should be published ASAP; to be included:
+- [x] a bug fix release should be published ASAP; to be included:
   - [x] [#1481](https://github.com/JabRef/jabref/issues/1481): Broken Mac OS X installer
   - [x] [#1434](https://github.com/JabRef/jabref/issues/1434): static vs. dynamic
   - [x] [#1482](https://github.com/JabRef/jabref/issues/1482): correct number of hits
-  - [ ] [#1495](https://github.com/JabRef/jabref/issues/1495): very crucial - Simon tries a quickfix
 - [x] Levenshtein lib: to replaced by apache commons? Olly tries replacement
 - [x] JabRef 4.0. Target date: October 2016 and fix issues such as [#1179](https://github.com/JabRef/jabref/issues/1179)
   - Milestone already exists - date not yet fixed
@@ -34,6 +35,8 @@
   - Stefan: Define clear main topic for each release to concentrate on a common goal - which also improves review ability/quality
 - [x] PR #1471: comments in bib file are preserved
   - will be part of 3.5 and not integrated in 3.4.1
+- [x] GUI tests randomly fail, its annoying for PRs etc...
+  - fixed by Olly
 
 ## 2016-05-10
 - [x] Bundle Jabref for app stores? See [#1371](https://github.com/JabRef/jabref/issues/1179).
