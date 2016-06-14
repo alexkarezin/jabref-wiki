@@ -2,9 +2,7 @@
 - [ ] GUI tests randomly fail, its annoying for PRs etc...
 - [ ] Icon contest?
 - [ ] main issue for 3.5 -> https://github.com/JabRef/jabref/issues/518?
-- [ ] Clear workflow when to merge PRs. Personally, I'm looking for a more focused discussion and workflow.
 - [ ] Status of Stupro labeled issues etc.
-- [ ] JabRef 4.0. Target date: October 2016 and fix issues such as [#1179](https://github.com/JabRef/jabref/issues/1179)
 - [ ] The amount of open PRs: how can we reduce them? What is our target? Try to keep them below 10?
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
@@ -22,6 +20,20 @@
 - [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
 - [ ] Licensing
   - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
+
+## 2016-06-14
+- [ ] a bug fix release should be published ASAP; to be included:
+  - [x] [#1481](https://github.com/JabRef/jabref/issues/1481): Broken Mac OS X installer
+  - [x] [#1434](https://github.com/JabRef/jabref/issues/1434): static vs. dynamic
+  - [x] [#1482](https://github.com/JabRef/jabref/issues/1482): correct number of hits
+  - [ ] [#1495](https://github.com/JabRef/jabref/issues/1495): very crucial - Simon tries a quickfix
+- [x] Levenshtein lib: to replaced by apache commons? Olly tries replacement
+- [x] JabRef 4.0. Target date: October 2016 and fix issues such as [#1179](https://github.com/JabRef/jabref/issues/1179)
+  - Milestone already exists - date not yet fixed
+- [x] Clear workflow when to merge PRs. Personally, I'm looking for a more focused discussion and workflow.
+  - Stefan: Define clear main topic for each release to concentrate on a common goal - which also improves review ability/quality
+- [x] PR #1471: comments in bib file are preserved
+  - will be part of 3.5 and not integrated in 3.4.1
 
 ## 2016-05-10
 - [x] Bundle Jabref for app stores? See [#1371](https://github.com/JabRef/jabref/issues/1179).
