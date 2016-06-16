@@ -1,7 +1,7 @@
 ## Donation possibilities
 
 [![PayPal Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://www.paypal.com/cgi-bin/webscr?item_name=JabRef+Bibliography+Manager&cmd=_donations&lc=US&currency_code=EUR&business=kopp.dev%40gmail.com)
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=koppor&url=https%3A%2F%2Fgithub.com%2FJabRef%2Fjabref&title=JabRef&language=Java&tags=github&category=software)
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=koppor&url=https://github.com/JabRef/jabref&title=JabRef)
 
 We are aware of the fees at PayPal (~5%) or flattr (~10%). <br />
 **If you don't want to pay fees:**
