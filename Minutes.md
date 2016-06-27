@@ -12,18 +12,18 @@
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
 - [ ] Financial Status
+- [ ] Licensing
+  - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
 
 ### Ongoing Discussions
+- [ ] Can some [on-hold issues](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+) opened again?
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
   - Solution: Remove icon on the left; Remove "Download"; Auto: if not found, say "not found. please input URL <input field>. [OK] [CANCEL]"; 
   - [ ] For a single entry: Look up full text document in local folder, Look up full text document in web, Download document from URL (also check what Tools -> lookup full text document)
   - [ ] For a bunch of entries: Synchronize (combination of find unlinked and automatically set file links)  
-- [ ] Can some [on-hold issues](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+) opened again?
 - [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
 - [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
-- [ ] Licensing
-  - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
 
 ## 2016-06-14
 - [x] a bug fix release should be published ASAP; to be included:
