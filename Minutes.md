@@ -4,9 +4,11 @@
 - [ ] Define main topic for release 3.5
   - proposal by Stefan: Store LaTeX-free version of entry to improve search/download abilities -> https://github.com/JabRef/jabref/issues/518?
 - [ ] Icon contest?
-- [ ] Status of Stupro labeled issues etc.
+- [ ] Status of [StuPro labeled issues](https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro), [StuPro pull requests](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Astupro) etc.
 - [ ] The amount of open PRs: how can we reduce them? What is our target? Try to keep them below 10?
 - [ ] Prioritize, discuss, and close the mass of open issues
+  - [on hold](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+)?
+  - Concrete Milestones in JabRef 2.x did not work out - "fixup" and "next version" were pseudo milestones, not working out either
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
 - [ ] Financial Status
