@@ -4,6 +4,9 @@
 - [ ] Define main topic for release 3.5
   - proposal by Stefan: Store LaTeX-free version of entry to improve search/download abilities -> https://github.com/JabRef/jabref/issues/518?
 - [ ] Icon contest?
+- [ ] Travis going to latest JDK8 and towards GUI tests
+  - anyone familiar with threading?
+  - https://github.com/JabRef/jabref/commits/prevent_gradle_exit_value_137
 - [ ] Status of [StuPro labeled issues](https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro), [StuPro pull requests](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Astupro) etc.
 - [ ] The amount of open PRs: how can we reduce them? What is our target? Try to keep them below 10?
 - [ ] Prioritize, discuss, and close the mass of open issues
