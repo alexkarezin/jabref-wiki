@@ -1,12 +1,12 @@
 ## Donation possibilities
 
-[![PayPal Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://www.paypal.com/cgi-bin/webscr?item_name=JabRef+Bibliography+Manager&cmd=_donations&lc=US&currency_code=EUR&business=kopp.dev%40gmail.com)
+[![PayPal Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://www.paypal.com/cgi-bin/webscr?item_name=JabRef+Bibliography+Manager&cmd=_donations&lc=US&currency_code=EUR&business=donations%40jabref.org)
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=koppor&url=https://github.com/JabRef/jabref&title=JabRef)
 
 We are aware of the fees at PayPal (~5%) or flattr (~10%). <br />
 **If you don't want to pay fees:**
 - Ask [Oliver](https://github.com/koppor) for his IBAN
-- In case you live in the EU, you can send money for free using Paypal. For this, transfer money to [Oliver's email address](https://github.com/koppor). Quote from the [PayPal page](https://www.paypal.com/en/webapps/mpp/paypal-fees) (unfortunately, only available in German):
+- In case you live in the EU, you can send money for free using Paypal. Use https://www.paypal.me/JabRef/10. Quote from the [PayPal page](https://www.paypal.com/en/webapps/mpp/paypal-fees) (unfortunately, only available in German):
 
     Sie können innerhalb Deutschlands und der EU kostenlos Geld an Freunde und Familie senden, sofern Sie Ihr hinterlegtes Bankkonto oder Ihr PayPal-Guthaben nutzen und keine Währungsumrechnung erforderlich ist. Gebühren fallen erst an, wenn Sie eine Kreditkarte nutzen oder Geld ins Ausland oder in anderen Währungen senden.
 
