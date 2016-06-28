@@ -1,22 +1,18 @@
 ## Next TelCo
-- [ ] schedule next bug fix release:
-  - [ ] [#1495](https://github.com/JabRef/jabref/issues/1495): very crucial - no quickfix possible
-- [ ] Define main topic for release 3.5
+- [ ] Define main topic for release 3.7
   - proposal by Stefan: Store LaTeX-free version of entry to improve search/download abilities -> https://github.com/JabRef/jabref/issues/518?
 - [ ] Icon contest?
-- [ ] Travis going to latest JDK8 and towards GUI tests
-  - anyone familiar with threading?
-  - https://github.com/JabRef/jabref/commits/prevent_gradle_exit_value_137
-- [ ] Status of [StuPro labeled issues](https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro), [StuPro pull requests](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Astupro) etc.
-- [ ] The amount of open PRs: how can we reduce them? What is our target? Try to keep them below 10?
 - [ ] Prioritize, discuss, and close the mass of open issues
   - [on hold](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+)?
   - Concrete Milestones in JabRef 2.x did not work out - "fixup" and "next version" were pseudo milestones, not working out either
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
+- [ ] JavaFX; ideas:
+  - We head to a test release
+  - 3.6 und 3.6fx
 - [ ] Financial Status
 - [ ] Licensing
-  - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
+  - MIT
 
 ### Ongoing Discussions
 - [ ] Can some [on-hold issues](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+) opened again?
@@ -27,6 +23,26 @@
   - [ ] For a bunch of entries: Synchronize (combination of find unlinked and automatically set file links)  
 - [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
 - [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
+  
+## 2016-06-28
+- [x] schedule next bug fix release:
+  - [x] [#1495](https://github.com/JabRef/jabref/issues/1495): very crucial - no quickfix possible
+    - Tobias tries to fix until end of this week (~1st July)
+- [x] Define main topic for release 3.6
+  - Stability pack
+- [x] Travis going to latest JDK8 and towards GUI tests
+  - anyone familiar with threading?
+  - https://github.com/JabRef/jabref/commits/prevent_gradle_exit_value_137
+- [x] Status of [StuPro labeled issues](https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro), [StuPro pull requests](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Astupro) etc.
+- [x] Decision: We remove the label "ready-for-review" if the token is back to the author of the TR to keep the number of "ready-for-review" low.
+- [x] The amount of open PRs: how can we reduce them? What is our target? Try to keep them below 10?
+- [x] JavaFX; ideas:
+  - We head to a test release
+  - 3.6 und 3.6fx
+- [x] Financial Status
+ - [x] new: email donations@jabref.org + paypal.me
+- [x] Licensing
+  - We might need to contact the authors of files. Sometimes, they are listed in the headers. See for example https://github.com/JabRef/jabref/commit/63e7a98f753f8089d689b76a61f288fba628eff1.
 
 ## 2016-06-14
 - [x] a bug fix release should be published ASAP; to be included:
