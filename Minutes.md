@@ -1,29 +1,32 @@
 ## Next TelCo
-- [ ] Define main topic for release 3.7
-  - proposal by Stefan: Store LaTeX-free version of entry to improve search/download abilities -> https://github.com/JabRef/jabref/issues/518?
-- [ ] Icon contest?
+- [ ] Icon contest
+- [ ] Licensing
+  - Simon: für MIT (und dessen Werte)
+
+### Topcis discussed in each telephone conference
 - [ ] Prioritize, discuss, and close the mass of open issues
   - [on hold](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+)?
   - Concrete Milestones in JabRef 2.x did not work out - "fixup" and "next version" were pseudo milestones, not working out either
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
-- [ ] JavaFX; ideas:
-  - We head to a test release
-  - 3.6 und 3.6fx
-- [ ] Financial Status
-- [ ] Licensing
-  - MIT
-
-### Ongoing Discussions
 - [ ] Can some [on-hold issues](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+) opened again?
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
-- [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
-  - Solution: Remove icon on the left; Remove "Download"; Auto: if not found, say "not found. please input URL <input field>. [OK] [CANCEL]"; 
-  - [ ] For a single entry: Look up full text document in local folder, Look up full text document in web, Download document from URL (also check what Tools -> lookup full text document)
-  - [ ] For a bunch of entries: Synchronize (combination of find unlinked and automatically set file links)  
-- [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
-- [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
+- [ ] JavaFX
+- [ ] Define main topic for release 3.7
+  - proposal by Stefan: Store LaTeX-free version of entry to improve search/download abilities -> https://github.com/JabRef/jabref/issues/518?
+- [ ] See "Discussions for Leisure Time"
   
+## 2016-07-06
+- [x] [Milestones v3.5](https://github.com/JabRef/jabref/milestones/v3.5)
+- [x] Group renaming works
+- [x] Hierarchical Groups
+- [x] Next release as soon as [#1495](https://github.com/JabRef/jabref/issues/1495) is fixed.
+- [x] Aim for 3.6: Number of [opened bugs](https://github.com/JabRef/jabref/labels/bug) below 10
+- [x] Icon contest?
+- [x] Financial Status
+- [x] Licensing
+  - MIT: As many persons should be able to use the software
+
 ## 2016-06-28
 - [x] schedule next bug fix release:
   - [x] [#1495](https://github.com/JabRef/jabref/issues/1495): very crucial - no quickfix possible
@@ -281,5 +284,12 @@
   - Also https://github.com/JabRef/jabref/pull/162 ?
   - Remove incremental, filter, always live on, select matches, autocomplete always on
 
-# Future
-- Preferences: Structure and Necessity
+
+# Discussions for Leisure Time
+- [ ] Preferences: Structure and Necessity
+- [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
+  - Solution: Remove icon on the left; Remove "Download"; Auto: if not found, say "not found. please input URL <input field>. [OK] [CANCEL]"; 
+  - [ ] For a single entry: Look up full text document in local folder, Look up full text document in web, Download document from URL (also check what Tools -> lookup full text document)
+  - [ ] For a bunch of entries: Synchronize (combination of find unlinked and automatically set file links)  
+- [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
+- [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
