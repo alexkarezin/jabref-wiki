@@ -2,6 +2,7 @@
 - [ ] Icon contest
 - [ ] Licensing
   - Simon: für MIT (und dessen Werte)
+- [ ] Future of JabRef
 
 ### Topcis discussed in each telephone conference
 - [ ] Prioritize, discuss, and close the mass of open issues
