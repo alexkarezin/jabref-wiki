@@ -3,6 +3,7 @@
 - [ ] Licensing
   - Simon: für MIT (und dessen Werte)
 - [ ] Future of JabRef
+- [ ] JabRef Architecture
 
 ### Topcis discussed in each telephone conference
 - [ ] Prioritize, discuss, and close the mass of open issues
