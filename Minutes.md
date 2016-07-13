@@ -1,11 +1,33 @@
 ## Next TelCo
 - [ ] Icon contest
-- [ ] Licensing
-  - Simon: für MIT (und dessen Werte)
-- [ ] Future of JabRef
-- [ ] JabRef Architecture
 
-### Topcis discussed in each telephone conference
+## 2016-07-13
+- [x] label "fixed-in-master" should be used rarely
+- [x] Icon contest
+  - Stefan, Olly, Tobias, Matthias: Logo-Contest
+  - Jörg, Simon: Peter-Logo-Aufhübschen
+  - -> Matthias und Stefan
+- [x] Licensing
+  - Simon, Jörg, Olly, Matthias, Stefan: für MIT
+  - Tobias: Code sollte wieder veröffentlicht werden müssen, also EPL, MPL, GPL, .. OK
+  - Our licenses listed in external-libraries.txt allow the switch
+  - Olly kümmert sich
+    - [ ] CONTRIBUTING.md -> ab sofort MIT
+    - [ ] Kritische Stellen im Code suchen und Leute anschreiben
+    - [ ] Alle Leute anschreiben und informieren
+      - Hold the current momentum, preserve energy we currently invest
+      - Simple license, widely used, not restricting development and distribution
+    - [ ] Final switch
+- [x] Future of JabRef
+  - [x] Button in Toolbar (+: Jörg, Simon, Olly; -: Matthias; 0: Stefan, Tobias)
+- [x] JabRef Architecture - https://github.com/JabRef/jabref/wiki/High-Level-Documentation
+  - Checkstyle can enforse our rules
+  - Alle Paramter sollen Logik explizit übergeben werden, so dass unabhängig von Globals.Prefs, wo so "magischerweise" Verhalten geändert wird
+  - Idee: Logik als JSON-API ins Web stellen
+- [x] Release v3.5 on 2016-07-14
+  - Stefan and Olly
+
+### Topics discussed in each telephone conference
 - [ ] Prioritize, discuss, and close the mass of open issues
   - [on hold](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+)?
   - Concrete Milestones in JabRef 2.x did not work out - "fixup" and "next version" were pseudo milestones, not working out either
