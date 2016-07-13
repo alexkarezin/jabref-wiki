@@ -1,5 +1,7 @@
 The place that should be checked after a release are:
 
+(The release binaries can be downloaded from https://circleci.com/gh/JabRef/jabref)
+
 ## maintained by JabRef developers
 - http://www.jabref.org
 - http://www.jabref.org/faq/ (for depreciated Q&A)
