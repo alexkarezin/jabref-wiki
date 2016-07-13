@@ -1,6 +1,19 @@
 ## Next TelCo
 - [ ] Icon contest
 
+### Topics discussed in each telephone conference
+- [ ] Prioritize, discuss, and close the mass of open issues
+  - [on hold](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+)?
+  - Concrete Milestones in JabRef 2.x did not work out - "fixup" and "next version" were pseudo milestones, not working out either
+- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
+- [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
+- [ ] Can some [on-hold issues](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+) opened again?
+- [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
+- [ ] JavaFX
+- [ ] Define main topic for release 3.7
+  - proposal by Stefan: Store LaTeX-free version of entry to improve search/download abilities -> https://github.com/JabRef/jabref/issues/518?
+- [ ] See "Discussions for Leisure Time"
+  
 ## 2016-07-13
 - [x] label "fixed-in-master" should be used rarely
 - [x] Icon contest
@@ -27,19 +40,6 @@
 - [x] Release v3.5 on 2016-07-14
   - Stefan and Olly
 
-### Topics discussed in each telephone conference
-- [ ] Prioritize, discuss, and close the mass of open issues
-  - [on hold](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+)?
-  - Concrete Milestones in JabRef 2.x did not work out - "fixup" and "next version" were pseudo milestones, not working out either
-- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
-- [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
-- [ ] Can some [on-hold issues](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+) opened again?
-- [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
-- [ ] JavaFX
-- [ ] Define main topic for release 3.7
-  - proposal by Stefan: Store LaTeX-free version of entry to improve search/download abilities -> https://github.com/JabRef/jabref/issues/518?
-- [ ] See "Discussions for Leisure Time"
-  
 ## 2016-07-06
 - [x] [Milestones v3.5](https://github.com/JabRef/jabref/milestones/v3.5)
 - [x] Group renaming works
