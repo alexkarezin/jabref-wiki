@@ -8,7 +8,7 @@ The place that should be checked after a release are:
 
 ## handled by JabRef developers
 - http://www.macupdate.com/app/mac/19869/jabref (@koppor)
-  - CHANGELOG.md has to be converted to html: `pandoc -f markdown_github -t html -o CHANGELOG.html CHANGELOG.md`
+  - CHANGELOG.md has to be converted to html: `pandoc -f markdown_github -t html -o CHANGELOG.html CHANGELOG.md`. Change `h3` to `h5` afterwards.  
 - https://www.ctan.org/pkg/jabref
   - email them for an update
 
