@@ -1,5 +1,6 @@
 ## Next TelCo
 - [ ] Icon contest
+- [ ] PR Reviews: perform real tests of changes - not code review only (Matthias)
 
 ### Topics discussed in each telephone conference
 - [ ] Prioritize, discuss, and close the mass of open issues
