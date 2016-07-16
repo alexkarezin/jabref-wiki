@@ -30,7 +30,7 @@ Some of them are not listed at WikiPedia.
 * [Referencer](https://launchpad.net/referencer), a GNOME application
 
 ## Mac OS X
-* [BibDesk](http://bibdesk.sourceforge.net/)
+* [BibDesk](http://bibdesk.sourceforge.net/), [Source Code](https://sourceforge.net/projects/bibdesk/files/BibDesk/)
 
 ## Android
 * [Eratosthenes](https://bitbucket.org/mkmatlock/eratosthenes/wiki/Home)
@@ -39,7 +39,7 @@ Some of them are not listed at WikiPedia.
 
 * [Bibus](http://bibus-biblio.sourceforge.net/)
  * Also offers integration with MS Word and LibreOffice.org
-* [calibre](http://calibre-ebook.com/) for eBooks
+* [calibre](http://calibre-ebook.com/) for eBooks, [Source Code](https://github.com/kovidgoyal/calibre)
 * [EndNote](http://endnote.com/product-details/basic)
 * [Zotero](https://www.zotero.org/)
  * Recommended plugin: [Zotero: Better Bib(La)TeX (BBT)](https://github.com/ZotPlus/zotero-better-bibtex)
@@ -61,6 +61,7 @@ Some of them are not listed at WikiPedia.
 * [refbase](http://refbase.sourceforge.net)
 * [RefDB](http://refdb.sourceforge.net/)
 * [RefWorks](https://www.refworks.com/)
+* [Scientilla](http://www.scientilla.org/)
 * [WIKINDX](http://wikindx.sourceforge.net/)
 
 An evaluation from the year 2007 of collaborative literature tools: [Fachstudie Nr. 61](http://elib.uni-stuttgart.de/opus/volltexte/2007/3367/pdf/FACH_0061.pdf).
