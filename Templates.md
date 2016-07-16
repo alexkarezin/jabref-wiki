@@ -14,8 +14,11 @@ We will come back later to this topic, therefore closing adding [on-hold label](
 
 ## fixed in master
 ```
-Thank you for reporting this issue. We think, that is already fixed.
+Thank you for reporting this issue. We think, that is already fixed in our development version.
 Please use a development build from http://builds.jabref.org/master
-
-We leave this issue open until the next release to keep other users reporting the same issue
+The fix will be included in the next release.
 ```
+
+Only in very seldom cases (such as JabRef not starting at all on some OS), add this text:
+
+    We leave this issue open until the next release to keep other users reporting the same issue.
