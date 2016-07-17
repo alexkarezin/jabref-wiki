@@ -22,3 +22,8 @@ The fix will be included in the next release.
 Only in very seldom cases (such as JabRef not starting at all on some OS), add this text:
 
     We leave this issue open until the next release to keep other users reporting the same issue.
+
+## fixed in a branch
+```
+There is a version that should fix this at http://builds.jabref.org/BRANCHNAME/ (in 15 minutes or so). Please try it out. 
+```
