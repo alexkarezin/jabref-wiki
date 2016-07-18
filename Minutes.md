@@ -1,6 +1,8 @@
 ## Next TelCo
 - [ ] Icon contest
 - [ ] PR Reviews: perform real tests of changes - not code review only (Matthias)
+  - Checking whether implemented/changed feature is (still) working in the normal user workflow
+  - [ ] Simon: Add another bullet point to PR template: "Manual test in GUI successful"
 
 ### Topics discussed in each telephone conference
 - [ ] Prioritize, discuss, and close the mass of open issues
