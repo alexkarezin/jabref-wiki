@@ -1,22 +1,30 @@
 ## Next TelCo
 - [ ] Icon contest
-- [ ] PR Reviews: perform real tests of changes - not code review only (Matthias)
-  - Checking whether implemented/changed feature is (still) working in the normal user workflow
-  - [ ] Simon: Add another bullet point to PR template: "Manual test in GUI successful"
 
 ### Topics discussed in each telephone conference
-- [ ] Prioritize, discuss, and close the mass of open issues
-  - [on hold](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+)?
-  - Concrete Milestones in JabRef 2.x did not work out - "fixup" and "next version" were pseudo milestones, not working out either
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
+- [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] Can some [on-hold issues](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+) opened again?
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] JavaFX
-- [ ] Define main topic for release 3.7
+- [ ] Define main topic for release 3.8
   - proposal by Stefan: Store LaTeX-free version of entry to improve search/download abilities -> https://github.com/JabRef/jabref/issues/518?
 - [ ] See "Discussions for Leisure Time"
-  
+
+
+## 2016-07-26
+- [x] Icon contest
+   - nothing happened yet
+- [x] PR Reviews: perform real tests of changes - not code review only (Matthias)
+  - Checking whether implemented/changed feature is (still) working in the normal user workflow
+  - [x] Simon: Add another bullet point to PR template: "Manual test in GUI successful"
+- [x] Remove option "enforce illegal characters in bibtex keys"
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
+- [x] https://github.com/JabRef/jabref/milestone/9 fixed to 2016-09-01
+- [x] JavaFX should be added as pull request to enable reviewing
+- [x] Reduce issues: Concrete Milestones in JabRef 2.x did not work out - "fixup" and "next version" were pseudo milestones, not working out either
+
 ## 2016-07-13
 - [x] label "fixed-in-master" should be used rarely
 - [x] Icon contest
