@@ -26,3 +26,4 @@ The place that should be checked after a release are:
      - https://zh.wikipedia.org/wiki/JabRef
 - http://www.heise.de/download/jabref.html (some other seem to update them automatically)
 - http://filehippo.com/de/download_jabref/67564/
+- https://chocolatey.org/packages/JabRef
