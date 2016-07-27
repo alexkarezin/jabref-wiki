@@ -4,14 +4,12 @@
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
-- [ ] Prioritize, discuss, and close the mass of open issues
-- [ ] Can some [on-hold issues](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+) opened again?
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] JavaFX
 - [ ] Define main topic for release 3.8
   - proposal by Stefan: Store LaTeX-free version of entry to improve search/download abilities -> https://github.com/JabRef/jabref/issues/518?
+- [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See "Discussions for Leisure Time"
-
 
 ## 2016-07-26
 - [x] Icon contest
@@ -321,6 +319,7 @@
 
 
 # Discussions for Leisure Time
+- [ ] Can some [on-hold issues](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+) opened again?
 - [ ] Preferences: Structure and Necessity
 - [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
   - Solution: Remove icon on the left; Remove "Download"; Auto: if not found, say "not found. please input URL <input field>. [OK] [CANCEL]"; 
