@@ -19,21 +19,21 @@ For each language there are three files (X denotes the country code for the lang
 Additionally, the [/src/main/resources/help](../tree/master/src/main/resources/help) directory
 contains the help files in the various languages. They are in html format.
 
-## Translation status (on June 30, 2016 - Branch Master)
+## Translation status (on August 1, 2016 - Branch Master)
 
 #### Chinese (simplified)
 
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_zh.properties             |  98 |
-| JabRef_zh.properties           |  83 |
+| JabRef_zh.properties           |  82 |
 | Help files                     |   0 |
 
 #### Danish
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_da.properties             |  98 |
-| JabRef_da.properties           |  66 |
+| JabRef_da.properties           |  65 |
 | Help files                     |   1 |
 
 #### Dutch
@@ -48,8 +48,8 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_fr.properties             | 100 |
-| JabRef_fr.properties           | 100 |
+| Menu_fr.properties             |  99 |
+| JabRef_fr.properties           |  99 |
 | Help files                     | 100 |
 
 #### German
@@ -57,7 +57,7 @@ contains the help files in the various languages. They are in html format.
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_de.properties             | 100 |
-| JabRef_de.properties           | 100 |
+| JabRef_de.properties           |  99 |
 | Help files                     |  79 |
 
 #### Indonesian
@@ -65,7 +65,7 @@ contains the help files in the various languages. They are in html format.
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_in.properties             |  98 |
-| JabRef_in.properties           |  84 |
+| JabRef_in.properties           |  83 |
 | Help files                     |  60 |
 
 #### Italian
@@ -80,7 +80,7 @@ contains the help files in the various languages. They are in html format.
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_ja.properties             | 100 |
+| Menu_ja.properties             |  99 |
 | JabRef_ja.properties           |  98 |
 | Help files                     | 100 |
 
@@ -89,7 +89,7 @@ contains the help files in the various languages. They are in html format.
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_no.properties             |  98 |
-| JabRef_no.properties           |  66 |
+| JabRef_no.properties           |  65 |
 | Help files                     |   0 |
 
 #### Persian
@@ -113,7 +113,7 @@ contains the help files in the various languages. They are in html format.
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_ru.properties             |  98 |
-| JabRef_ru.properties           |  79 |
+| JabRef_ru.properties           |  78 |
 | Help files                     |   0 |
 
 #### Spanish
@@ -121,15 +121,15 @@ contains the help files in the various languages. They are in html format.
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_es.properties             |  98 |
-| JabRef_es.properties           |  95 |
+| JabRef_es.properties           |  94 |
 | Help files                     |   0 |
 
 #### Swedish
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_sv.properties             |  98 |
-| JabRef_sv.properties           |  75 |
+| Menu_sv.properties             | 100 |
+| JabRef_sv.properties           |  84 |
 | Help files                     |   0 |
 
 #### Turkish
@@ -145,7 +145,7 @@ contains the help files in the various languages. They are in html format.
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_vi.properties             |  81 |
-| JabRef_vi.properties           |  57 |
+| JabRef_vi.properties           |  56 |
 | Help files                     |   0 |
 
 
