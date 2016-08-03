@@ -1,7 +1,9 @@
 ## Next TelCo
 - [ ] Icon contest
 - [ ] [Download mirror](https://www.heise.de/security/meldung/FossHub-kompromittiert-Software-Installer-mit-Malware-infiziert-3286347.html)
-- [ ] Do we need [code signing certificates](http://stackoverflow.com/questions/1177552/code-signing-certificate-for-open-source-projects), e.g. from [StartSSL](https://www.startssl.com/) for 59$/year? - [Install4J supports it](https://www.ej-technologies.com/products/install4j/whatsnew51.html).
+- [ ] Do we need [code signing certificates](http://stackoverflow.com/questions/1177552/code-signing-certificate-for-open-source-projects)? [Install4J supports it](https://www.ej-technologies.com/products/install4j/whatsnew51.html).
+  * [14€/Jahr](https://www.certum.eu/certum/cert,offer_en_open_source_cs.xml)
+  * Alternatives from [StartSSL](https://www.startssl.com/) for 59$/year?
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
