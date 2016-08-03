@@ -1,5 +1,6 @@
 ## Next TelCo
 - [ ] Icon contest
+- [ ] [Download mirror](https://www.heise.de/security/meldung/FossHub-kompromittiert-Software-Installer-mit-Malware-infiziert-3286347.html)
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
