@@ -4,6 +4,10 @@
 - [ ] Do we need [code signing certificates](http://stackoverflow.com/questions/1177552/code-signing-certificate-for-open-source-projects)? [Install4J supports it](https://www.ej-technologies.com/products/install4j/whatsnew51.html).
   * [14€/Jahr](https://www.certum.eu/certum/cert,offer_en_open_source_cs.xml)
   * Alternatives from [StartSSL](https://www.startssl.com/) for 59$/year?
+- [ ] Sort github labels in categories, for example similar to [JabFox](https://github.com/JabRef/JabFox/labels) (proposal by Tobi):
+  * t:bug, t:feature (t for type)
+  * s:waitingforfeedback, s:fixedindev, s:wontfix (s for status)
+  * pr:review, pr:stuproReview
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
