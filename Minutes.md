@@ -9,6 +9,7 @@
   * t:bug, t:feature (t for type)
   * s:waitingforfeedback, s:fixedindev, s:wontfix (s for status)
   * pr:review, pr:stuproReview
+- Simon: Leave of absence until first draft of diss is done. No participation in any form until then.
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
