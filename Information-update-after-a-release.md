@@ -1,6 +1,6 @@
-The place that should be checked after a release are:
+(The release binaries can be downloaded from https://circleci.com/gh/JabRef/jabref. Steps for releasing are described at https://github.com/JabRef/jabref/wiki/Releasing-a-new-Version)
 
-(The release binaries can be downloaded from https://circleci.com/gh/JabRef/jabref)
+The place that should be checked after a release are the following:
 
 ## maintained by JabRef developers
 - http://www.jabref.org
