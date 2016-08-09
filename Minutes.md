@@ -3,6 +3,7 @@
 - [ ] last week of StuPro: 26.9. to 30.9. - man power and maybe short dev calls to enable fast feedback and merging PRs
   - PRs: https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Astupro
   - Issues: https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro
+- [ ] final switch to MIT license
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
