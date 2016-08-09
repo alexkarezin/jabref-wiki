@@ -1,26 +1,38 @@
-## Next TelCo
+## Next Telco (2016-09-13, 13:00)
 - [ ] Icon contest
-- [ ] Maybe ask the community whether someone wants to get funded for JabRef dev: https://prototypefund.de/faq/
-- [ ] We are on [gratipay](https://gratipay.com/about/): https://gratipay.com/JabRef/ - see also http://gratipay-or-bountysource.guide/
-- [ ] [Download mirror](https://www.heise.de/security/meldung/FossHub-kompromittiert-Software-Installer-mit-Malware-infiziert-3286347.html)
-- [ ] Do we need [code signing certificates](http://stackoverflow.com/questions/1177552/code-signing-certificate-for-open-source-projects)? [Install4J supports it](https://www.ej-technologies.com/products/install4j/whatsnew51.html).
-  * [14€/Jahr](https://www.certum.eu/certum/cert,offer_en_open_source_cs.xml)
-  * Alternatives from [StartSSL](https://www.startssl.com/) for 59$/year?
-- [ ] Sort github labels in categories, for example similar to [JabFox](https://github.com/JabRef/JabFox/labels) (proposal by Tobi):
-  * t:bug, t:feature (t for type)
-  * s:waitingforfeedback, s:fixedindev, s:wontfix (s for status)
-  * pr:review, pr:stuproReview
-- Simon: Leave of absence until first draft of diss is done. No participation in any form until then.
+- [ ] last week of StuPro: 26.9. to 30.9. - man power and maybe short dev calls to enable fast feedback and merging PRs
+  - PRs: https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Astupro
+  - Issues: https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] JavaFX
-- [ ] Define main topic for release 3.8
+- [ ] Define main topic for release 3.7
   - proposal by Stefan: Store LaTeX-free version of entry to improve search/download abilities -> https://github.com/JabRef/jabref/issues/518?
 - [ ] Prioritize, discuss, and close the mass of open issues
-- [ ] See "Discussions for Leisure Time"
+- [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2016-08-09
+- [x] Icon contest
+- [x] Maybe ask the community whether someone wants to get funded for JabRef dev: https://prototypefund.de/faq/
+- [x] We are on [gratipay](https://gratipay.com/about/): https://gratipay.com/JabRef/ - see also http://gratipay-or-bountysource.guide/
+- [x] [Download mirror](https://www.heise.de/security/meldung/FossHub-kompromittiert-Software-Installer-mit-Malware-infiziert-3286347.html)
+  - We keep FossHub and hope they [will keep improving their security](https://www.reddit.com/r/sysadmin/comments/4vzovk/fosshub_statement_regarding_2nd_august_security/)
+- [x] Do we need [code signing certificates](http://stackoverflow.com/questions/1177552/code-signing-certificate-for-open-source-projects)? [Install4J supports it](https://www.ej-technologies.com/products/install4j/whatsnew51.html).
+  * [14€/Jahr](https://www.certum.eu/certum/cert,offer_en_open_source_cs.xml)
+  * Alternatives from [StartSSL](https://www.startssl.com/) for 59$/year?
+  * Mac OS X seems to going to block unsigned software
+  * @koppor takes care
+- [x] Sort github labels in categories, for example similar to [JabFox](https://github.com/JabRef/JabFox/labels) (proposal by Tobi):
+  * t:bug, t:feature (t for type)
+  * s:waitingforfeedback, s:fixedindev, s:wontfix (s for status)
+  * pr:review, pr:stuproReview
+  * not used, we cleaned up some labels at https://github.com/JabRef/jabref/labels
+- [x] Simon: Leave of absence until first draft of diss is done. No participation in any form until then.
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
+- [x] [PR status](https://github.com/JabRef/jabref/pulls)?
 
 ## 2016-07-26
 - [x] Icon contest
