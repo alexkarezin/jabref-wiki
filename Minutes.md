@@ -4,6 +4,8 @@
   - PRs: https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Astupro
   - Issues: https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro
 - [ ] final switch to MIT license
+- [ ] Move to [Lucene's query parser](https://lucene.apache.org/core/2_9_4/queryparsersyntax.html) for searches? Triggered by https://github.com/JabRef/jabref/issues/1633#issuecomment-238762667
+
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
