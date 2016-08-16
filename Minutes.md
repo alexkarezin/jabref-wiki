@@ -12,6 +12,7 @@
   - Issues: https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro
 - [ ] http://jabref.software.informer.com/
 - [ ] http://mr-dlib.org/
+- [ ] Does anyone need "Preview 2"?
 - [ ] Move to [Lucene's query parser](https://lucene.apache.org/core/2_9_4/queryparsersyntax.html) for searches? Triggered by https://github.com/JabRef/jabref/issues/1633#issuecomment-238762667
 
 ### Topics discussed in each telephone conference
