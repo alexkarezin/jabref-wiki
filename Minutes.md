@@ -1,29 +1,33 @@
 ## Next-next Telco (2016-09-13, 13:00)
-- [ ] last week of StuPro: 26.9. to 30.9. - man power and maybe short dev calls to enable fast feedback and merging PRs
-  - PRs: https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Astupro
-  - Issues: https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro
-
-## Next Telco (2016-08-??, 09:00)
-- [ ] Icon contest
-- [ ] final switch to MIT license
-- [ ] Next release
-- [ ] last week of StuPro: 26.9. to 30.9. - man power and maybe short dev calls to enable fast feedback and merging PRs
-  - PRs: https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Astupro
-  - Issues: https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro
-- [ ] http://jabref.software.informer.com/
-- [ ] http://mr-dlib.org/
-- [ ] Does anyone need "Preview 2"?
 - [ ] Move to [Lucene's query parser](https://lucene.apache.org/core/2_9_4/queryparsersyntax.html) for searches? Triggered by https://github.com/JabRef/jabref/issues/1633#issuecomment-238762667
+- [ ] last week of StuPro: 26.9. to 30.9. - man power and maybe short dev calls to enable fast feedback and merging PRs
+  - PRs: https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Astupro
+  - Issues: https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] JavaFX
-- [ ] Define main topic for release 3.7
-  - proposal by Stefan: Store LaTeX-free version of entry to improve search/download abilities -> https://github.com/JabRef/jabref/issues/518?
+- [ ] Status of main topic for next release
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2016-08-18
+- [x] Icon contest
+- [x] final switch to MIT license
+- [x] Next release
+- [x] last week of StuPro: 26.9. to 30.9. - man power and maybe short dev calls to enable fast feedback and merging PRs
+  - PRs: https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Astupro
+  - Issues: https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro
+- [x] http://jabref.software.informer.com/
+- [x] http://mr-dlib.org/
+- [x] Does anyone need "Preview 2"?
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
+- [x] [PR status](https://github.com/JabRef/jabref/pulls)?
+- [x] Define main topic for release 3.7
+  - proposal by Stefan: Store LaTeX-free version of entry to improve search/download abilities -> https://github.com/JabRef/jabref/issues/518?
+  - better knowledge focus -> faster pull request review
 
 ## 2016-08-09
 - [x] Icon contest
