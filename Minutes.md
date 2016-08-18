@@ -1,6 +1,7 @@
 ## Next-next Telco (2016-09-13, 13:00)
 - [ ] Move to [Lucene's query parser](https://lucene.apache.org/core/2_9_4/queryparsersyntax.html) for searches? Triggered by https://github.com/JabRef/jabref/issues/1633#issuecomment-238762667
-- [ ] last week of StuPro: 26.9. to 30.9. - man power and maybe short dev calls to enable fast feedback and merging PRs
+- [ ] Responsibilities for certain parts (database, PDF handling, JavaFX) + seniors
+- [ ] Last week of StuPro: 26.9. to 30.9. - man power and maybe short dev calls to enable fast feedback and merging PRs
   - PRs: https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Astupro
   - Issues: https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro
 
