@@ -92,6 +92,7 @@ Create Folder and put files there-> https://sourceforge.net/projects/jabref/file
 Web Content
 Update
 2. FossHub (via developer account)
+   It is very important to that **BEFORE** GitHub, because of the auto update feature.
 3. GitHub  
 [Create new release](https://github.com/JabRef/jabref/releases) based on tag.
 Upload binaries to GitHub release page. 
