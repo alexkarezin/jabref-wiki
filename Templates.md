@@ -1,4 +1,5 @@
 Our collection of github templates.
+Add these to your [Saved replies](https://github.com/settings/replies)
 
 ## inactivity
 ```
