@@ -27,3 +27,8 @@ Only in very seldom cases (such as JabRef not starting at all on some OS), add t
 ```
 There is a version that should fix this at http://builds.jabref.org/BRANCHNAME/ (in 15 minutes or so). Please try it out. 
 ```
+
+## second review pending
+```
+Besides minor comments, LGTM :+1:. The changes need a second review and thus this PR awaits a second review.
+```
