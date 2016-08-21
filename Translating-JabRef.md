@@ -11,15 +11,14 @@ Contributing a new language to JabRef is easy since JabRef is prepared for multi
 ## List of translation files
 
 In the JabRef source code tree, the property files reside in the [/src/main/resources/l10n](../tree/master/src/main/resources/l10n) directory.
-For each language there are three files (X denotes the country code for the language): 
+For each language there are twofiles (`xx` denotes the country code for the language): 
 
-  * JabRef_xx.properties: main translation file 
-  * Menu_xx.properties: translation of menu items, marked up for mnemonic keys 
+  * `JabRef_xx.properties`: main translation file 
+  * `Menu_xx.properties`: translation of menu items, marked up for mnemonic keys 
 
-Additionally, the [/src/main/resources/help](../tree/master/src/main/resources/help) directory
-contains the help files in the various languages. They are in html format.
+Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contains the help files in the various languages. They are in markdown format.
 
-## Translation status (on August 16, 2016 - Branch Master)
+## Translation status (on August 16, 2016 - Branch `master`)
 
 #### Chinese (simplified)
 
