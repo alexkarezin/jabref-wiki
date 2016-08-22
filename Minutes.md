@@ -15,6 +15,13 @@
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
+## Next Telco (2016-08-25, 13:00)
+- [ ] Icon contest
+- [ ] https://github.com/JabRef/jabref/milestones/v3.6
+- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
+- [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
+
+
 ## 2016-08-18
 - [x] Icon contest
 - [x] final switch to MIT license
