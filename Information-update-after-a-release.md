@@ -5,8 +5,9 @@ The place that should be checked after a release are the following:
 ## maintained by JabRef developers
 - http://www.jabref.org
 - http://blog.jabref.org (for announcement)
-- http://discourse.jabref.org (for annoucement)
+- http://discourse.jabref.org (for announcement)
 - http://www.jabref.org/faq/ (for depreciated Q&A)
+- https://sourceforge.net/projects/jabref/
 
 ## handled by JabRef developers
 - http://www.macupdate.com/app/mac/19869/jabref (@koppor)
