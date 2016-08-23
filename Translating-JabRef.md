@@ -18,7 +18,7 @@ For each language there are twofiles (`xx` denotes the country code for the lang
 
 Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contains the help files in the various languages. They are in markdown format.
 
-## Translation status (on August 22, 2016 - Branch `master`)
+## Translation status (on August 23, 2016 - Branch `master`)
 
 #### Chinese (simplified)
 
@@ -48,7 +48,7 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_fr.properties             | 100 |
-| JabRef_fr.properties           |  99 |
+| JabRef_fr.properties           | 100 |
 | Help files                     | 100 |
 
 #### German
