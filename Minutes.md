@@ -17,10 +17,10 @@
 
 ## Next Telco (2016-08-25, 13:00)
 - [ ] Icon contest
+- [ ] Cloudflare problem with discourse - Status?
 - [ ] https://github.com/JabRef/jabref/milestones/v3.6
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
-
 
 ## 2016-08-18
 - [x] Icon contest
