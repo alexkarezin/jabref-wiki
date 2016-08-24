@@ -19,6 +19,7 @@
 - [ ] Icon contest
 - [ ] Cloudflare problem with discourse - Status?
 - [ ] https://github.com/JabRef/jabref/milestones/v3.6
+- [ ] Should we move the FAQ to discourse (such as http://forum.pkp.sfu.ca/c/faqs) or to https://faq.jabref.org?
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
 
