@@ -16,8 +16,6 @@ For each language there are twofiles (`xx` denotes the country code for the lang
   * `JabRef_xx.properties`: main translation file 
   * `Menu_xx.properties`: translation of menu items, marked up for mnemonic keys 
 
-Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contains the help files in the various languages. They are in markdown format.
-
 ## Translation status (on August 25, 2016 - Branch `master`)
 
 #### Chinese (simplified)
@@ -26,14 +24,12 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_zh.properties             |  95 |
 | JabRef_zh.properties           |  79 |
-| Help files                     |   0 |
 
 #### Danish
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_da.properties             |  95 |
 | JabRef_da.properties           |  62 |
-| Help files                     |   1 |
 
 #### Dutch
 
@@ -41,7 +37,6 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_nl.properties             |  95 |
 | JabRef_nl.properties           |  41 |
-| Help files                     |   0 |
 
 #### French
 
@@ -49,7 +44,6 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_fr.properties             | 100 |
 | JabRef_fr.properties           |  99 |
-| Help files                     | 100 |
 
 #### German
 
@@ -57,7 +51,6 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_de.properties             | 100 |
 | JabRef_de.properties           | 100 |
-| Help files                     |  79 |
 
 #### Indonesian
 
@@ -65,7 +58,6 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_in.properties             |  95 |
 | JabRef_in.properties           |  79 |
-| Help files                     |  60 |
 
 #### Italian
 
@@ -73,7 +65,6 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_it.properties             |  95 |
 | JabRef_it.properties           |  74 |
-| Help files                     |   0 |
 
 #### Japanese
 
@@ -81,7 +72,6 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_ja.properties             |  96 |
 | JabRef_ja.properties           |  93 |
-| Help files                     | 100 |
 
 #### Norwegian
 
@@ -89,7 +79,6 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_no.properties             |  95 |
 | JabRef_no.properties           |  62 |
-| Help files                     |   0 |
 
 #### Persian
 
@@ -97,7 +86,6 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_fa.properties             |  95 |
 | JabRef_fa.properties           |   1 |
-| Help files                     |   0 |
 
 #### Portuguese (Brazil)
 
@@ -105,7 +93,6 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_pt_br.properties          |  95 |
 | JabRef_pt_br.properties        |  77 |
-| Help files                     |   0 |
 
 #### Russian
 
@@ -113,7 +100,6 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_ru.properties             |  95 |
 | JabRef_ru.properties           |  74 |
-| Help files                     |   0 |
 
 #### Spanish
 
@@ -121,7 +107,6 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_es.properties             |  95 |
 | JabRef_es.properties           |  89 |
-| Help files                     |   0 |
 
 #### Swedish
 
@@ -129,7 +114,6 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_sv.properties             | 100 |
 | JabRef_sv.properties           |  90 |
-| Help files                     |   0 |
 
 #### Turkish
 
@@ -137,7 +121,6 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_tr.properties             | 100 |
 | JabRef_tr.properties           | 100 |
-| Help files                     |   0 |
 
 #### Vietnamese
 
@@ -145,7 +128,6 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | ------------------------------ | --- |
 | Menu_vi.properties             |  78 |
 | JabRef_vi.properties           |  53 |
-| Help files                     |   0 |
 
 
 ## The format of the property files
@@ -171,7 +153,7 @@ The character encoding should be **UTF-8**. Please try to avoid Unicode escaping
 ## Directly editing the files
 
 Github offers to edit the files directly without requiring to download them or to use git.
-Go to https://github.com/JabRef/jabref/tree/master/src/main/resources/l10n. To edit a file, click on the filename, and then click on the pencil icon (to the top right-hand). When you are done, add a message at the bottom and click on "Commit changes". You are done. Easy!
+Go to https://github.com/JabRef/jabref/tree/master/src/main/resources/l10n. To edit a file, click on the filename, and then click on the pencil icon (to the top right-hand). When you are done, add a message at the bottom and click on "Propose file change". Then, click on "Create pull request". You are done. Easy!
 
 ## Using Popeye for editing translations
 
@@ -237,7 +219,7 @@ Alternatively, you can create a pull request. Follow [CONTRIBUTING.md](https://g
 ### Steps to use the version control system
 
 If you are interested on a autonomic submission of your updated translations without the need to contact a developer for each update, you will need to get write access to the git repository.
-Contact the developer you hit before or contact the project manager - preferably through the [jabref-users](https://lists.sourceforge.net/lists/listinfo/jabref-users) mailing list.
+Contact the developer you hit before or contact the project manager - preferably through the [Discourse forum](http://discourse.jabref.org/) .
 Then you can send over your initial versions of the translation files, and your language can be added to the current development version of JabRef.
 You will be made a member of the project group, and given the necessary access to our source control tree.
 This requires you to have a user account at github.
