@@ -18,7 +18,7 @@
 * [[Code Howtos]]: tips and tricks for coders.
 * [Feature Requests collected on SourceForge](FeatureRequests Sorted). Currently, feature requests are collected on [GitHub](https://github.com/JabRef/jabref/labels/feature)
 * [Sync your fork with the JabRef repository](https://help.github.com/articles/syncing-a-fork/)
-* [[Translating JabRef]]: JabRef in your preferred language.
+* [[Translating JabRef Interface]]: JabRef interface in your preferred language.
 * [[Tools]]: Useful software for an easier programming
 * [[High-Level-Documentation]]: The absolute essence of technical documentation
 * [The branches of the repository](Branches)
