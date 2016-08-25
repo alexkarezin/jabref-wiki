@@ -1,4 +1,4 @@
-## Next-next Telco (2016-09-13, 13:00)
+## Next Telco (2016-09-13, 13:00)
 - [ ] Move to [Lucene's query parser](https://lucene.apache.org/core/2_9_4/queryparsersyntax.html) for searches? Triggered by https://github.com/JabRef/jabref/issues/1633#issuecomment-238762667
 - [ ] Responsibilities for certain parts (database, PDF handling, JavaFX) + seniors
 - [ ] Reduce importer/exporter code by including [bibutils](https://sourceforge.net/p/bibutils/home/Bibutils/)?
@@ -15,7 +15,7 @@
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
-## Next Telco (2016-08-25, 13:00)
+## 2016-08-25, 13:00
 - [x] Icon contest
     - Voting results: https://docs.google.com/forms/d/e/1FAIpQLSelrA3OsxmyagNg5YiyeZoGLaVgIF-EN_ExFRQ5HB-BjSkq9g/viewanalytics?usp=form_confirm
     - AikTheOne (34.1) is the winner
