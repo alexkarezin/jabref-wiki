@@ -16,12 +16,14 @@
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
 ## Next Telco (2016-08-25, 13:00)
-- [ ] Icon contest
-- [ ] Cloudflare problem with discourse - Status?
-- [ ] https://github.com/JabRef/jabref/milestones/v3.6
-- [ ] Should we move the FAQ to discourse (such as http://forum.pkp.sfu.ca/c/faqs) or to https://faq.jabref.org?
-- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
-- [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
+- [x] Icon contest
+    - Voting results: https://docs.google.com/forms/d/e/1FAIpQLSelrA3OsxmyagNg5YiyeZoGLaVgIF-EN_ExFRQ5HB-BjSkq9g/viewanalytics?usp=form_confirm
+    - AikTheOne (34.1) is the winner
+- [x] https://github.com/JabRef/jabref/milestones/v3.6
+    - release still scheduled for 2016-08-25
+- [x] Should we move the FAQ to discourse (such as http://forum.pkp.sfu.ca/c/faqs or to https://faq.jabref.org?
+  - Integrate into the help to have an integrated help
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 
 ## 2016-08-18
 - [x] Icon contest
