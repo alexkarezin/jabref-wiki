@@ -2,9 +2,10 @@
 
 See https://github.com/JabRef/jabref/wiki/Donations
 
-## Translate JabRef
+## Translate JabRef Interface and help
 
-See https://github.com/JabRef/jabref/wiki/Translating-JabRef
+For translation of the interface, see https://github.com/JabRef/jabref/wiki/Translating-JabRef-Interface .
+For translation of the help, see https://github.com/JabRef/jabref/wiki/Translating-JabRef-Help .
 
 ## Keep Wikipedia pages up-to-date
 
