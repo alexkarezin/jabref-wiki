@@ -18,7 +18,7 @@ For each language there are twofiles (`xx` denotes the country code for the lang
 
 Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contains the help files in the various languages. They are in markdown format.
 
-## Translation status (on August 23, 2016 - Branch `master`)
+## Translation status (on August 25, 2016 - Branch `master`)
 
 #### Chinese (simplified)
 
@@ -48,15 +48,15 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_fr.properties             | 100 |
-| JabRef_fr.properties           | 100 |
+| JabRef_fr.properties           |  99 |
 | Help files                     | 100 |
 
 #### German
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_de.properties             |  99 |
-| JabRef_de.properties           |  99 |
+| Menu_de.properties             | 100 |
+| JabRef_de.properties           | 100 |
 | Help files                     |  79 |
 
 #### Indonesian
@@ -72,7 +72,7 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_it.properties             |  95 |
-| JabRef_it.properties           |  75 |
+| JabRef_it.properties           |  74 |
 | Help files                     |   0 |
 
 #### Japanese
@@ -104,7 +104,7 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_pt_br.properties          |  95 |
-| JabRef_pt_br.properties        |  78 |
+| JabRef_pt_br.properties        |  77 |
 | Help files                     |   0 |
 
 #### Russian
@@ -112,7 +112,7 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_ru.properties             |  95 |
-| JabRef_ru.properties           |  75 |
+| JabRef_ru.properties           |  74 |
 | Help files                     |   0 |
 
 #### Spanish
@@ -127,16 +127,16 @@ Additionally, the repository <https://github.com/JabRef/help.jabref.org/> contai
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_sv.properties             |  98 |
-| JabRef_sv.properties           |  86 |
+| Menu_sv.properties             | 100 |
+| JabRef_sv.properties           |  90 |
 | Help files                     |   0 |
 
 #### Turkish
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_tr.properties             |  97 |
-| JabRef_tr.properties           |  98 |
+| Menu_tr.properties             | 100 |
+| JabRef_tr.properties           | 100 |
 | Help files                     |   0 |
 
 #### Vietnamese
