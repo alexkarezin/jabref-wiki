@@ -30,6 +30,32 @@ Feel free to add something. We are open to suggestions for including tools in ou
 
 ### Other references
 * @Gruber2010: Gruber H., Plösch R., Saft M.: On the validity of benchmarking for evaluating code quality, in: International Conferences on Software Measurement IWSM/MetriKon/Mensura, 2010. 
+* @Tahir2014: Tahir A., G. MacDonell S. and Buchan J. (2014). Understanding Class-level Testability Through Dynamic Analysis.In Proceedings of the 9th International Conference on Evaluation of Novel Approaches to Software EngineeringISBN 978-989-758-030-7, pages 38-47. DOI: 10.5220/0004883400380047 . URL: http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0004883400380047
+* @CPGLMS: Committee on Planning a Global Library of the Mathematical Sciences (2014). Developing a 21st Century Global Library for Mathematics Research. URL: https://arxiv.org/abs/1404.1905
+* @Emanuel2011: Andi Wahju Rahardjo Emanuel, Retantyo Wardoyo, Jazi Eko Istiyanto, Khabib Mustofa (2011). Modularity Index Metrics for Java-Based Open Source Software Projects. IJACSA Vol. 2 No. 11, 2011. The Science and Information Organization. URL: https://arxiv.org/abs/1309.5689
+* @Kobayashi2012: Kenichi Kobayashi (Fujitsu Laboratories), Manabu Kamimura, Koki Kato, Keisuke Yano, Akihiko Matsuo (2012. Feature-Gathering Dependency-Based Software Clustering Using Dedication and Modularity. 28th IEEE International Conference on Software Maintenance (ICSM2012), Riva del Garda, Trento, Italy, Sep 2012, pp.462-471. URL: https://arxiv.org/abs/1306.2096
+* @Nath2012: Shimul Kumar Nath, Robert Merkel, Man Fai Lau, Tanay Kanti Paul (2012). Towards a better understanding of testing if conditionals. URL: https://arxiv.org/abs/1205.6594
+* @Constantinou2011: Eleni Constantinou, George Kakarontzas, Ioannis Stamelos (2011). Open Source Software: How Can Design Metrics Facilitate Architecture Recovery? 4th Workshop on Intelligent Techniques in Software Engineering, 5 September 2011 at the European Conference on Machine Learning and Principles and Practices of Knowledge Discovery in Databases (ECML-PKDD). URL: https://arxiv.org/abs/1110.1992 
+* @Kembellec2012a:  Gérald Kembellec (2012). Technologie et pratiques bibliographiques associées à l'écriture scientifique en milieu universitaire : Étude quantitative sur la technologie et les pratiques bibliographiques en milieu universitaire. 25 pages. URL: https://hal.archives-ouvertes.fr/hal-00661550
+* @Kembellec2012b:  Gérald Kembellec, Claire Scopsi (2012). Étude comparée de quatre logiciels de gestion de références bibliographiques libres ou gratuits. Documentation et Bibliotheques, Asted Inc., 58 (4), pp.187-197. URL: https://hal.archives-ouvertes.fr/hal-00768168
+* @Hossen2014: Hossen, M. K.; Kagdi, H. & Poshyvanyk, D. (2014). Amalgamating Source Code Authors, Maintainers, and Change Proneness to Triage Change Requests Proceedings of the 22Nd International Conference on Program Comprehension, ACM, 130-141. URL: https://dl.acm.org/citation.cfm?doid=2597008.2597147
+* @Datta2010: Datta, A. (2010). SoJa: Collaborative reference management using a decentralized social information system Proc. 6th Int Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom) Conf, 2010, 1-9. URL: http://eudl.eu/doi/10.4108/icst.collaboratecom.2010.32
+* @Ali2012: Ali, N.; Sabané, A.; Guéhéneuc, Y. G. & Antoniol, G. (2012) Improving Bug Location Using Binary Class Relationships Proc. IEEE 12th Int Source Code Analysis and Manipulation (SCAM) Working Conf, 2012, 174-183 URL: http://ieeexplore.ieee.org/document/6392116/?arnumber=6392116
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   [Elmar Juergens]: https://www.cqse.eu/de/team/elmar-juergens/
   [Stefan Wagner]: http://www.uni-stuttgart.de/hkom/experten/experten/wagner.html
