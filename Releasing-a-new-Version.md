@@ -82,7 +82,7 @@ This version is a development version. Features may not work as expected.
 Rationale: We could possibly do a bugfix release, so we only increment the major version on the next release.
 
 4. Commit the changes for the new dev cycle  
-`commit - message "Show development information"`  
+`git commit -m "Show development information"`  
 `git push origin master`  
 
 ## Publish Binaries 
@@ -92,7 +92,7 @@ Create Folder and put files there-> https://sourceforge.net/projects/jabref/file
 Web Content
 Update
 2. FossHub (via developer account)
-   It is very important to that **BEFORE** GitHub, because of the auto update feature.
+   It is very important to do that **BEFORE** GitHub, because of the auto update feature.
 3. GitHub  
 [Create new release](https://github.com/JabRef/jabref/releases) based on tag.
 Upload binaries to GitHub release page. 
