@@ -39,7 +39,7 @@ with
 Commit changes and update `.mailmap` if necessary.
 
 5. Create a release commit
-`git commit - log message "Release v3.0"`
+`git commit -m "Release v3.0"`
  
 ## Do Release
 `git tag v3.4`
