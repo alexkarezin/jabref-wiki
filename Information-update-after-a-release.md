@@ -14,7 +14,7 @@ The place that should be checked after a release are the following:
   - CHANGELOG.md has to be converted to html: `pandoc -f markdown_github -t html -o CHANGELOG.html CHANGELOG.md`. Change `h3` to `h5` afterwards.  
 - https://www.ctan.org/pkg/jabref
   - email them for an update
-- See also [Download Mirrors](../Download-Mirrors)
+- See also [Download Mirrors](https://github.com/JabRef/jabref/wiki/Download-Mirrors)
 
 ## handled by others
 - wikipedia:
