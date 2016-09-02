@@ -16,26 +16,26 @@ For each language there are twofiles (`xx` denotes the country code for the lang
   * `JabRef_xx.properties`: main translation file 
   * `Menu_xx.properties`: translation of menu items, marked up for mnemonic keys 
 
-## Translation status (on August 25, 2016 - Branch `master`)
+## Translation status (on September 2, 2016 - Branch `master`)
 
 #### Chinese (simplified)
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_zh.properties             |  95 |
-| JabRef_zh.properties           |  79 |
+| Menu_zh.properties             |  90 |
+| JabRef_zh.properties           |  78 |
 
 #### Danish
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_da.properties             |  95 |
+| Menu_da.properties             |  90 |
 | JabRef_da.properties           |  62 |
 
 #### Dutch
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_nl.properties             |  95 |
+| Menu_nl.properties             |  90 |
 | JabRef_nl.properties           |  41 |
 
 #### French
@@ -50,14 +50,14 @@ For each language there are twofiles (`xx` denotes the country code for the lang
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_de.properties             | 100 |
-| JabRef_de.properties           | 100 |
+| JabRef_de.properties           |  99 |
 
 #### Indonesian
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_in.properties             |  95 |
-| JabRef_in.properties           |  79 |
+| Menu_in.properties             |  90 |
+| JabRef_in.properties           |  78 |
 
 #### Italian
 
@@ -70,42 +70,42 @@ For each language there are twofiles (`xx` denotes the country code for the lang
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_ja.properties             |  96 |
-| JabRef_ja.properties           |  93 |
+| Menu_ja.properties             |  91 |
+| JabRef_ja.properties           |  92 |
 
 #### Norwegian
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_no.properties             |  95 |
-| JabRef_no.properties           |  62 |
+| Menu_no.properties             |  99 |
+| JabRef_no.properties           |  61 |
 
 #### Persian
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_fa.properties             |  95 |
+| Menu_fa.properties             |  90 |
 | JabRef_fa.properties           |   1 |
 
 #### Portuguese (Brazil)
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_pt_br.properties          |  95 |
+| Menu_pt_br.properties          |  90 |
 | JabRef_pt_br.properties        |  77 |
 
 #### Russian
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_ru.properties             |  95 |
+| Menu_ru.properties             |  90 |
 | JabRef_ru.properties           |  74 |
 
 #### Spanish
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_es.properties             |  95 |
+| Menu_es.properties             |  90 |
 | JabRef_es.properties           |  89 |
 
 #### Swedish
@@ -120,13 +120,13 @@ For each language there are twofiles (`xx` denotes the country code for the lang
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_tr.properties             | 100 |
-| JabRef_tr.properties           | 100 |
+| JabRef_tr.properties           |  99 |
 
 #### Vietnamese
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_vi.properties             |  78 |
+| Menu_vi.properties             |  74 |
 | JabRef_vi.properties           |  53 |
 
 
