@@ -1,4 +1,4 @@
-## Next Telco (2016-09-13, 13:00)
+## Next Next Telco (2016-09-13, 13:00)
 - [ ] Move to [Lucene's query parser](https://lucene.apache.org/core/2_9_4/queryparsersyntax.html) for searches? Triggered by https://github.com/JabRef/jabref/issues/1633#issuecomment-238762667
 - [ ] Responsibilities for certain parts (database, PDF handling, JavaFX) + seniors
 - [ ] Reduce importer/exporter code by including [bibutils](https://sourceforge.net/p/bibutils/home/Bibutils/)?
@@ -14,6 +14,10 @@
 - [ ] Status of main topic for next release
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2016-09-06, 09:00
+
+Integration of recommender system with [Jöran Beel](http://www.beel.org/), head of [Docear](http://www.docear.org/).
 
 ## 2016-08-25, 13:00
 - [x] Icon contest
