@@ -41,7 +41,7 @@ Feel free to add something. We are open to suggestions for including tools in ou
 * @Hossen2014: Hossen, M. K.; Kagdi, H. & Poshyvanyk, D. (2014). Amalgamating Source Code Authors, Maintainers, and Change Proneness to Triage Change Requests Proceedings of the 22Nd International Conference on Program Comprehension, ACM, 130-141. URL: https://dl.acm.org/citation.cfm?doid=2597008.2597147
 * @Datta2010: Datta, A. (2010). SoJa: Collaborative reference management using a decentralized social information system Proc. 6th Int Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom) Conf, 2010, 1-9. URL: http://eudl.eu/doi/10.4108/icst.collaboratecom.2010.32
 * @Ali2012: Ali, N.; Sabané, A.; Guéhéneuc, Y. G. & Antoniol, G. (2012) Improving Bug Location Using Binary Class Relationships Proc. IEEE 12th Int Source Code Analysis and Manipulation (SCAM) Working Conf, 2012, 174-183 URL: http://ieeexplore.ieee.org/document/6392116/?arnumber=6392116
-*
+* Developing a 21st Century Global Library for Mathematics Research [arXiv](https://arxiv.org/abs/1404.1905)
 
 
 
