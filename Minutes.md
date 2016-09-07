@@ -17,7 +17,10 @@
 
 ## 2016-09-06, 09:00
 
-Integration of recommender system with [Jöran Beel](http://www.beel.org/), head of [Docear](http://www.docear.org/).
+* Integration of recommender system with [Jöran Beel](http://www.beel.org/), head of [Docear](http://www.docear.org/).
+* Related article function w/o login
+* Pointers to https://github.com/JabRef/jabref/blob/master/CONTRIBUTING.md and https://github.com/JabRef/jabref/wiki/High-Level-Documentation
+* Web-based version of FreePlane was developed by 4 students in half a year
 
 ## 2016-08-25, 13:00
 - [x] Icon contest
