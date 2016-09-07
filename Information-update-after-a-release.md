@@ -17,7 +17,6 @@ The place that should be checked after a release are the following:
 ## Information mail required
 - https://www.ctan.org/pkg/jabref
   - email them for an update
-- https://chocolatey.org/packages/JabRef -> https://github.com/Vaquero84/chocolatey-packages/issues/6
 
 ## Handled by others
 - wikipedia:
@@ -33,3 +32,4 @@ The place that should be checked after a release are the following:
      - https://zh.wikipedia.org/wiki/JabRef
 - http://www.heise.de/download/jabref.html
 - http://filehippo.com/de/download_jabref/67564/
+- https://chocolatey.org/packages/JabRef - [@Vaquero84](https://github.com/Vaquero84/) seems to automatically track updates -> https://github.com/Vaquero84/chocolatey-packages/issues/6
