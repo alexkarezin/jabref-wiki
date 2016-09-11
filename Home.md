@@ -1,5 +1,8 @@
 # JabRef
 
+This wiki provides information centered around development and documentation of JabRef.
+The end-user documentation is available at <https://help.jabref.org>.
+
 ## General Information
 * [Main website](http://www.jabref.org): JabRef, its features, releases
 * [[Donations]]: Usage of donations, and how to make a donation
@@ -25,5 +28,5 @@
 
 ## Usage Information
 
-* [[CLI Help]]: everything about command line options
+* Everything about command line options is described at <https://help.jabref.org/en/CommandLine>
 * [The BibTeX and BibLaTex formats](BibTeX)
