@@ -8,7 +8,7 @@
 * [[Minutes]]: Ongoing discussion about JabRef roadmap
 * [2015 Survey](http://www.jabref.org/surveys/2015/): Current usage and new features, by its users.
 * [[Download Mirrors]]: Places which host JabRef
-* [[JabRef in the Press]]: Articles about JabRef in the Press
+* [[JabRef in the Media]]: Articles about JabRef in the Media and in the Press
 * [[JabRef Best Practices]]: JabRef Best Practices
 
 ## Development Information
@@ -26,5 +26,4 @@
 ## Usage Information
 
 * [[CLI Help]]: everything about command line options
-* [[JabRef in the media]]: they are talking about JabRef
 * [The BibTeX and BibLaTex formats](BibTeX)
