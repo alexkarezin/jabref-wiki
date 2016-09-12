@@ -64,4 +64,4 @@ Some of them are not listed at WikiPedia.
 * [Scientilla](http://www.scientilla.org/)
 * [WIKINDX](http://wikindx.sourceforge.net/)
 
-An evaluation from the year 2007 of collaborative literature tools: [Fachstudie Nr. 61](http://elib.uni-stuttgart.de/opus/volltexte/2007/3367/pdf/FACH_0061.pdf).
+An evaluation from the year 2007 of collaborative literature tools: [Fachstudie Nr. 61](http://www2.informatik.uni-stuttgart.de/cgi-bin/NCSTRL/NCSTRL_view.pl?id=FACH-0061&mod=0&engl=1).
