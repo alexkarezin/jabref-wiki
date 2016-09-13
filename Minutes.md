@@ -1,14 +1,4 @@
-## Next Next Telco (2016-09-13, 13:00)
-- [ ] Logo update
-- [ ] Storage of accounts (Adminwiki, KeePass, Evernote)
-- [ ] [v3.7](https://github.com/JabRef/jabref/milestones/v3.7)
-- [ ] [v4.0](https://github.com/JabRef/jabref/milestones/v4.0)
-- [ ] Last week of StuPro: 26.9. to 30.9. - man power and maybe short dev calls to enable fast feedback and merging PRs
-  - PRs: https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Astupro
-  - Issues: https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro
-- [ ] Move to [Lucene's query parser](https://lucene.apache.org/core/2_9_4/queryparsersyntax.html) for searches? Triggered by https://github.com/JabRef/jabref/issues/1633#issuecomment-238762667
-- [ ] Responsibilities for certain parts (database, PDF handling, JavaFX) + seniors
-- [ ] Reduce importer/exporter code by including [bibutils](https://sourceforge.net/p/bibutils/home/Bibutils/)?
+## Next Telco (2016-09-21, 09:00)
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
@@ -18,6 +8,21 @@
 - [ ] Status of main topic for next release
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2016-09-13, 13:00
+- [x] Logo update
+- [x] Storage of accounts (Adminwiki, KeePass, Evernote)
+- [x] [v3.7](https://github.com/JabRef/jabref/milestones/v3.7 )
+- [x] [v4.0](https://github.com/JabRef/jabref/milestones/v4.0 )
+- [x] Last week of StuPro: 26.9. to 30.9. - man power and maybe short dev calls to enable fast feedback and merging PRs
+  - PRs: https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Astupro
+  - Issues: https://github.com/JabRef/jabref/issues?q=is%3Aopen+is%3Aissue+label%3Astupro
+- [x] Move to [Lucene's query parser](https://lucene.apache.org/core/2_9_4/queryparsersyntax.html ) for searches? Triggered by https://github.com/JabRef/jabref/issues/1633#issuecomment-238762667
+- [x] Responsibilities for certain parts (database, PDF handling, JavaFX) + seniors
+- [x] Reduce importer/exporter code by including [bibutils](https://sourceforge.net/p/bibutils/home/Bibutils/ )?
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall )
+- [x] [PR status](https://github.com/JabRef/jabref/pulls )?
+- [x] Help files
 
 ## 2016-09-06, 09:00
 
