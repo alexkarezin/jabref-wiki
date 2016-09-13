@@ -1,4 +1,5 @@
 ## Next Next Telco (2016-09-13, 13:00)
+- [ ] Logo update
 - [ ] Storage of accounts (Adminwiki, KeePass, Evernote)
 - [ ] [v3.7](https://github.com/JabRef/jabref/milestones/v3.7)
 - [ ] [v4.0](https://github.com/JabRef/jabref/milestones/v4.0)
