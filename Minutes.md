@@ -1,6 +1,7 @@
 ## Next Telco (2016-09-21, 09:00)
 
 ### Topics discussed in each telephone conference
+- [ ] Decide what to do with the constants marked as deprecated in https://github.com/JabRef/jabref/pull/1913 (Keep them deprecated or revert the deprecation), also decide on a strategy for marking things as deprecated
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
 - [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
