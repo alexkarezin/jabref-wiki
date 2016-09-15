@@ -29,7 +29,8 @@ Feel free to add something. We are open to suggestions for including tools in ou
 
 ## Other
 
-- SpringerLink has an export citation option for JabRef
+- [SpringerLink](http://link.springer.com/) has an export citation option for JabRef
+- [ACS](http://pubs.acs.org/) has an export citation option for JabRef - e.g., http://pubs.acs.org/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.5b00249&doi=10.1021%2Facs.estlett.5b00249
 - [Usage in debian installations](https://qa.debian.org/popcon-graph.php?packages=jabref&show_installed=on&show_vote=on&show_old=on&want_legend=on&want_ticks=on&from_date=&to_date=&hlght_date=&date_fmt=%25Y-%25m&beenhere=1).
 - [@Tramullas2015] lists all papers evaluating literature management software.
 * @Gruber2010: Gruber H., Plösch R., Saft M.: On the validity of benchmarking for evaluating code quality, in: International Conferences on Software Measurement IWSM/MetriKon/Mensura, 2010. 
