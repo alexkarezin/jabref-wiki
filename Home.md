@@ -25,7 +25,7 @@ The end-user documentation is available at <https://help.jabref.org>.
 * [[Tools]]: Useful software for an easier programming
 * [[High-Level-Documentation]]: The absolute essence of technical documentation
 * [The branches of the repository](Branches)
-* [[continuous Integration]](CI)
+* [Continuous Integration](CI)
 
 ## Usage Information
 
