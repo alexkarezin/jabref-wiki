@@ -12,7 +12,7 @@ The end-user documentation is available at <https://help.jabref.org>.
 * [2015 Survey](http://www.jabref.org/surveys/2015/): Current usage and new features, by its users.
 * [[Download Mirrors]]: Places which host JabRef
 * [[JabRef in the Media]]: Articles about JabRef in the Media and in the Press
-* [[JabRef Best Practices]]: JabRef Best Practices
+* JabRef Best Practices are available at <http://help.jabref.org/en/BestPractices>
 
 ## Development Information
 
