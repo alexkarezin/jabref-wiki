@@ -8,6 +8,16 @@ We are constantly looking for translators and translations into other languages.
 
 Contributing a new language to JabRef is easy since JabRef is prepared for multilanguage support. It only requires the creation of a new set of translation files - so-called property files. These are text files containing one text entry per line that can easily be generated using the java program Popeye from a graphical user interface.
 
+### Quick step-by-step-guide
+
+Example for Italian.
+
+1. Click on https://github.com/JabRef/jabref/blob/master/src/main/resources/l10n/Menu_it.properties
+2. Click on the pencil
+3. Edit directly in the browser
+4. Click on "propose file change" (as shown at https://github.com/JabRef/help.jabref.org/blob/gh-pages/CONTRIBUTING.md#saving-the-changes)
+5. Then, click on "create pull request"
+
 ## List of translation files
 
 In the JabRef source code tree, the property files reside in the [/src/main/resources/l10n](../tree/master/src/main/resources/l10n) directory.
