@@ -8,6 +8,7 @@ The place that should be checked after a release are the following:
 - http://discourse.jabref.org (for announcement)
 - http://www.jabref.org/faq/ (for depreciated Q&A)
 - https://sourceforge.net/projects/jabref/
+- http://www.heise.de/download/product/jabref-24459 (currently handled by @siedlerchr)
 
 ## Handled by JabRef developers
 - http://www.macupdate.com/app/mac/19869/jabref (@koppor)
