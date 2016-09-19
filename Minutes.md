@@ -1,6 +1,7 @@
 ## Next Telco (2016-09-21, 09:00)
 - [ ] Should we move the Wiki to docs/ (see https://github.com/blog/2233-publish-your-project-documentation-with-github-pages)
 - [ ]  [![Support](https://supporterhq.com/api/b/8rzilokn64agwryeus1y17b0r/JabRef)](https://supporterhq.com/support/8rzilokn64agwryeus1y17b0r/JabRef)
+- [ ] Change string "database" to "library" - see https://github.com/JabRef/jabref/pull/1988
 
 ### Topics discussed in each telephone conference
 - [ ] Decide what to do with the constants marked as deprecated in https://github.com/JabRef/jabref/pull/1913 (Keep them deprecated or revert the deprecation), also decide on a strategy for marking things as deprecated
