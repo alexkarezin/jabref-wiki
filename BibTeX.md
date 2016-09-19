@@ -15,6 +15,10 @@ Good references for the BibTex "standard":
 * ftp://ftp.ctan.org/tex-archive/biblio/bibtex/contrib/doc/btxdoc.pdf
 * http://maverick.inria.fr/~Xavier.Decoret/resources/xdkbibtex/bibtex_summary.html
 
+BibLaTex standard:
+* http://ftp.fau.de/ctan/macros/latex/contrib/biblatex/doc/biblatex.pdf
+* https://github.com/plk/biblatex
+
 BibTeX parser:
 * https://github.com/ambs/Text-BibTeX
 * https://github.com/lvilnis/BibtexParser
