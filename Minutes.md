@@ -1,4 +1,4 @@
-## Next Telco (2016-09-28, 09:30)
+## Next Telco (2016-09-28)
 - [ ] Should we move the Wiki to docs/ (see https://github.com/blog/2233-publish-your-project-documentation-with-github-pages )
 - [ ]  [![Support]( https://supporterhq.com/api/b/8rzilokn64agwryeus1y17b0r/JabRef)]( https://supporterhq.com/support/8rzilokn64agwryeus1y17b0r/JabRef )
 - [ ] Change string "database" to "library" - see https://github.com/JabRef/jabref/pull/1988
@@ -13,12 +13,12 @@
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
-## 2016-09-21, 09:00
+## 2016-09-21
 - [x] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall )
 - [x] Designer will send new icon soon
 - [x] Miscellaneous
 
-## 2016-09-13, 13:00
+## 2016-09-13
 - [x] Logo update
 - [x] Storage of accounts (Adminwiki, KeePass, Evernote)
 - [x] [v3.7](https://github.com/JabRef/jabref/milestones/v3.7 )
@@ -33,14 +33,14 @@
 - [x] [PR status](https://github.com/JabRef/jabref/pulls )?
 - [x] Help files
 
-## 2016-09-06, 09:00
+## 2016-09-06
 
 * Integration of recommender system with [Jöran Beel](http://www.beel.org/), head of [Docear](http://www.docear.org/).
 * Related article function w/o login
 * Pointers to https://github.com/JabRef/jabref/blob/master/CONTRIBUTING.md and https://github.com/JabRef/jabref/wiki/High-Level-Documentation
 * Web-based version of FreePlane was developed by 4 students in half a year
 
-## 2016-08-25, 13:00
+## 2016-08-25
 - [x] Icon contest
     - Voting results: https://docs.google.com/forms/d/e/1FAIpQLSelrA3OsxmyagNg5YiyeZoGLaVgIF-EN_ExFRQ5HB-BjSkq9g/viewanalytics?usp=form_confirm
     - AikTheOne (34.1) is the winner
