@@ -1,17 +1,22 @@
-## Next Telco (2016-09-21, 09:00)
-- [ ] Should we move the Wiki to docs/ (see https://github.com/blog/2233-publish-your-project-documentation-with-github-pages)
-- [ ]  [![Support](https://supporterhq.com/api/b/8rzilokn64agwryeus1y17b0r/JabRef)](https://supporterhq.com/support/8rzilokn64agwryeus1y17b0r/JabRef)
+## Next Telco (2016-09-28, 09:30)
+- [ ] Should we move the Wiki to docs/ (see https://github.com/blog/2233-publish-your-project-documentation-with-github-pages )
+- [ ]  [![Support]( https://supporterhq.com/api/b/8rzilokn64agwryeus1y17b0r/JabRef)]( https://supporterhq.com/support/8rzilokn64agwryeus1y17b0r/JabRef )
 - [ ] Change string "database" to "library" - see https://github.com/JabRef/jabref/pull/1988
 - [ ] Decide what to do with the constants marked as deprecated in https://github.com/JabRef/jabref/pull/1913 (Keep them deprecated or revert the deprecation), also decide on a strategy for marking things as deprecated
 
 ### Topics discussed in each telephone conference
-- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall)
-- [ ] [PR status](https://github.com/JabRef/jabref/pulls)?
+- [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too
+- [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] JavaFX
 - [ ] Status of main topic for next release
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2016-09-21, 09:00
+- [x] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall )
+- [x] Designer will send new icon soon
+- [x] Miscellaneous
 
 ## 2016-09-13, 13:00
 - [x] Logo update
