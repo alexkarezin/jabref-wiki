@@ -26,19 +26,19 @@ For each language there are twofiles (`xx` denotes the country code for the lang
   * `JabRef_xx.properties`: main translation file 
   * `Menu_xx.properties`: translation of menu items, marked up for mnemonic keys 
 
-## Translation status (on September 16, 2016 - Branch `master`)
+## Translation status (on September 28, 2016 - Branch `master`)
 
 #### Chinese (simplified)
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_zh.properties             |  89 |
+| Menu_zh.properties             |  87 |
 | JabRef_zh.properties           |  77 |
 
 #### Danish
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_da.properties             |  89 |
+| Menu_da.properties             |  87 |
 | JabRef_da.properties           |  61 |
 
 #### Dutch
@@ -46,98 +46,98 @@ For each language there are twofiles (`xx` denotes the country code for the lang
 | File                           | % done|
 | ------------------------------ | --- |
 | Menu_nl.properties             |  89 |
-| JabRef_nl.properties           |  41 |
+| JabRef_nl.properties           |  40 |
 
 #### French
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_fr.properties             |  99 |
+| Menu_fr.properties             |  98 |
 | JabRef_fr.properties           |  99 |
 
 #### German
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_de.properties             | 100 |
+| Menu_de.properties             |  98 |
 | JabRef_de.properties           |  99 |
 
 #### Indonesian
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_in.properties             |  89 |
-| JabRef_in.properties           |  78 |
+| Menu_in.properties             |  87 |
+| JabRef_in.properties           |  77 |
 
 #### Italian
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_it.properties             |  94 |
-| JabRef_it.properties           |  73 |
+| Menu_it.properties             |  92 |
+| JabRef_it.properties           |  99 |
 
 #### Japanese
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_ja.properties             | 100 |
-| JabRef_ja.properties           |  99 |
+| Menu_ja.properties             |  98 |
+| JabRef_ja.properties           |  98 |
 
 #### Norwegian
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_no.properties             |  98 |
+| Menu_no.properties             |  96 |
 | JabRef_no.properties           |  61 |
 
 #### Persian
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_fa.properties             |  89 |
+| Menu_fa.properties             |  87 |
 | JabRef_fa.properties           |   1 |
 
 #### Portuguese (Brazil)
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_pt_br.properties          |  89 |
+| Menu_pt_br.properties          |  87 |
 | JabRef_pt_br.properties        |  76 |
 
 #### Russian
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_ru.properties             |  89 |
+| Menu_ru.properties             |  87 |
 | JabRef_ru.properties           |  73 |
 
 #### Spanish
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_es.properties             |  89 |
-| JabRef_es.properties           |  88 |
+| Menu_es.properties             |  87 |
+| JabRef_es.properties           |  87 |
 
 #### Swedish
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_sv.properties             |  99 |
-| JabRef_sv.properties           |  90 |
+| Menu_sv.properties             |  97 |
+| JabRef_sv.properties           |  89 |
 
 #### Turkish
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_tr.properties             |  99 |
+| Menu_tr.properties             | 100 |
 | JabRef_tr.properties           |  99 |
 
 #### Vietnamese
 
 | File                           | % done|
 | ------------------------------ | --- |
-| Menu_vi.properties             |  73 |
-| JabRef_vi.properties           |  53 |
+| Menu_vi.properties             |  71 |
+| JabRef_vi.properties           |  52 |
 
 
 ## The format of the property files
