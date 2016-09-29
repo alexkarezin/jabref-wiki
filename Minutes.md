@@ -1,8 +1,4 @@
-## Next Telco (2016-09-28)
-- [ ] Should we move the Wiki to docs/ (see https://github.com/blog/2233-publish-your-project-documentation-with-github-pages )
-- [ ]  [![Support]( https://supporterhq.com/api/b/8rzilokn64agwryeus1y17b0r/JabRef)]( https://supporterhq.com/support/8rzilokn64agwryeus1y17b0r/JabRef )
-- [ ] Change string "database" to "library" - see https://github.com/JabRef/jabref/pull/1988
-- [ ] Decide what to do with the constants marked as deprecated in https://github.com/JabRef/jabref/pull/1913 (Keep them deprecated or revert the deprecation), also decide on a strategy for marking things as deprecated
+## Next Telco (2016-10-06)
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too
@@ -12,6 +8,15 @@
 - [ ] Status of main topic for next release
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2016-09-28
+- [x] LaTeX-free version
+- [x] Logo
+- [x] Should we move the Wiki to docs/ (see https://github.com/blog/2233-publish-your-project-documentation-with-github-pages )
+- [x]  [![Support]( https://supporterhq.com/api/b/8rzilokn64agwryeus1y17b0r/JabRef)]( https://supporterhq.com/support/8rzilokn64agwryeus1y17b0r/JabRef ) -->  postponed until we can hire someone
+- [x] Change string "database" to "library" - see https://github.com/JabRef/jabref/pull/1988
+- [x] Decide what to do with the constants marked as deprecated in https://github.com/JabRef/jabref/pull/1913 (Keep them deprecated or revert the deprecation), also decide on a strategy for marking things as deprecated
+- [x] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall )
 
 ## 2016-09-21
 - [x] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall )
