@@ -1,4 +1,5 @@
-## Next Telco (2016-10-06)
+## Next Telco (2016-10-20)
+- [ ] [JabCon](http://jabcon.jabref.org/) 2017 - 2017-02-15 to 2017-02-16 in Lugano, co-located with [ZEUS](http://zeus-workshop.eu/).
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too
@@ -8,6 +9,10 @@
 - [ ] Status of main topic for next release
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2016-10-06
+* https://github.com/JabRef/jabref/pull/2118
+* FetcherException should inherit [JabRefException](https://github.com/JabRef/jabref/blob/master/src/main/java/net/sf/jabref/JabRefException.java)
 
 ## 2016-09-28
 - [x] LaTeX-free version
