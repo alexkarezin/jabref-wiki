@@ -1,6 +1,7 @@
 ## Next Telco (2016-10-20)
 - [ ] [JabCon](http://jabcon.jabref.org/) 2017 - 2017-02-15 to 2017-02-16 in Lugano, co-located with [ZEUS](http://zeus-workshop.eu/).
 - [ ] Can [some branches](https://github.com/JabRef/jabref/branches) be deleted? Three of them are permanent (see https://github.com/JabRef/jabref/wiki/Branches), but what about the others?
+- [ ] What about the Stupro label and tasks
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too
