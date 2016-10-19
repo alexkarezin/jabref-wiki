@@ -5,6 +5,7 @@
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
+- [ ] Old Waiting for feedback issues https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] JavaFX
