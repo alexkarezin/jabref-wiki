@@ -3,6 +3,7 @@
 - [ ] Can [some branches](https://github.com/JabRef/jabref/branches) be deleted? Three of them are permanent (see https://github.com/JabRef/jabref/wiki/Branches), but what about the others?
 - [ ] What about the Stupro [label](https://github.com/JabRef/jabref/labels/stupro) and tasks
 - [ ] files.jabref access
+- [ ] Code signing certificate
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
