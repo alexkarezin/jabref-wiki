@@ -1,19 +1,23 @@
-## Next Telco (2016-10-20)
-- [ ] [JabCon](http://jabcon.jabref.org/) 2017 - 2017-02-15 to 2017-02-16 in Lugano, co-located with [ZEUS](http://zeus-workshop.eu/).
-- [ ] Can [some branches](https://github.com/JabRef/jabref/branches) be deleted? Three of them are permanent (see https://github.com/JabRef/jabref/wiki/Branches), but what about the others?
-- [ ] What about the Stupro [label](https://github.com/JabRef/jabref/labels/stupro) and tasks
-- [ ] files.jabref access
-- [ ] Code signing certificate
+## Next Telco (2016-11-07)
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
 - [ ] Old Waiting for feedback issues https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
-- [ ] JavaFX
 - [ ] Status of main topic for next release
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2016-10-20
+- [x] [JabCon](http://jabcon.jabref.org/ ) 2017 - 2017-02-15 to 2017-02-16 in Lugano, co-located with [ZEUS](http://zeus-workshop.eu/ ).
+- [x] Can [some branches](https://github.com/JabRef/jabref/branches ) be deleted? Three of them are permanent (see https://github.com/JabRef/jabref/wiki/Branches ), but what about the others?
+- [x] What about the Stupro [label](https://github.com/JabRef/jabref/labels/stupro ) and tasks
+- [x] files.jabref access
+- [x] Code signing certificate
+- [x] Mr. DLib integration
+- [x] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
+- [x] JavaFX for 4.0 branch
 
 ## 2016-10-06
 * https://github.com/JabRef/jabref/pull/2118
