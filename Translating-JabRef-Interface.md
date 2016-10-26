@@ -1,1 +1,1 @@
-This page is now hosted here: [http://help.jabref.org/en/TranslatingJabRefGUI](http://help.jabref.org/en/TranslatingJabRefGUI).
+This page is now hosted here: <https://help.jabref.org/en/TranslatingGUI>.
