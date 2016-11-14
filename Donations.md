@@ -18,8 +18,6 @@ If every reader donated **5€**, the developers would only have to invest their
 
 ## Usage of donations
 
+* Payment of developers for adding features. Currently, there is not enough money to do that. See [How to proceed with the development of the Docear4LibreOffice add-on](http://www.docear.org/2014/10/23/how-to-proceed-with-the-development-of-the-docear4libreoffice-add-on/) for a similar discussion. 
 * [JabCon](http://jabcon.jabref.org)
 * Design of new icons for [Material Design Icons](https://materialdesignicons.com/). See [#260](https://github.com/JabRef/jabref/issues/260) for a discussion
-* Payment of developers for adding features. See [How to proceed with the development of the Docear4LibreOffice add-on](http://www.docear.org/2014/10/23/how-to-proceed-with-the-development-of-the-docear4libreoffice-add-on/) for a similar discussion.
-* Coverage of food and drinks during hacking sessions
-
