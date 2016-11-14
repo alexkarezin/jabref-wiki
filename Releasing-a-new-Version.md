@@ -77,7 +77,7 @@ This version is a development version. Features may not work as expected.
 ```
 
 3. `build.gradle`
-`version` 3.5dev
+`version` 3.5-dev
 `version number` 3.4.0.1
 Rationale: We could possibly do a bugfix release, so we only increment the major version on the next release.
 
