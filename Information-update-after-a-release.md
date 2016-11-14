@@ -3,14 +3,13 @@
 The place that should be checked after a release are the following:
 
 ## Maintained by JabRef developers
-- http://www.jabref.org
-- http://blog.jabref.org (for announcement)
+- https://www.jabref.org
+- https://blog.jabref.org (for announcement)
 - http://discourse.jabref.org (for announcement)
-- http://www.jabref.org/faq/ (for depreciated Q&A)
 - https://sourceforge.net/projects/jabref/
-- http://www.heise.de/download/product/jabref-24459 (currently handled by @siedlerchr)
 
 ## Handled by JabRef developers
+- http://www.heise.de/download/product/jabref-24459 (currently handled by @siedlerchr)
 - http://www.macupdate.com/app/mac/19869/jabref (@koppor)
   - CHANGELOG.md has to be converted to html: `pandoc -f markdown_github -t html -o CHANGELOG.html CHANGELOG.md`. Change `h3` to `h5` afterwards.  
 - See also [Download Mirrors](https://github.com/JabRef/jabref/wiki/Download-Mirrors)
