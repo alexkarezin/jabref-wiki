@@ -1,5 +1,5 @@
 ## 2016-11-28
-
+- [ ] A lot of [open pull-requests for journal rep](https://github.com/JabRef/reference-abbreviations/pulls)
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
 - [ ] Old Waiting for feedback issues https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback
