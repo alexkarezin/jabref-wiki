@@ -1,5 +1,6 @@
 ## 2016-11-28
 - [ ] A few [open pull-requests for journal rep](https://github.com/JabRef/reference-abbreviations/pulls)
+- [ ] Also document outcome of discussion in Minutes
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
