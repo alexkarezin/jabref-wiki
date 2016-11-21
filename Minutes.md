@@ -1,4 +1,4 @@
-## 2016-11-28
+## 2016-12-03
 - [ ] A few [open pull-requests for journal rep](https://github.com/JabRef/reference-abbreviations/pulls)
 - [ ] Also document outcome of discussion in Minutes
 
