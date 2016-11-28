@@ -3,6 +3,7 @@
 - [ ] Also document outcome of discussion in Minutes
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
 - [ ] Release 3.8 in December 2016?
+- [ ] Next motto: 5 for 10.
 - [ ] asking-for-a-pull-request -> help-wanted; bug-day: once a month
 
 ### Topics discussed in each telephone conference
