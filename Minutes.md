@@ -1,20 +1,30 @@
-## 2016-12-02
-- [ ] A few [open pull-requests for journal rep](https://github.com/JabRef/reference-abbreviations/pulls)
-- [ ] Also document outcome of discussion in Minutes
-- [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
-- [ ] Release 3.8 in December 2016?
-  - Matthias: If content-selectors can be readded; Keyword problems should also be checked: http://discourse.jabref.org/t/managing-keywords-no-longer-possible-in-version-3-7/ and https://github.com/JabRef/jabref/issues/2267
-- [ ] Next motto: 5 for 10.
+## Next Telco - 2016-12-09
+
 - [ ] asking-for-a-pull-request -> help-wanted; bug-day: once a month
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
 - [ ] Old Waiting for feedback issues https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- [ ] How far are we from "5 for 10"?
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] Status of main topic for next release
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2016-12-02
+- [x] A few [open pull-requests for journal rep](https://github.com/JabRef/reference-abbreviations/pulls)
+   - all are closed now
+- [x] Also document outcome of discussion in Minutes
+   - will be added after each item
+- [x] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
+  - handled verything
+- [x] Release 3.8 in December 2016?
+  - Matthias: If content-selectors can be readded; Keyword problems should also be checked: http://discourse.jabref.org/t/managing-keywords-no-longer-possible-in-version-3-7/ and https://github.com/JabRef/jabref/issues/2267
+   - We are trying to work on that
+- [x] Next motto: 5 for 10.
+- 5 open pull requests until 10th of January
+
 
 ## 2016-11-07
 - [x] Release of JabRef 3.7 - https://github.com/JabRef/jabref/milestones/v3.7
@@ -425,13 +435,8 @@
   - Also https://github.com/JabRef/jabref/pull/162 ?
   - Remove incremental, filter, always live on, select matches, autocomplete always on
 
-
 # Discussions for Leisure Time
 - [ ] Can some [on-hold issues](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+) opened again?
 - [ ] Preferences: Structure and Necessity
-- [ ] Ensure consistency of "file linking" actions - see also https://github.com/JabRef/jabref/issues/190
-  - Solution: Remove icon on the left; Remove "Download"; Auto: if not found, say "not found. please input URL <input field>. [OK] [CANCEL]"; 
-  - [ ] For a single entry: Look up full text document in local folder, Look up full text document in web, Download document from URL (also check what Tools -> lookup full text document)
-  - [ ] For a bunch of entries: Synchronize (combination of find unlinked and automatically set file links)  
 - [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
 - [ ] XMPUtil.main -> CLI strategy (see [#266](https://github.com/JabRef/jabref/pull/266)). Currently, we JabRefMain exposes a CLI interface and also is able to start the GUI. Options: 1) ignore XMPUtil, 2) add XMPUtil as a `jabref xmputil PARAMS` cli option as part of existing cli interface, 3) create a separate jabref-xmputil.jar which is also shipped that has this class as a main class. 
