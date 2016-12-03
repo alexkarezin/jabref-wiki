@@ -16,7 +16,7 @@ The end-user documentation is available at <https://help.jabref.org>.
 
 ## Development Information
 
-* [[How to Help]]: The various way to contribute to JabRef development
+* [How to Help](https://help.jabref.org/en/FAQcontributing)
 * [Setup a local Workspace - step-by-step](Guidelines-for-setting-up-a-local-workspace)
 * [[Code Howtos]]: tips and tricks for coders.
 * [Feature Requests collected on SourceForge](FeatureRequests Sorted). Currently, feature requests are collected on [GitHub](https://github.com/JabRef/jabref/labels/feature)
