@@ -1,9 +1,0 @@
-# BibTeX format
-
-- http://mirrors.ircam.fr/pub/CTAN/biblio/bibtex/contrib/test/test.bib
-
-
-
-# BibLaTeX Format
-
-- http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/biblatex/bibtex/bib/biblatex/biblatex-examples.bib

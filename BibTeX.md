@@ -4,9 +4,11 @@ BibTeX files:
 * https://github.com/lvilnis/BibtexParser/tree/master/inputs
 * https://github.com/environmentalinformatics-marburg/jabref
 * http://www.math.uiuc.edu/K-theory/aux/K-theory.bib (large file > 6000 publications)
+* http://mirrors.ircam.fr/pub/CTAN/biblio/bibtex/contrib/test/test.bib
 
 BibLatex files:
 * http://mirrors.ctan.org/macros/latex/contrib/biblatex/bibtex/bib/biblatex/biblatex-examples.bib
+* http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/biblatex/bibtex/bib/biblatex/biblatex-examples.bib
 
 Bib(La)TeX files in the JabRef repository:
 * https://github.com/JabRef/jabref/tree/master/src/test/resources/testbib
