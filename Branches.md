@@ -1,6 +1,6 @@
 This page lists the persistent branches of this repository.
 
-* [master](https://github.com/JabRef/jabref/tree/master/) is the main development line and is intended to incorporate fixes and improvements as soon as possible and to move JabRef forward to modern technologies such as [Java8].
+* [master](https://builds.jabref.org/master/) is the main development line and is intended to incorporate fixes and improvements as soon as possible and to move JabRef forward to modern technologies such as [Java8].
 * [javafx](https://builds.jabref.org/javafx/) is intended to add a new UI to JabRef using [JavaFX].
 
 Other branches are used for discussing improvements with the help of pull requests.
