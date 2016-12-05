@@ -5,7 +5,7 @@ An overview on all available CI systems is provided at <https://en.wikipedia.org
 
 ## CirceCI
 
-Creates binaries (using gradle and Install4J) and upload them to <https://builds.jabref.org>.
+Creates binaries (using [gradle](https://gradle.org/) and [Install4J](https://www.ej-technologies.com/products/install4j/overview.html)) and upload them to <https://builds.jabref.org>.
 These binaries are created without any checks to have them available as quickly as possible, even if the localization or some fetchers are broken.
 
 ## SnapCI
