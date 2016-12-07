@@ -1,4 +1,5 @@
 ## JabCon tasks
+- [ 9 We need Skype telco and maybe beamer for all that can't be in Lugano but maybe are able to code with us on that day!
 - [ ] Talk about all open issues
 
 ## Next Telco - 2016-12-09
