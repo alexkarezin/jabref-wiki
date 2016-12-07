@@ -1,3 +1,6 @@
+## JabCon tasks
+- [ ] Talk about all open issues
+
 ## Next Telco - 2016-12-09
 
 - [ ] asking-for-a-pull-request -> help-wanted; bug-day: once a month
