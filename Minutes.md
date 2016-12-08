@@ -4,6 +4,9 @@
 
 ## Next Telco - 2016-12-09
 
+- [ ] https://developers.google.com/open-source/gsoc/ - submission until January, 19th.
+  - Old ideas collected at https://sourceforge.net/p/jabref/wiki/Summer_of_Code/
+- [ ] FYI: https://github.com/JabRef/jabref/wiki/Publicitiy
 - [ ] asking-for-a-pull-request -> help-wanted; bug-day: once a month
 
 ### Topics discussed in each telephone conference
