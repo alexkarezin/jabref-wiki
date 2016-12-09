@@ -4,6 +4,7 @@
 
 ## Next Telco - 2016-12-09
 
+- [ ] Code quality issues
 - [ ] Spendenaktion für Weihnachten und JabCon
 - [ ] Developers should try to reduce issues they opened
 - [ ] Reduce open issues and bugs in the next weeks
