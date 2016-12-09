@@ -1,19 +1,9 @@
-## JabCon tasks
-- [ ] We need Skype telco and maybe beamer for all that can't be in Lugano but maybe are able to code with us on that day!
-- [ ] Talk about all open issues
+## Telko 2017-01
 
-## Next Telco - 2016-12-09
-
-- [ ] Code quality issues
-- [ ] Spendenaktion für Weihnachten und JabCon
-- [ ] Developers should try to reduce issues they opened
-- [ ] Reduce open issues and bugs in the next weeks
-- [ ] [JabRef 3.6 is in debian unstable](https://lists.debian.org/debian-devel-changes/2016/12/msg01207.html). Package information page: https://tracker.debian.org/pkg/jabref
-- [ ] [Schedule for debian/stable](https://lists.debian.org/debian-devel-announce/2016/12/msg00000.html).
-- [ ] https://developers.google.com/open-source/gsoc/ - submission until January, 19th.
-  - Old ideas collected at https://sourceforge.net/p/jabref/wiki/Summer_of_Code/
-- [ ] FYI: https://github.com/JabRef/jabref/wiki/Publicitiy
-- [ ] asking-for-a-pull-request -> help-wanted; bug-day: once a month
+- [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
+- [ ] Status of main topic for next release
+- [ ] Prioritize, discuss, and close the mass of open issues
+- [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
@@ -24,6 +14,45 @@
 - [ ] Status of main topic for next release
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+
+
+## Next Telco - 2016-12-16
+- [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
+- [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- [ ] Release 3.8
+- [ ] How far are we from "5 for 10"?
+
+
+## 2016-12-09
+
+### JabCon tasks
+- [x] We need Skype telco and maybe beamer for all that can't be in Lugano but maybe are able to code with us on that day!
+- [X] Talk about all open issues is what we do at JabCon
+
+### JabRef
+- [x] Do we do a christmas edition this year?
+  - Yes
+- [x] issues with code-quality label 
+- [x] Spendenaktion für Weihnachten und JabCon
+  - Volunteers welcome
+- [x] Developers should try to reduce issues they opened
+  - Check self-made issues whether they can be solved by himself
+  - Devs should use https://github.com/koppor/jabref/issues/
+- [x] Reduce open issues and bugs in the next weeks
+- [x] [JabRef 3.6 is in debian unstable](https://lists.debian.org/debian-devel-changes/2016/12/msg01207.html). Package information page: https://tracker.debian.org/pkg/jabref
+- [x] [Schedule for debian/stable](https://lists.debian.org/debian-devel-announce/2016/12/msg00000.html).
+- [x] https://developers.google.com/open-source/gsoc/ - submission until January, 19th.
+  - Old ideas collected at https://sourceforge.net/p/jabref/wiki/Summer_of_Code/
+   - @koppor tries to work on that
+- [X] FYI: https://github.com/JabRef/jabref/wiki/Publicity
+  - new page: https://github.com/JabRef/jabref/wiki/Acquiring-Contributors
+ - aim new: contributors
+- [X] asking-for-a-pull-request -> help-wanted; bug-day: once a month
+    - rename the label to help-wanted. More specific labels only if we really need it
+ - [x] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
+- [x] Old Waiting for feedback issues https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback
+- [x] [PR status]( https://github.com/JabRef/jabref/pulls )?
 
 ## 2016-12-02
 - [x] A few [open pull-requests for journal rep](https://github.com/JabRef/reference-abbreviations/pulls)
