@@ -4,6 +4,8 @@
 
 ## Next Telco - 2016-12-09
 
+- [ ] [JabRef 3.6 is in debian unstable](https://lists.debian.org/debian-devel-changes/2016/12/msg01207.html). Package information page: https://tracker.debian.org/pkg/jabref
+- [ ] [Schedule for debian/stable](https://lists.debian.org/debian-devel-announce/2016/12/msg00000.html).
 - [ ] https://developers.google.com/open-source/gsoc/ - submission until January, 19th.
   - Old ideas collected at https://sourceforge.net/p/jabref/wiki/Summer_of_Code/
 - [ ] FYI: https://github.com/JabRef/jabref/wiki/Publicitiy
