@@ -4,6 +4,7 @@
 
 ## Next Telco - 2016-12-09
 
+- [ ] Spendenaktion für Weihnachten und JabCon
 - [ ] Developers should try to reduce issues they opened
 - [ ] Reduce open issues and bugs in the next weeks
 - [ ] [JabRef 3.6 is in debian unstable](https://lists.debian.org/debian-devel-changes/2016/12/msg01207.html). Package information page: https://tracker.debian.org/pkg/jabref
