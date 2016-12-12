@@ -1,1 +1,1 @@
-jabref.sourceforge.net
+Please head forward to <https://help.jabref.org/en/TranslatingGUI>.
