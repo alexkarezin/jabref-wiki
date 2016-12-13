@@ -18,12 +18,12 @@
 
 
 ## Next Telco - 2016-12-16
-- [ ] Cleanup branches?
+- [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - [ ] Release 3.8
 - [ ] How far are we from "5 for 10"?
-
+- [ ] Mail from Roman
 
 ## 2016-12-09
 
