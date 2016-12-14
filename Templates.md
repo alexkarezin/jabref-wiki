@@ -33,3 +33,20 @@ There is a version that should fix this at http://builds.jabref.org/BRANCHNAME/ 
 ```
 Besides minor comments, LGTM :+1:. The changes need a second review and thus this PR awaits a second review.
 ```
+
+## no money
+```
+We currently have no money to pay someone for that. Thus, it depends on the availability of our free time. - If you can spend some more time, we would like to encourage you to check https://help.jabref.org/en/FAQcontributing - especially the part asking for improvement of our help pages <https://help.jabref.org/en/>. We have plenty of open issues there: https://github.com/JabRef/help.jabref.org/issues/
+```
+
+## code quality
+
+Please fix code quality issues:
+
+ - [ ] Check the output of SnapCI
+ - [ ] Check the output of TravisCI
+ - [ ] Fix Codacy
+
+Just click on the "Details" above to see details.
+
+Background: JabRef tries to increase code quality to increase maintainability. See <https://github.com/JabRef/jabref/wiki/Development-Strategy> for details.
