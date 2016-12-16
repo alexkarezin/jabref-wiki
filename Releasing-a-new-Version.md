@@ -94,15 +94,29 @@ At least, quickly check if contents in __Help - About JabRef__ are properly repl
 
 ## Publish Binaries 
 1. Sourceforge
-Create Folder and put files there-> https://sourceforge.net/projects/jabref/files/jabref/
-(at v3.0 to v3.2) is was automatically done when releasing on GitHub 
-Web Content
-Update
+  - Navigate to <https://sourceforge.net/projects/jabref/files/>
+  - Click "Add Folder"
+  - Choose `v3.4` as folder name
+  - Navigate into `v3.4`
+  - Click "Add File"
+  - Drag'n'drop files
+  - After successful upload: Click "Done"
+
 2. FossHub (via developer account)
-   It is very important to do that **BEFORE** GitHub, because of the auto update feature.
+  - It is very important to do that **BEFORE** GitHub, because of the auto update feature.
+  - (currently not working) Semi-automatic upload (see Tools - JSON on FossHub)
+    - adapt `upload-to-fosshub.json`
+    - POST it to https://www.fosshub.com/JSTools/uploadJson 
+  - Manual upload:
+    - For each file:
+      - "Add File"
+      - Type: Select fitting type. E.g., "Windows Installer (32 bit)"
+      - Version: `v3.4`
+      - Drag file
+
 3. GitHub  
-[Create new release](https://github.com/JabRef/jabref/releases) based on tag.
-Upload binaries to GitHub release page. 
+  - [Create new release](https://github.com/JabRef/jabref/releases) based on tag.
+  - Upload binaries to GitHub release page. 
 
 ## Spread the word
 1. Add news text to the GitHub release
