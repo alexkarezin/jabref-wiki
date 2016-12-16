@@ -14,32 +14,35 @@ Just select the new JREs and change the URLs
 For instance, replace 66 by 77 in the file names.  
 Use the same URLs as in the last step (meda file URLs).
 
-## Prepare project files
+
+# Prepare project files
+
+1. Update `AUTHORS` file
+`generate-authors.sh`
+Commit changes and update `.mailmap` if necessary.
 
 1. `CHANGELOG.md`  
 Change version from `Unreleased` to v3.5.
 At the very end of the file:
 `[3.4]: https://github.com/JabRef/jabref/compare/v3.3...v3.4`
+
 2. `README.md`  
 Replace 
 ```md
 # JabRef Development Version
 This version is a development version. Features may not work as expected.
 ```
-with
+by
 ``` 
 # JabRef Version 3.4
 ```
+
 3. `build.gradle`   
 `version` (3.4, 3.4dev)
 `project.ext.threeDotVersion` = `3.4.0.0`
 
-4. Update `AUTHORS` file
-`generate-authors.sh`
-Commit changes and update `.mailmap` if necessary.
-
-5. Create a release commit
-`git commit -m "Release v3.0"`
+4. Create a release commit
+`git commit -m "Release v3.4"`
  
 ## Do Release
 `git tag v3.4`
@@ -100,5 +103,4 @@ Upload binaries to GitHub release page.
 ## Spread the word
 1. Add news text to the GitHub release
 2. Write a blog entry
-3. Write to [mailinglist](https://sourceforge.net/p/jabref/mailman/jabref-users/)
-4. Follow https://github.com/JabRef/jabref/wiki/Information-update-after-a-release/
+3. Follow https://github.com/JabRef/jabref/wiki/Information-update-after-a-release/
