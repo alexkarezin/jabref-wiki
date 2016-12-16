@@ -104,6 +104,8 @@ At least, quickly check if contents in __Help - About JabRef__ are properly repl
 
 2. FossHub (via developer account)
   - It is very important to do that **BEFORE** GitHub, because of the auto update feature.
+  - Use the wget URL and point to the binaries at https://builds.jabref.org/
+   - Upload the files and then adjust them under "files".
   - (currently not working) Semi-automatic upload (see Tools - JSON on FossHub)
     - adapt `upload-to-fosshub.json`
     - POST it to https://www.fosshub.com/JSTools/uploadJson 
