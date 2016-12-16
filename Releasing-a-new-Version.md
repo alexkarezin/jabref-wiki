@@ -3,90 +3,94 @@
 ## Update bundled Java JREs
 
 1. Open install4J
+
 2. Download JREs (Toolbar Button)  
-Select most recent Win32, Win64 JREs [should be packed by default].  
-Select most recent MacOSX JRE [unpacked].  
-They will be stored inside `C:\Users\<username>\.install4j6\jres`
+  - Select most recent Win32, Win64 JREs [should be packed by default].  
+  - Select most recent MacOSX JRE [unpacked].  
+  - They will be stored inside `C:\Users\<username>\.install4j6\jres`
+
 3. Copy these files to jabref.org `files_jabref_org@files.jabref.org:www/jres` using [sftp](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol). Send your ssh pubkey to @koppor to get access.
+
 4. Adapt install4j media files config
-Just select the new JREs and change the URLs
+  Just select the new JREs and change the URLs
+
 5. Adapt `scripts/prepare-install4j.sh`  
-For instance, replace 66 by 77 in the file names.  
-Use the same URLs as in the last step (meda file URLs).
+  For instance, replace 66 by 77 in the file names.  
+  Use the same URLs as in the last step (meda file URLs).
 
 
 # Prepare project files
 
 1. Update `AUTHORS` file
-`generate-authors.sh`
-Commit changes and update `.mailmap` if necessary.
+  - `generate-authors.sh`
+  - Commit changes and update `.mailmap` if necessary.
 
 1. `CHANGELOG.md`  
-Change version from `Unreleased` to v3.5.
-At the very end of the file:
-`[3.4]: https://github.com/JabRef/jabref/compare/v3.3...v3.4`
+  Change version from `Unreleased` to v3.5.
+  At the very end of the file:
+  `[3.4]: https://github.com/JabRef/jabref/compare/v3.3...v3.4`
 
 2. `README.md`  
-Replace 
-```md
-# JabRef Development Version
-This version is a development version. Features may not work as expected.
-```
-by
-``` 
-# JabRef Version 3.4
-```
+  Replace 
+  ```md
+  # JabRef Development Version
+  This version is a development version. Features may not work as expected.
+  ```
+  by
+  ``` 
+  # JabRef Version 3.4
+  ```
 
 3. `build.gradle`   
-`version` (3.4, 3.4dev)
-`project.ext.threeDotVersion` = `3.4.0.0`
+  - `version` (3.4, 3.4dev)
+  - `project.ext.threeDotVersion` = `3.4.0.0`
 
 4. Create a release commit
-`git commit -m "Release v3.4"`
+  `git commit -m "Release v3.4"`
  
 ## Do Release
-`git tag v3.4`
-`git push origin v3.4`
-Download binaries from CircleCI
+1. `git tag v3.4`
+2. `git push origin v3.4`
+3. Download binaries from CircleCI
 
 ## Test Release
 At least, quickly check if contents in __Help - About JabRef__ are properly replaced.
 
 ## Prepare for next version
 1. `CHANGELOG.md`
-At the beginning of the file:
-```md
-## [Unreleased]
+  - At the beginning of the file:
+    ```md
+    ## [Unreleased]
 
-### Changed
+    ### Changed
 
-### Fixed
+    ### Fixed
 
-### Removed
+    ### Removed
 
-(50 empty lines)
-```
+    (50 empty lines)
+    ```
 
-The 50 empty lines are required to cause conflicts for pull requests not being merged before the release, but affecting the CHANGELOG.
+    The 50 empty lines are required to cause conflicts for pull requests not being merged before the release, but affecting the CHANGELOG.
 
-At the very end of the file:
-`[Unreleased]: https://github.com/JabRef/jabref/compare/v3.4...HEAD`
+  - At the very end of the file:
+    `[Unreleased]: https://github.com/JabRef/jabref/compare/v3.4...HEAD`
 
 2. `README.md`  
-Readd development info at the beginning of the file:
-```md
-# JabRef Development Version
-This version is a development version. Features may not work as expected.
-```
+  Readd development info at the beginning of the file:
+  ```md
+  # JabRef Development Version
+  This version is a development version. Features may not work as expected.
+  ```
 
 3. `build.gradle`
-`version` 3.5-dev
-`version number` 3.4.0.1
-Rationale: We could possibly do a bugfix release, so we only increment the major version on the next release.
+  - `version` 3.5-dev
+  - `version number` 3.4.0.1
+  Rationale: We could possibly do a bugfix release, so we only increment the major version on the next release.
 
 4. Commit the changes for the new dev cycle  
-`git commit -m "Show development information"`  
-`git push origin master`  
+  - `git commit -m "Show development information"`  
+  - `git push origin master`  
 
 ## Publish Binaries 
 1. Sourceforge
