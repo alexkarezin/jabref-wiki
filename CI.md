@@ -13,6 +13,7 @@ These binaries are created without any checks to have them available as quickly 
 We do basic checks here as they do not take too long and it ensures that the basic thing of JabRef are working.
 The basic checks do not take much time and ensure that developers get early feedback if something basic is wrong.
 We don't do integration tests and database tests here as they take too long for a quick check.
+**Note that SnapCI immediatly fails if there are merge conflicts with the master branch.**
 
 ## TravisCI
 
