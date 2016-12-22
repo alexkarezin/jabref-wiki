@@ -8,7 +8,7 @@
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
 ### Topics discussed in each telephone conference
-- [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues]  (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
 - [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - [ ] How far are we from "5 for 10"?
@@ -18,6 +18,10 @@
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
 ## Next Telco - 2016-12-22
+- [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [ ] Mail by Jöran
+  - [ ] https://github.com/JabRef/jabref/wiki/Development-Strategy
+- [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - [ ] Release 3.8.1
 - [ ] How far are we from "5 for 10"?
 
