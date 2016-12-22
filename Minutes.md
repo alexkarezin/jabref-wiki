@@ -1,4 +1,4 @@
-## Telko 2017-01
+## Telko 2017-01-13
 
 - [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
 - [ ] How far are we from "5 for 10"?
@@ -17,13 +17,12 @@
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
-## Next Telco - 2016-12-22
-- [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
-- [ ] Mail by Jöran
-  - [ ] https://github.com/JabRef/jabref/wiki/Development-Strategy
-- [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
-- [ ] Release 3.8.1
-- [ ] How far are we from "5 for 10"?
+## 2016-12-22
+- [x] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [x] https://github.com/JabRef/jabref/wiki/Development-Strategy
+- [x] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- [x] Release 3.8.1
+  - on Christams
 
 ## 2016-12-16
 - [x] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed, too https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall
