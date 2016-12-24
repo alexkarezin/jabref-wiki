@@ -101,6 +101,9 @@ At least, quickly check if contents in __Help - About JabRef__ are properly repl
   - Click "Add File"
   - Drag'n'drop files
   - After successful upload: Click "Done"
+  - For each file:
+    - click on i
+    - select it as default download for the appropriate platform
 
 2. FossHub (via developer account)
   - It is very important to do that **BEFORE** GitHub, because of the auto update feature.
