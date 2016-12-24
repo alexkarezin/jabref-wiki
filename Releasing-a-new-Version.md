@@ -26,7 +26,7 @@
   - Commit changes and update `.mailmap` if necessary.
 
 1. `CHANGELOG.md`  
-  Change version from `Unreleased` to v3.5.
+  Change version from `[Unreleased]` to `[3.4] – 2016-06-02`.
   At the very end of the file:
   `[3.4]: https://github.com/JabRef/jabref/compare/v3.3...v3.4`
 
