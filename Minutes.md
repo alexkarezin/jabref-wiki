@@ -2,6 +2,7 @@
 
 - [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
 - [ ] How far are we from "5 for 10"?
+- [ ] Status of [stupro PR's and issues](https://github.com/JabRef/jabref/labels/stupro)?
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] Status of main topic for next release
 - [ ] Prioritize, discuss, and close the mass of open issues
