@@ -1,5 +1,8 @@
 ## Telko 2017-01-13
 
+- [ ] How to inform users about JabCon etc.
+  - blog vs. forum vs. accounts
+- [ ] Inform users about [JabCon](http://jabcon.jabref.org/)
 - [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
 - [ ] How far are we from "5 for 10"?
 - [ ] Status of [stupro PR's and issues](https://github.com/JabRef/jabref/labels/stupro)?
