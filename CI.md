@@ -6,16 +6,15 @@ An overview on all available CI systems is provided at <https://en.wikipedia.org
 ## CirceCI
 
 Creates binaries (using [gradle](https://gradle.org/) and [Install4J](https://www.ej-technologies.com/products/install4j/overview.html)) and uploads them to <https://builds.jabref.org>.
-These binaries are created without any checks to have them available as quickly as possible, even if the localization or some fetchers are broken.
+These binaries are created without any checks to have them available as quickly as possible, even if the localization or some fetchers are broken. Deep link: https://circleci.com/gh/JabRef/jabref/.
 
 ## SnapCI
 
 We do basic checks here as they do not take too long and it ensures that the basic thing of JabRef are working.
 The basic checks do not take much time and ensure that developers get early feedback if something basic is wrong.
 We don't do integration tests and database tests here as they take too long for a quick check.
-**Note that SnapCI immediatly fails if there are merge conflicts with the master branch.**
+**Note that SnapCI immediatly fails if there are merge conflicts with the master branch.** Deep link: https://snap-ci.com/JabRef/jabref/.
 
 ## TravisCI
 
-TravisCI is used to execute all tests, including the localization, the integration test, and the database test.
-
+TravisCI is used to execute all tests, including the localization, the integration test, and the database test. Deep link: https://travis-ci.org/JabRef/jabref.
