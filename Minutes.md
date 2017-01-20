@@ -1,27 +1,34 @@
-## Telko 2017-01-13
-
-- [ ] How to inform users about JabCon etc.
-  - blog vs. forum vs. accounts
-- [ ] Inform users about [JabCon](http://jabcon.jabref.org/)
-- [ ] Release?
-- [ ] Merge JavaFX
-- [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
-- [ ] How far are we from "5 for 10"?
+## NEXT Telko - 2017-02-02
 - [ ] Status of [stupro PR's and issues](https://github.com/JabRef/jabref/labels/stupro)?
-- [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
-- [ ] Status of main topic for next release
-- [ ] Prioritize, discuss, and close the mass of open issues
-- [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+  - if nothing happens, we do "on hold"
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues]  (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
 - [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
-- [ ] How far are we from "5 for 10"?
+- [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] Status of main topic for next release
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+
+## Telko 2017-01-20
+
+- [x] How to inform users about [JabCon](http://jabcon.jabref.org/)
+  - blog vs. forum vs. accounts
+  - We need someone doing (i) forum post and (ii) blog post -> Matthias Geiger?
+- [x] Survey
+  - We do not do as we do not have list for asking for features we want to
+- [x] Release. Yes, we release the next days.
+- [x] Merge JavaFX: Tobi has commited to fix all bugs that appear within a month
+  - After 3.8.2 release
+- [x] Mindmaps in JabRef - discussion https://github.com/stefaneidelloth/javafx-d3 vs. http://www.jsweet.org/
+  - Decision: Keep JavaFX and invoke the javascript code similar to javafx-d3
+- [x] Status of [stupro PR's and issues](https://github.com/JabRef/jabref/labels/stupro)?
+- [x] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues]  (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [x] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
+- [x] [PR status]( https://github.com/JabRef/jabref/pulls )?
 
 ## 2016-12-22
 - [x] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
