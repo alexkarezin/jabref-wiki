@@ -1,6 +1,7 @@
 ## NEXT Telko - 2017-02-02
 - [ ] Status of [stupro PR's and issues](https://github.com/JabRef/jabref/labels/stupro)?
   - if nothing happens, we do "on hold"
+- Automatic update?
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues]  (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
