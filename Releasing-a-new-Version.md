@@ -5,8 +5,10 @@
 1. Open install4J
 
 2. Download JREs (Toolbar Button)  
-  - Select most recent Win32, Win64 JREs [should be packed by default].  
-  - Select most recent MacOSX JRE [unpacked].  
+  - Select most recent 
+    - Windows (x86)
+    - Windows (amd64)
+    - Macosx (amd64) `[unpacked]`
   - They will be stored inside `C:\Users\<username>\.install4j6\jres`
 
 3. Copy these files to jabref.org `files_jabref_org@files.jabref.org:www/jres` using [sftp](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol). Send your ssh pubkey to @koppor to get access.
