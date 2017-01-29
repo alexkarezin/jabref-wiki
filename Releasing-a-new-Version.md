@@ -1,5 +1,3 @@
-# Releasing a new JabRef version
-
 ## Update bundled Java JREs
 
 1. Open install4J
@@ -109,8 +107,9 @@ At least, quickly check if contents in __Help - About JabRef__ are properly repl
 
 2. FossHub (via developer account)
   - It is very important to do that **BEFORE** GitHub, because of the auto update feature.
-  - Use the wget URL and point to the binaries at https://builds.jabref.org/
-   - Upload the files and then adjust them under "files".
+  - Use tools/wget
+    - point to the binaries at the build artifacts of CircleCI (the ones at https://builds.jabref.org/ also work)
+    - After the upload: adjust them under "files".
   - (currently not working) Semi-automatic upload (see Tools - JSON on FossHub)
     - adapt `upload-to-fosshub.json`
     - POST it to https://www.fosshub.com/JSTools/uploadJson 
