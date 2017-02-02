@@ -1,6 +1,10 @@
 ## NEXT Telko - 2017-02-02
 - [ ] Status of [stupro PR's and issues](https://github.com/JabRef/jabref/labels/stupro)?
   - if nothing happens, we do "on hold"
+- [ ] Organization of 4.0 release
+  - Multiple milestones? 
+  - Extra branches for complex features?
+  - GitHub projects? (https://github.com/JabRef/jabref/projects/2)
 - [ ] Automatic update?
 - [ ] Fin accounts
 
