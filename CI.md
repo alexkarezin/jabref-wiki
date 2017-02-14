@@ -1,5 +1,5 @@
 This page describes the continuous integration in place at JabRef
-Since popular CI systems do not support parallel execution (easily), we have to use three different CI systems to achieve our aims.
+Since popular CI systems do not support parallel execution (easily), we have to use different CI systems to achieve our aims.
 
 An overview on all available CI systems is provided at <https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software>.
 
