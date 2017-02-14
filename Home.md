@@ -7,7 +7,6 @@ The end-user documentation is available at <https://help.jabref.org>.
 * [Main website](http://www.jabref.org): JabRef, its features, releases
 * [[Donations]]: Usage of donations, and how to make a donation
 * [[Development Strategy]]: How we are currently pushing JabRef forward
-* [[JabCon 2016]]: Information about JabCon 2016
 * [[Minutes]]: Ongoing discussion about JabRef roadmap
 * [2015 Survey](http://www.jabref.org/surveys/2015/): Current usage and new features, by its users.
 * [[Download Mirrors]]: Places which host JabRef
