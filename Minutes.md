@@ -5,7 +5,6 @@
   - Multiple milestones? 
   - Extra branches for complex features?
   - GitHub projects? (https://github.com/JabRef/jabref/projects/2)
-- [ ] Automatic update?
 - [ ] Fin accounts
 - [ ] Cleanup branches, PRs, issues (JabCon)
 
