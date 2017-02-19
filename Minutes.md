@@ -1,4 +1,4 @@
-## NEXT Telko - 2017-02-02
+## NEXT Telko - 2017-??
 - [ ] Status of [stupro PR's and issues](https://github.com/JabRef/jabref/labels/stupro)?
   - if nothing happens, we do "on hold"
 - [ ] Organization of 4.0 release
@@ -6,6 +6,7 @@
   - Extra branches for complex features?
   - GitHub projects? (https://github.com/JabRef/jabref/projects/2)
 - [ ] Fin accounts
+- [ ] Prio: Feedback on open PRs
 - [ ] Cleanup branches, PRs, issues (JabCon)
 
 ### Topics discussed in each telephone conference
