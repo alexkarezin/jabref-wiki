@@ -7,6 +7,7 @@
   - GitHub projects? (https://github.com/JabRef/jabref/projects/2)
 - [ ] Fin accounts
 - [ ] Prio: Feedback on open PRs
+  - https://github.com/JabRef/jabref/wiki/Templates#code-quality
 - [ ] Cleanup branches, PRs, issues (JabCon)
 
 ### Topics discussed in each telephone conference
