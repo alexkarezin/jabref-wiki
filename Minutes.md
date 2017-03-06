@@ -1,4 +1,4 @@
-## NEXT Telko - 2017-??
+## NEXT Telko - 2017-03-09
 - [ ] Status of [stupro PR's and issues](https://github.com/JabRef/jabref/labels/stupro)?
   - if nothing happens, we do "on hold"
 - [ ] Organization of 4.0 release
