@@ -147,7 +147,6 @@ While for text processors (word, LibreOffice), this may be a difficult task, I b
 - iPhone app?: <http://sourceforge.net/p/jabref/feature-requests/678/>
 - request: pushing citations in Mac OS X apps: <http://sourceforge.net/p/jabref/feature-requests/74/>
 - Please create an AppData file for JabRef: <http://sourceforge.net/p/jabref/feature-requests/865/>
-- Jabref on Windows Mobile: <http://sourceforge.net/p/jabref/feature-requests/429/>
 - Add option for pushing to Emacs use server-start: <http://sourceforge.net/p/jabref/feature-requests/205/>
 - clear button should clear search input field: <http://sourceforge.net/p/jabref/feature-requests/601/>
 - Mac retina support: <http://sourceforge.net/p/jabref/feature-requests/792/>
