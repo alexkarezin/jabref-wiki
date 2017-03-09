@@ -142,12 +142,10 @@ While for text processors (word, LibreOffice), this may be a difficult task, I b
 
 ### Make it work for my OS, please.
 
-- PDA-friendly version: <http://sourceforge.net/p/jabref/feature-requests/159/>
 - Enhance call example: <http://sourceforge.net/p/jabref/feature-requests/289/>
 - Universal Binary on Mac OS: <http://sourceforge.net/p/jabref/feature-requests/593/>
 - iPhone app?: <http://sourceforge.net/p/jabref/feature-requests/678/>
 - request: pushing citations in Mac OS X apps: <http://sourceforge.net/p/jabref/feature-requests/74/>
-- Plz change the icon on Mac OS: <http://sourceforge.net/p/jabref/feature-requests/742/>
 - Please create an AppData file for JabRef: <http://sourceforge.net/p/jabref/feature-requests/865/>
 - Jabref on Windows Mobile: <http://sourceforge.net/p/jabref/feature-requests/429/>
 - Add option for pushing to Emacs use server-start: <http://sourceforge.net/p/jabref/feature-requests/205/>
