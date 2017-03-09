@@ -1,16 +1,3 @@
-## NEXT Telko - 2017-03-09
-- [ ] Status of [stupro PR's and issues](https://github.com/JabRef/jabref/labels/stupro)?
-  - if nothing happens, we do "on hold"
-- [ ] Organization of 4.0 release
-  - Multiple milestones? 
-  - Extra branches for complex features?
-  - GitHub projects? (https://github.com/JabRef/jabref/projects/2)
-- [ ] Fin accounts
-- [ ] Prio: Feedback on open PRs
-  - https://github.com/JabRef/jabref/wiki/Templates#code-quality
-- [ ] Cleanup branches, PRs, issues (JabCon)
-- [ ] Mr. DLib: https://github.com/koppor/jabref/issues/231
-
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues]  (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
 - [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
@@ -20,6 +7,24 @@
 - [ ] Status of main topic for next release
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## Telko - 2017-03-09
+- [x] Status of [stupro PR's and issues](https://github.com/JabRef/jabref/labels/stupro ) ?
+  - All labels removed, we have to take care for ourselves
+- [x] Organization of 4.0 release
+  - Multiple milestones? - We do an intermediate release
+  - Extra branches for complex features?
+  - GitHub projects? (https://github.com/JabRef/jabref/projects/2 ) - yes, as internal overview
+- [x] Fin accounts
+- [x] Prio: Feedback on open PRs
+  - https://github.com/JabRef/jabref/wiki/Templates#code-quality
+- [x] Cleanup branches, PRs, issues (JabCon)
+- [x] Mr. DLib: https://github.com/koppor/jabref/issues/231
+
+- [x] Discussion about innovative idea https://wiwi.uni-paderborn.de/dep3/winfo2/lehre/lehrangebot-sommersemester-2017/w5350-innovative-ideas-seminar-graduate/
+
+### Topics discussed in each telephone conference
+- [x] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall )
 
 
 ## Telko 2017-01-20
