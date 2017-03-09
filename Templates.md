@@ -39,6 +39,12 @@ Besides minor comments, LGTM :+1:. The changes need a second review and thus thi
 We currently have no money to pay someone for that. Thus, it depends on the availability of our free time. - If you can spend some more time, we would like to encourage you to check https://help.jabref.org/en/FAQcontributing - especially the part asking for improvement of our help pages <https://help.jabref.org/en/>. We have plenty of open issues there: https://github.com/JabRef/help.jabref.org/issues/
 ```
 
+Soft:
+
+```
+No one volunteers to implement that. Feel free to reopen if you know someone who will implement that feature.
+```
+
 ## code quality
 
 We are very happy to see a new pull request.
