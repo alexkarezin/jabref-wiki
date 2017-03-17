@@ -1,3 +1,7 @@
+## Next Telko - 2017-03-??
+
+- [ ] Developers for 4.0 release
+
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues]  (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
 - [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
