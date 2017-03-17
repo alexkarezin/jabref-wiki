@@ -13,6 +13,7 @@
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
 ## Telko - 2017-03-09
+
 - [x] Status of [stupro PR's and issues](https://github.com/JabRef/jabref/labels/stupro ) ?
   - All labels removed, we have to take care for ourselves
 - [x] Organization of 4.0 release
