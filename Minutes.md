@@ -1,7 +1,8 @@
-## Next Telko - 2017-03-??
+## Next Telko - 2017-03-27
 
 - [ ] Developers for 4.0 release
 - [ ] New fetcher infrastructure?
+- [ ] DANTE Projekt-Förderung (letzter Absatz bei http://texwelt.de/blog/dante-2017-mv/).
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues]  (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
