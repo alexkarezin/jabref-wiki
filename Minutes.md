@@ -1,5 +1,5 @@
 ### Topics discussed in each telephone conference
-- [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues]  (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
 - [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
@@ -10,12 +10,12 @@
 
 ## Next Telko - 2017-03-27
 
-- [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues]  (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues](https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
 - [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - [ ] Status of main topic for next release
 - [ ] Developers of 4.0 release
-- [ ] Label `beginner` instead or in addition of `help-wanted` to enable listing at https://github.com/MunGell/awesome-for-beginners/blob/master/README.md
+- [ ] Label `jump-in` instead or in addition of `help-wanted` to enable listing at https://github.com/MunGell/awesome-for-beginners/blob/master/README.md. Alternative labels: `beginner`, [difficulty/beginner](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee), `low-hanging-fruit`, ... (See more at the [awesomelist](https://github.com/MunGell/awesome-for-beginners/blob/master/README.md) or http://up-for-grabs.net/#/)
 - [ ] DANTE Projekt-Förderung (letzter Absatz bei http://texwelt.de/blog/dante-2017-mv/).
 - [ ] New fetcher infrastructure?
 - [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
@@ -25,7 +25,7 @@
 
 ## Telko - 2017-03-09
 
-- [x] Status of [stupro PR's and issues](https://github.com/JabRef/jabref/labels/stupro ) ?
+- [x] Status of [stupro PR's and issues](https://github.com/JabRef/jabref/labels/stupro)?
   - All labels removed, we have to take care for ourselves
 - [x] Organization of 4.0 release
   - Multiple milestones? - We do an intermediate release
