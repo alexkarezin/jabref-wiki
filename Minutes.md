@@ -1,27 +1,27 @@
+## Next telco
+- [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
+
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
 - [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
-- [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] Status of main topic for next release
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
-## Next Telko - 2017-03-27
+## 2017-03-27
 
-- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues](https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
-- [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
-- [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
-- [ ] Status of main topic for next release
-- [ ] Developers of 4.0 release
-- [ ] Label `jump-in` instead or in addition of `help-wanted` to enable listing at https://github.com/MunGell/awesome-for-beginners/blob/master/README.md. Alternative labels: `beginner`, [difficulty/beginner](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee), `low-hanging-fruit`, ... (See more at the [awesomelist](https://github.com/MunGell/awesome-for-beginners/blob/master/README.md) or http://up-for-grabs.net/#/)
-- [ ] DANTE Projekt-Förderung (letzter Absatz bei http://texwelt.de/blog/dante-2017-mv/).
-- [ ] New fetcher infrastructure?
-- [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
-- [ ] Prioritize, discuss, and close the mass of open issues
-- [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
-- [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues](https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [x] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
+- [x] Status of main topic for next release. Hard work on groups left. We aim for an alpha relese in April.
+- [x] Developers of 4.0 release. 2 years could be a limit.
+- [x] Label `jump-in` instead or in addition of `help-wanted` to enable listing at https://github.com/MunGell/awesome-for-beginners/blob/master/README.md. Alternative labels: `beginner`, [difficulty/beginner](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee), `low-hanging-fruit`, ... (See more at the [awesomelist](https://github.com/MunGell/awesome-for-beginners/blob/master/README.md) or http://up-for-grabs.net/#/)
+  - we introduce label [beginner](https://github.com/JabRef/jabref/labels/beginner)
+- [x] DANTE Projekt-Förderung (letzter Absatz bei http://texwelt.de/blog/dante-2017-mv/).
+  - Very interesting feature has to be chosen. Or we take an "sabbatical month".
+- [x] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
+  - Stefan asks friends&family
 
 ## Telko - 2017-03-09
 
