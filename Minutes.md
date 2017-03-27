@@ -1,9 +1,3 @@
-## Next Telko - 2017-03-27
-
-- [ ] Developers for 4.0 release
-- [ ] New fetcher infrastructure?
-- [ ] DANTE Projekt-Förderung (letzter Absatz bei http://texwelt.de/blog/dante-2017-mv/).
-
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues]  (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
 - [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
@@ -12,6 +6,21 @@
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] Status of main topic for next release
 - [ ] Prioritize, discuss, and close the mass of open issues
+- [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## Next Telko - 2017-03-27
+
+- [ ] [Everything tagged with devcall] (https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues]  (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
+- [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- [ ] Status of main topic for next release
+- [ ] Developers of 4.0 release
+- [ ] Label `beginner` instead or in addition of `help-wanted` to enable listing at https://github.com/MunGell/awesome-for-beginners/blob/master/README.md
+- [ ] DANTE Projekt-Förderung (letzter Absatz bei http://texwelt.de/blog/dante-2017-mv/).
+- [ ] New fetcher infrastructure?
+- [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
+- [ ] Prioritize, discuss, and close the mass of open issues
+- [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
 ## Telko - 2017-03-09
