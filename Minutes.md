@@ -1,5 +1,6 @@
 ## Next telco
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
+- [ ] Status of [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner) label.
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
@@ -14,7 +15,7 @@
 
 - [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues](https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
 - [x] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
-- [x] Status of main topic for next release. Hard work on groups left. We aim for an alpha relese in April.
+- [x] Status of main topic for next release. Hard work on groups left. We aim for an alpha release in April.
 - [x] Developers of 4.0 release. 2 years could be a limit.
 - [x] Label `jump-in` instead or in addition of `help-wanted` to enable listing at https://github.com/MunGell/awesome-for-beginners/blob/master/README.md. Alternative labels: `beginner`, [difficulty/beginner](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee), `low-hanging-fruit`, ... (See more at the [awesomelist](https://github.com/MunGell/awesome-for-beginners/blob/master/README.md) or http://up-for-grabs.net/#/)
   - we introduce label [beginner](https://github.com/JabRef/jabref/labels/beginner)
