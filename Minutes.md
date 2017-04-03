@@ -7,7 +7,7 @@
 - [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
-- [ ] Status of main topic for next release
+- [ ] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8).
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
