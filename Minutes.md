@@ -1,6 +1,7 @@
 ## Next telco
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
 - [ ] Status of [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner) label.
+- [ ] Networking - [DANTE e.V.](https://www.dante.de/) - https://www.dante.de/index/Intern/Mitglied.html
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
