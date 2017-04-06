@@ -1,9 +1,8 @@
 ## Next telco
 - [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
-- [ ] Status of [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner) label.
-- [ ] Networking - [DANTE e.V.](https://www.dante.de/) - https://www.dante.de/index/Intern/Mitglied.html
 
 ### Topics discussed in each telephone conference
+- [ ] [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
 - [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
@@ -11,6 +10,15 @@
 - [ ] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8).
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2017-04-06
+- [x] v4.0-alpha release estimated for easter. 3.8.3 for keeping the meta data - see https://github.com/JabRef/jabref/issues/2715
+- [x] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
+- [x] Status of [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner) label.
+- [x] Networking - [DANTE e.V.](https://www.dante.de/) - https://www.dante.de/index/Intern/Mitglied.html
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [x] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
+- [x] [PR status]( https://github.com/JabRef/jabref/pulls )?
 
 ## 2017-03-27
 
