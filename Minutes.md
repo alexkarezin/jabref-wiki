@@ -1,5 +1,5 @@
 ## Next telco
-- [ ] Do we want to order JabRef gadgets, e.g., T-Shirts, mugs, stickers, etc.?
+- [ ] JabRef gadgets @stefan-kolb
 
 ### Topics discussed in each telephone conference
 - [ ] [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
