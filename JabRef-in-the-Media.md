@@ -11,8 +11,14 @@ Feel free to add something. We are open to suggestions for including tools in ou
 
 - http://alternativeto.net/software/jabref/
 - http://www.heise.de/download/special-software-tipps-fuer-die-master-und-bachelorarbeit-150891.html?hg=1&hgi=12&hgf=false (German only)
-- https://github.com/emptymalei/awesome-research#bibliography
 - https://www.heise.de/download/product/jabref-24459
+
+### awesome lists
+
+- https://github.com/emptymalei/awesome-research#bibliography
+- https://github.com/egeerardyn/awesome-LaTeX#bibliography-tools
+- http://up-for-grabs.net/#/tags/latex - [up-for-grabs.net](http://up-for-grabs.net) is a site listing open source projects welcoming beginners
+- https://github.com/MunGell/awesome-for-beginners#java
 
 ## Quamaco metrics
 
