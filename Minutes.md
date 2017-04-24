@@ -1,4 +1,5 @@
 ## Next telco - TBD
+- [ ] JabRef gadgets @stefan-kolb
 
 ### Topics discussed in each telephone conference
 - [ ] [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
@@ -11,16 +12,13 @@
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
-## Next telco - 2017-04-24
-- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
-- [ ] JabRef gadgets @stefan-kolb
-- [ ] [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
-- [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
-- [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
-- [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
-- [ ] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8).
-- [ ] Prioritize, discuss, and close the mass of open issues
-- [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+## 2017-04-24
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [x] JabRef gadgets @stefan-kolb
+- [x] [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
+- [x] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
+- [x] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- [x] merchandising
 
 ## 2017-04-06
 - [x] v4.0-alpha release estimated for easter. 3.8.3 for keeping the meta data - see https://github.com/JabRef/jabref/issues/2715
