@@ -1,9 +1,19 @@
-## Next telco
-- [ ] JabRef gadgets @stefan-kolb
+## Next telco - TBD
 
 ### Topics discussed in each telephone conference
 - [ ] [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
+- [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
+- [ ] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8).
+- [ ] Prioritize, discuss, and close the mass of open issues
+- [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## Next telco - 2017-04-24
+- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [ ] JabRef gadgets @stefan-kolb
+- [ ] [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
