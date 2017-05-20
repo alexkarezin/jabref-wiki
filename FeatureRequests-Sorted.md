@@ -89,25 +89,19 @@ I understand it is not the job of JabRef to take care of the installation and co
 - Linking articles: <http://sourceforge.net/p/jabref/feature-requests/481/>
 - ontology view on top of BibTex: <http://sourceforge.net/p/jabref/feature-requests/124/>
 - references analysis: <http://sourceforge.net/p/jabref/feature-requests/832/>
-- Save groups explicitly: <http://sourceforge.net/p/jabref/feature-requests/178/>
 - Boolean combination of groups: <http://sourceforge.net/p/jabref/feature-requests/263/>
 - Simplified search option: <http://sourceforge.net/p/jabref/feature-requests/271/>
 - Dynamic; faceted keyword tagging a la GMarks: <http://sourceforge.net/p/jabref/feature-requests/342/>
 - Timeline Support: <http://sourceforge.net/p/jabref/feature-requests/373/>
 - New method of removing entry from group: <http://sourceforge.net/p/jabref/feature-requests/383/>
-- Auto group by author: <http://sourceforge.net/p/jabref/feature-requests/398/>
 - Add reverse cross-reference search to context menu: <http://sourceforge.net/p/jabref/feature-requests/42/>
 - automated keyword addition: <http://sourceforge.net/p/jabref/feature-requests/591/>
-- Suggestions re: groups: <http://sourceforge.net/p/jabref/feature-requests/603/>
 - Selecting Groups Using Set Logic: <http://sourceforge.net/p/jabref/feature-requests/681/>
 - Search option; within the focused field of the entry editor: <http://sourceforge.net/p/jabref/feature-requests/715/>
 - Save previous search terms: <http://sourceforge.net/p/jabref/feature-requests/727/>
 - Extended Search Features -> integrated DOI search: <http://sourceforge.net/p/jabref/feature-requests/513/>
-- Merging /​ copying groups ?: <http://sourceforge.net/p/jabref/feature-requests/756/>
 - Sub-types and Sub-entries: <http://sourceforge.net/p/jabref/feature-requests/812/>
-- Description field for groups: <http://sourceforge.net/p/jabref/feature-requests/818/>
 - count occrrences of keywords: <http://sourceforge.net/p/jabref/feature-requests/836/>
-- Remember groups status (expanded/​collapsed) of each open tab in the same window: <http://sourceforge.net/p/jabref/feature-requests/856/>
 - File link through Proceedings/​Collection/​Book entry. Jump to page in large document.: <http://sourceforge.net/p/jabref/feature-requests/895/>
 
 **`Remark:`** 
