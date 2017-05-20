@@ -290,23 +290,8 @@ The key formatters could be unified with the import and export formatters.
 - Open all linked Files with one Click: <http://sourceforge.net/p/jabref/feature-requests/628/>
 
 #### Group Interface
-- 'view all entries' button in groups interface: <http://sourceforge.net/p/jabref/feature-requests/96/>
-- search groups: <http://sourceforge.net/p/jabref/feature-requests/509/>
-- Create entry for group: <http://sourceforge.net/p/jabref/feature-requests/141/>
-- Use mouse to change height of group interface: <http://sourceforge.net/p/jabref/feature-requests/150/>
-- Group name before automatic group creation: <http://sourceforge.net/p/jabref/feature-requests/151/>
-- group and subgroup moving by contextual menu: <http://sourceforge.net/p/jabref/feature-requests/283/>
-- Allow description on Group: <http://sourceforge.net/p/jabref/feature-requests/489/>
-- Can display groups to which an entry is connected: <http://sourceforge.net/p/jabref/feature-requests/868/>
-- Make groups work a bit more like tags: <http://sourceforge.net/p/jabref/feature-requests/750/>
-- Increase of maximum length of group's name (that displayed in groups panel): <http://sourceforge.net/p/jabref/feature-requests/855/>
+- Create entry for group in context menu: <http://sourceforge.net/p/jabref/feature-requests/141/>
 - visualization tool: <http://sourceforge.net/p/jabref/feature-requests/466/>
-- Search and group interface: <http://sourceforge.net/p/jabref/feature-requests/394/>
-- multiple selection of groups: <http://sourceforge.net/p/jabref/feature-requests/264/>
-- group selection tree: <http://sourceforge.net/p/jabref/feature-requests/521/>
-- highlight groups when selecting entry: <http://sourceforge.net/p/jabref/feature-requests/606/>
-- Remember groups status (expanded/​closed): <http://sourceforge.net/p/jabref/feature-requests/712/>
-- I want to use the old style (pre 2.10) of add to group: <http://sourceforge.net/p/jabref/feature-requests/880/>
 
 #### Import 
 - Journal column in importation windows: <http://sourceforge.net/p/jabref/feature-requests/827/>
