@@ -578,8 +578,6 @@ For entry cleanup but also for other purposes, third-party softwares are suggest
 - Web capture of references?: <http://sourceforge.net/p/jabref/feature-requests/56/>
 - automatic url links generation: <http://sourceforge.net/p/jabref/feature-requests/110/>
 - OCR integration: <http://sourceforge.net/p/jabref/feature-requests/830/>
-- import entries to certain group: <http://sourceforge.net/p/jabref/feature-requests/309/>
-- I should be able to drop a bibtex entry onto a group/​item pane: <http://sourceforge.net/p/jabref/feature-requests/887/>
 - Include keywords from IEEE search: <http://sourceforge.net/p/jabref/feature-requests/333/>
 - IEEE Xplore INSPEC accession number: <http://sourceforge.net/p/jabref/feature-requests/448/>
 - Mendely Jabbref: <http://sourceforge.net/p/jabref/feature-requests/741/>
