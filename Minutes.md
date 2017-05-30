@@ -1,16 +1,26 @@
-## Next telco - TBD
+## Next telco - 2017-07-04
+
 - [ ] JabRef gadgets @stefan-kolb
 
 ### Topics discussed in each telephone conference
 - [ ] [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
-- [ ] https://github.com/JabRef/jabref/wiki/JabRef-in-the-Media#awesome-lists
 - [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
 - [ ] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8).
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+
+## 2017-05-30
+
+- [x] Publication of JabRef. Konferenzen vs. http://openresearchsoftware.metajnl.com vs. https://arxiv.org/list/cs.SE/new vs. Bamberger Beiträge zur Wirtschaftsinformatik und Angewandten Informatik
+  - C. Schwentker et al.; 5 pages in the format of the journal
+- Groups: done. Big steps for v4.1
+- Discussion entry editor major issues. We estimate August 2017 to be finished.
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+
 
 ## 2017-04-24
 - [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
