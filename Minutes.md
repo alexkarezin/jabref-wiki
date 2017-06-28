@@ -1,4 +1,4 @@
-## Next telco - 2017-07-04
+## Next telco - 2017-07-??
 
 - [ ] JabRef gadgets @stefan-kolb
 
