@@ -1,6 +1,4 @@
-## Next telco - 2017-07-??
-
-- [ ] JabRef gadgets @stefan-kolb
+## Next telco - 2017-07-18
 
 ### Topics discussed in each telephone conference
 - [ ] [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
@@ -12,6 +10,13 @@
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
+## 2017-07-11
+
+- [x] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8).
+  - Issues moved from 4.0 to 4.1
+- [x] JabRef gadgets @stefan-kolb
+  - slow progress
+- [x] JabRef@Bamberg: https://de-de.facebook.com/wiai.de/posts/1097164853716774
 
 ## 2017-05-30
 
