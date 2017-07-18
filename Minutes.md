@@ -1,6 +1,27 @@
-## Next telco - 2017-07-18
+## Next telco - 2017-08-10
 
 ### Topics discussed in each telephone conference
+- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
+- [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
+- [ ] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8).
+- [ ] [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
+- [ ] Prioritize, discuss, and close the mass of open issues
+- [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2017-07-18
+
+- [ ] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8).
+  - 91% complete. Release of 4.0-beta2 today or the next days
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [x] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
+- [x] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- Gadgets
+- Brazilian project --> we wait until we have a serious pull request
+
+### Topics discussed in each telephone conference
+
 - [ ] [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
 - [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
