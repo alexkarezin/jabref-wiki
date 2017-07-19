@@ -48,15 +48,27 @@
 4. Create a release commit
   `git commit -m "Release v3.4"`
  
+
 ## Do Release
+
 1. `git tag v3.4`
 2. `git push origin v3.4`
 3. Download binaries from CircleCI
 
+
 ## Test Release
-At least, quickly check if contents in __Help - About JabRef__ are properly replaced.
+
+1. At least, quickly check if contents in __Help - About JabRef__ are properly replaced.
+
+## Release to Ubuntu Store
+
+1. In case everything works fine, push master (having the tag)
+2. Then, travis builds the `snap` file.
+3. Wait until travis succeeds.
+4. Go to https://dashboard.snapcraft.io/dev/snaps/7999/ and release the master branch version
 
 ## Prepare for next version
+
 1. `CHANGELOG.md`
   - At the beginning of the file:
     ```md
@@ -93,6 +105,7 @@ At least, quickly check if contents in __Help - About JabRef__ are properly repl
   - `git push origin master`  
 
 ## Publish Binaries 
+
 1. Sourceforge
   - Navigate to <https://sourceforge.net/projects/jabref/files/>
   - Click "Add Folder"
@@ -125,6 +138,7 @@ At least, quickly check if contents in __Help - About JabRef__ are properly repl
   - Upload binaries to GitHub release page. 
 
 ## Spread the word
+
 1. Add news text to the GitHub release
 2. Write a blog entry
 3. Follow https://github.com/JabRef/jabref/wiki/Information-update-after-a-release/
