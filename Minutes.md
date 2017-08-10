@@ -1,4 +1,4 @@
-## Next telco - 2017-08-10
+## Next telco - 2017-08-24
 
 ### Topics discussed in each telephone conference
 - [ ] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8).
@@ -7,13 +7,21 @@
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - http://campus.openhatch.org/
 - [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
-- [ ] [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
+## 2017-08-10
+
+- [x] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8).
+- [x] Snapcraft. -> koppor adapts https://github.com/JabRef/jabref/pull/2345/ again :)
+- [x] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues] ( https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
+- [x] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback )
+- [x] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- http://campus.openhatch.org/
+
 ## 2017-07-18
 
-- [ ] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8).
+- [x] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8).
   - 91% complete. Release of 4.0-beta2 today or the next days
 - [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
 - [x] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
@@ -585,6 +593,7 @@
   - Remove incremental, filter, always live on, select matches, autocomplete always on
 
 # Discussions for Leisure Time
+- [ ] Status of [beginner](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner) issues: Are there enough issues open?
 - [ ] Can some [on-hold issues](https://github.com/JabRef/jabref/issues?utf8=%E2%9C%93&q=label%3Aon-hold+) opened again?
 - [ ] Preferences: Structure and Necessity
 - [ ] Use nullity annotations from IntelliJ IDEA to have less annoying NPE bug reports. IDEA can automatically set @NotNull and @Nullable annotations throughout the code and then analyse the code to see any violations of the contracts. Downside: adding dependency to IntelliJ annotations...
