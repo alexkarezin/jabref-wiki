@@ -47,19 +47,15 @@ No one volunteers to implement that. Feel free to reopen if you know someone who
 
 ## code quality
 
-We are very happy to see a new pull request.
-We know that coding is hard and getting a high code quality is even harder.
-We in JabRef have the aim to teach all contributes some code quality.
-As a first step, we ask you to fix following code quality issues:
+```
+We are very happy to see a new pull request. We know that coding is hard and getting a high code quality is even harder.
+We in JabRef have the aim to teach all contributes some code quality. As a first step, we ask you to fix following code quality issues:
 
  - [ ] Fix Codacy
  - [ ] Check the output of TravisCI
  - [ ] Work on the comments above
 
-For the first two, just click on the "Details" above to see details.
-Please let us know if you have any concerns or questions.
-Just comment in this pull request.
-We are looking forward to your improvements.
-
+For the first two, just click on the "Details" above to see details. Please let us know if you have any concerns or questions. Just comment in this pull request. We are looking forward to your improvements.
 
 Background: JabRef tries to increase code quality to increase maintainability. See <https://github.com/JabRef/jabref/wiki/Development-Strategy> for details.
+```
