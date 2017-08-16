@@ -10,6 +10,9 @@
   - They will be stored inside `C:\Users\<username>\.install4j6\jres`
 
 3. Copy these files to jabref.org `files_jabref_org@files.jabref.org:www/jres` using [sftp](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol). Send your ssh pubkey to @koppor to get access.
+```
+$ sftp -P 9922 files_jabref_org@files.jabref.org:www/jres
+```
 
 4. Adapt install4j media files config
   Just select the new JREs and change the URLs
