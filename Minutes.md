@@ -1,11 +1,12 @@
-## Next telco - 2017-08-24
+## Next telco - 2017-08-25
 
 ### Topics discussed in each telephone conference
-- [ ] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8).
-- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
-- [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
-- http://campus.openhatch.org/
+- [ ] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8).
+  - [ ] koppor's findings: https://github.com/koppor/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Av4.0
+- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues] (https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed) and [closed PRs](https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall)
+- [ ] http://campus.openhatch.org/
+- [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
 - [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
