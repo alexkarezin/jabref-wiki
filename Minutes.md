@@ -1,4 +1,4 @@
-## Next telco
+## Next telco - 2017-09-18
 
 - [ ] http://campus.openhatch.org/
 
@@ -13,14 +13,13 @@
 
 ## 2017-08-25
 
-- [ ] [PR status](https://github.com/JabRef/jabref/pulls )?
-- [ ] Status and main topic for next release. This time [v4.0](https://github.com/JabRef/jabref/milestone/8 ).
-  - [ ] koppor's findings: https://github.com/koppor/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Av4.0
-- [ ] Homepage maintenance - https://github.com/JabRef/www.jabref.org/issues
-- [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues] ( https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
-- [ ] [Old Waiting for feedback issues](https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback)
-- [ ] Cleanup [branches](https://github.com/JabRef/jabref/branches)?
-- [ ] Prioritize, discuss, and close the mass of open issues
+- [x] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- [x] Status and main topic for next release. This time [v4.0]( https://github.com/JabRef/jabref/milestone/8 ).
+  - [x] koppor's findings: https://github.com/koppor/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Av4.0
+  - no main issues, we focus on important issues to get the release out
+- [x] Homepage maintenance - https://github.com/JabRef/www.jabref.org/issues
+- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues]( https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
+- [x] Gadgets
 
 ## 2017-08-10
 
