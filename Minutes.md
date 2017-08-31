@@ -3,13 +3,21 @@
 - [ ] http://campus.openhatch.org/
 
 ### Topics discussed in each telephone conference
+- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues]( https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - [ ] Status and main topic for next release. This time [v4.0]( https://github.com/JabRef/jabref/milestone/8 ).
-- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues]( https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
 - [ ] [Old Waiting for feedback issues]( https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback )
 - [ ] Cleanup [branches]( https://github.com/JabRef/jabref/branches )?
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2017-08-31
+
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues]( https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
+- [x] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- [x] Status and main topic for next release. This time [v4.0]( https://github.com/JabRef/jabref/milestone/8 ).
+- [x] [Old Waiting for feedback issues]( https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback )
+- [x] Call for translators - similar to https://github.com/JabRef/jabref/issues/2741
 
 ## 2017-08-25
 
@@ -18,7 +26,7 @@
   - [x] koppor's findings: https://github.com/koppor/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Av4.0
   - no main issues, we focus on important issues to get the release out
 - [x] Homepage maintenance - https://github.com/JabRef/www.jabref.org/issues
-- [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues]( https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues]( https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
 - [x] Gadgets
 
 ## 2017-08-10
