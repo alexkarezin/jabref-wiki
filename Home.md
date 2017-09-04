@@ -18,7 +18,7 @@ The end-user documentation is available at <https://help.jabref.org>.
 * [How to Help](https://help.jabref.org/en/FAQcontributing)
 * [Setup a local Workspace - step-by-step](Guidelines-for-setting-up-a-local-workspace)
 * [[Code Howtos]]: tips and tricks for coders.
-* [Feature Requests collected on SourceForge](FeatureRequests Sorted). Currently, feature requests are collected on [GitHub](https://github.com/JabRef/jabref/labels/feature)
+* [Feature Requests collected on SourceForge](../FeatureRequests-Sorted). Currently, feature requests are collected on [GitHub](https://github.com/JabRef/jabref/labels/feature)
 * [Sync your fork with the JabRef repository](https://help.github.com/articles/syncing-a-fork/)
 * [[Translating JabRef Interface]]: JabRef interface in your preferred language.
 * [[Tools]]: Useful software for an easier programming
