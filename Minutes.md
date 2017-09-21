@@ -1,6 +1,7 @@
 ## Next telco
 
 - [ ] Merchendise - Was genau?
+- [ ] https://twitter.com/jkup/status/909887066103676928 --> "Stop treating open source like a product you purchased and start treating it like a team you belong to." -> Blog Eintrag?
 - [ ] http://campus.openhatch.org/
 
 ### Topics discussed in each telephone conference
