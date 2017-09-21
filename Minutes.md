@@ -2,6 +2,8 @@
 
 - [ ] Merchendise - Was genau?
 - [ ] https://twitter.com/jkup/status/909887066103676928 --> "Stop treating open source like a product you purchased and start treating it like a team you belong to." -> Blog Eintrag?
+  * thanking translators, contributors, issue reporters
+  * Highlighting key challenges with JabRef (old software, large codebase, fluctuating DEVELOPERS, OSC compatibility)
 - [ ] http://campus.openhatch.org/
 
 ### Topics discussed in each telephone conference
