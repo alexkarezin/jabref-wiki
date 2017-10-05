@@ -26,6 +26,7 @@ The place that should be checked after a release are the following:
      - https://en.wikipedia.org/wiki/JabRef
      - https://es.wikipedia.org/wiki/JabRef
      - https://fr.wikipedia.org/wiki/JabRef
+     - https://it.wikipedia.org/wiki/JabRef
      - https://ru.wikipedia.org/wiki/JabRef
      - https://sv.wikipedia.org/wiki/JabRef
      - https://uk.wikipedia.org/wiki/JabRef
