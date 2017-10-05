@@ -7,6 +7,7 @@ The place that should be checked after a release are the following:
 - https://blog.jabref.org (for announcement)
 - http://discourse.jabref.org (for announcement)
 - https://sourceforge.net/projects/jabref/
+- https://github.com/JabRef/jabref/wiki/FeatureRequests-Sorted
 
 ## Handled by JabRef developers
 - http://www.heise.de/download/product/jabref-24459 (currently handled by @siedlerchr)
