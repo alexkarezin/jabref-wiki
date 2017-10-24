@@ -21,6 +21,7 @@ The place that should be checked after a release are the following:
 
 ## Handled by others
 - wikipedia:
+     - https://www.wikidata.org/wiki/Q1676802?uselang=en#P571
      - https://en.wikipedia.org/wiki/Comparison_of_reference_management_software#General
      - https://zh.wikipedia.org/wiki/%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6%E6%AF%94%E8%BE%83
      - https://de.wikipedia.org/wiki/JabRef
