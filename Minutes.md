@@ -1,5 +1,7 @@
 ## Next telco
 
+- [ ] OSS Signing Certificate
+- [ ] Structured Code Walkthrough
 - [ ] Merchendise - Was genau?
 - [ ] https://twitter.com/jkup/status/909887066103676928 --> "Stop treating open source like a product you purchased and start treating it like a team you belong to." -> Blog Eintrag?
   * thanking translators, contributors, issue reporters
