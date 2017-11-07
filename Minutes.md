@@ -8,6 +8,7 @@
   * thanking translators, contributors, issue reporters
   * Highlighting key challenges with JabRef (old software, large codebase, fluctuating DEVELOPERS, OSC compatibility)
 - [ ] http://campus.openhatch.org/
+- [ ] Disable LGTM analysis or [adapt build gradlehttps://github.com/TheBoegl/shadow-log4j-transformer/issues/3#issuecomment-342015791)
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues]( https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
