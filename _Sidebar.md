@@ -1,0 +1,24 @@
+- [[Home]]
+- General Information
+    - [Main Website](http://www.jabref.org/)
+    - [[Donations]]
+    - [[Development Strategy]]
+    - [[Minutes]]
+    - [[2015 Survey |http://www.jabref.org/surveys/2015/]]
+    - [[Download Mirrors]]
+    - [[JabRef in the Media]]
+    - [[JabRef Best Practices | http://help.jabref.org/en/BestPractices]]
+- Development
+    - [[How to help | https://help.jabref.org/en/FAQcontributing]]
+    - [[Setting up the workspace | Guidelines-for-setting-up-a-local-workspace]]
+    - [[Code Howtos]]
+    - [[Feature Requests on SourceFourge | https://github.com/JabRef/jabref/FeatureRequests-Sorted]]
+    - [[Sync your fork with the JabRef repository|https://help.github.com/articles/syncing-a-fork/]]
+    - [[Translating JabRef Interface]]
+    - [[Tools]]
+    - [[High Level Documentation]]
+    - [[Repository Branches|Branches]]
+    - [[Continuous Integration|CI]]
+- Usage Information
+    - [[Command Line Interface|https://help.jabref.org/en/CommandLine]]
+    - [[BibTeX and BibLaTeX Formats|BibTeX]]
