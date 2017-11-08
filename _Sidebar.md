@@ -12,7 +12,7 @@
     - [[How to help | https://help.jabref.org/en/FAQcontributing]]
     - [[Setting up the workspace | Guidelines-for-setting-up-a-local-workspace]]
     - [[Code Howtos]]
-    - [[Feature Requests on SourceFourge | https://github.com/JabRef/jabref/FeatureRequests-Sorted]]
+    - [[Current Feature Requests | https://github.com/JabRef/jabref/labels/feature]]
     - [[Sync your fork with the JabRef repository|https://help.github.com/articles/syncing-a-fork/]]
     - [[Translating JabRef Interface]]
     - [[Tools]]
