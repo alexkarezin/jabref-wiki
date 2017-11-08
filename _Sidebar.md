@@ -14,7 +14,7 @@
     - [[Code Howtos]]
     - [[Current Feature Requests | https://github.com/JabRef/jabref/labels/feature]]
     - [[Sync your fork with the JabRef repository|https://help.github.com/articles/syncing-a-fork/]]
-    - [[Translating JabRef Interface]]
+    - [[Translating JabRef Interface | https://help.jabref.org/en/TranslatingGUI]]
     - [[Tools]]
     - [[High Level Documentation]]
     - [[Repository Branches|Branches]]
