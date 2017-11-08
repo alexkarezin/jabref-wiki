@@ -16,10 +16,14 @@
     - [[Current Feature Requests | https://github.com/JabRef/jabref/labels/feature]]
     - [[Sync your fork with the JabRef repository|https://help.github.com/articles/syncing-a-fork/]]
     - [[Translating JabRef Interface | https://help.jabref.org/en/TranslatingGUI]]
+    - [[Using JavaFX | Code---JavaFX]]
     - [[Tools]]
     - [[High Level Documentation]]
     - [[Repository Branches|Branches]]
     - [[Continuous Integration|CI]]
+- Release
+    - [[Releasing a new Version]]
+    - [[Information update after a release]]
 - Usage Information
     - [[Command Line Interface|https://help.jabref.org/en/CommandLine]]
     - [[BibTeX and BibLaTeX Formats|BibTeX]]
