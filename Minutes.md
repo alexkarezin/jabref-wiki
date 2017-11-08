@@ -1,14 +1,6 @@
-## Next telco
+## Next telco - 2017-11-22
 
-- [ ] OSS Signing Certificate
-- [ ] Structured Code Walkthrough
-- [ ] Application Insights (how to access them, create some aggregated statistics, etc)
 - [ ] Merchandise - Was genau?
-- [ ] https://twitter.com/jkup/status/909887066103676928 --> "Stop treating open source like a product you purchased and start treating it like a team you belong to." -> Blog Eintrag?
-  * thanking translators, contributors, issue reporters
-  * Highlighting key challenges with JabRef (old software, large codebase, fluctuating DEVELOPERS, OSC compatibility)
-- [ ] http://campus.openhatch.org/
-- [ ] Disable LGTM analysis or [adapt build gradle](https://github.com/TheBoegl/shadow-log4j-transformer/issues/3#issuecomment-342015791)
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues]( https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
@@ -19,6 +11,18 @@
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
+## 2017-11-07
+
+- [x] OSS Signing Certificate: no signing; hardware-dongle; some software certificate: @linus, @koppor, @chris ask their universities - e.g., https://www.pki.dfn.de/faqpki/faqpki-codesigning0/
+- [x] Structured Code Walkthrough
+- [x] Application Insights (how to access them, create some aggregated statistics, etc) - https://portal.azure.com/
+- [x] https://twitter.com/jkup/status/909887066103676928 --> "Stop treating open source like a product you purchased and start treating it like a team you belong to." -> Blog Eintrag?
+  * thanking translators, contributors, issue reporters
+  * Highlighting key challenges with JabRef (old software, large codebase, fluctuating DEVELOPERS, OSC compatibility)
+- [x] http://campus.openhatch.org/ - we are screening hackathons
+- [x] Disable LGTM analysis or [adapt build gradle](https://github.com/TheBoegl/shadow-log4j-transformer/issues/3#issuecomment-342015791)
+- [x] Next release: https://github.com/JabRef/jabref/milestone/16
+- [x] [Everything tagged with devcall](https://github.com/JabRef/jabref/labels/devcall) - includes [closed issues]( https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
 
 ## 2017-09-18
 
