@@ -8,6 +8,7 @@
     - [[Download Mirrors]]
     - [[JabRef in the Media]]
     - [[JabRef Best Practices | http://help.jabref.org/en/BestPractices]]
+    - [[Alternatives to JabRef | Alternatives]]
 - Development
     - [[How to help | https://help.jabref.org/en/FAQcontributing]]
     - [[Setting up the workspace | Guidelines-for-setting-up-a-local-workspace]]
