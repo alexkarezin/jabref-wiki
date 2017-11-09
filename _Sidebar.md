@@ -22,7 +22,7 @@
     - [[Repository Branches|Branches]]
     - [[Continuous Integration|CI]]
 - Release
-    - [[Releasing a new Version]]
+    - [[Releasing a new version]]
     - [[Information update after a release]]
 - Usage Information
     - [[Command Line Interface|https://help.jabref.org/en/CommandLine]]
