@@ -27,6 +27,8 @@ Feel free to add something. We are open to suggestions for including tools in ou
 
 ## Papers discussing JabRef aspects
 
+* Mr. DLib integration: Stefan Feyer, Sophie Siebert, Béla Gipp, Akiko Aizawa, Jöran Beel:
+Integration of the Scientific Recommender System Mr. DLib into the Reference Manager JabRef. ECIR 2017: 770-774
 * Discuss the number of clones in JabRef: Benjamin Hummel, Elmar Juergens, Lars Heinemann, Michael Conradt: Index-Based Code Clone Detection: Incremental, Distributed, Scalable. Proceedings of the 26th IEEE International Conference on Software Maintenance (ICSM’10), 2010. http://dx.doi.org/10.1109/ICSM.2010.5609665
 * @Jürgens2010: [Elmar Juergens], Florian Deissenboeck, Benjamin Hummel: Code similarities beyond copy & paste. Proceedings of the 14th European Conference on Software Maintenance and Reengineering (CSMR’10), 2010. http://dx.doi.org/10.1109/CSMR.2010.33
 * @Lochmann2013: Lochmann, K., Ramadani, J., Wagner S., Are Comprehensive Quality Models Necessary for Evaluating Software Quality? Proceedings of the 9th International Conference on Predictive Models in Software Engineering (PROMISE'13). http://dx.doi.org/10.1145/2499393.2499404
