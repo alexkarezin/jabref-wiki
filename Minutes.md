@@ -1,5 +1,5 @@
-## Next telco - 2017-11-22
-
+## Next telco - 2017-12-08
+- [ ] Code Signing Certificate
 - [ ] Merchandise - Was genau?
 - [ ] [JabCon](http://jabcon.jabref.org/)
 
@@ -11,6 +11,14 @@
 - [ ] Cleanup [branches]( https://github.com/JabRef/jabref/branches )?
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2017-11-22
+
+- [x] Code Signing Certificate - waiting for feedback
+- [x] [JabCon](http://jabcon.jabref.org/)
+- [x] Alternatives to versioneye. Think, we need to develop a stripped-down version
+- [x] Merged some PRs to prepare version 4.1.
+- [x] Release 4.1 after code signing is clear.
 
 ## 2017-11-07
 
