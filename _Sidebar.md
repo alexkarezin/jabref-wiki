@@ -16,6 +16,7 @@
     - [[Current Feature Requests | https://github.com/JabRef/jabref/labels/feature]]
     - [[Sync your fork with the JabRef repository|https://help.github.com/articles/syncing-a-fork/]]
     - [[Translating JabRef Interface | https://help.jabref.org/en/TranslatingGUI]]
+    - [[Integrating new translations from Crowdin]]
     - [[Using JavaFX | Code---JavaFX]]
     - [[Tools]]
     - [[High Level Documentation]]
