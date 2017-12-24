@@ -18,6 +18,8 @@ The place that should be checked after a release are the following:
 ## Information mail required
 - https://www.ctan.org/pkg/jabref
   - email them for an update
+- http://www.computerbild.de/download/JabRef-11693358.html
+ - "Update melden"
 
 ## Handled by others
 - wikipedia:
