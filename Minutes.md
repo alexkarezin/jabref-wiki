@@ -11,6 +11,17 @@
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
+## 2017-01-12
+
+- [x] JabCon
+- https://github.com/JabRef/jabref/issues/3586 - We discontinue our Skype Chat "JabRef developers [extended]" in favour of https://gitter.im/JabRef/jabref. We see it as try-out hoping that we won't be work-overloaded.
+- [x] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
+- [x] Twitter and facebook icons - https://www.heise.de/newsticker/meldung/Datenschutz-und-Social-Media-Der-c-t-Shariff-ist-im-Einsatz-2470103.html
+- [x] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- [x] Status and main topic for next release. This time [v4.2]( https://github.com/JabRef/jabref/milestone/17 ). Release after JabCon. Maybe 106 days after, but maybe much earlier. https://tex.meta.stackexchange.com/a/7523/9075
+- [x] Certificate: Linus takes care
+- [x] Advertisement: Book
+
 ## 2017-12-22
 
 - [x] Certificate - release without certificate to keep things going
