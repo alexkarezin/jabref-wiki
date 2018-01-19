@@ -28,3 +28,5 @@
 - Usage Information
     - [[Command Line Interface|https://help.jabref.org/en/CommandLine]]
     - [[BibTeX and BibLaTeX Formats|BibTeX]]
+- FAQ
+    - [[Building and Running JabRef under OS X]]
