@@ -1,7 +1,7 @@
 ## Next next telco
 
 JabCon
-- [ ] Merchandise - Was genau? Bug Bounty
+- [ ] Merchandise - Was genau? (T-Shirts?) Bug Bounty
 - [ ] Bugs fixen! Stability coding instead of features?!
 - [ ] Issues gemeinsam durchgehen
 
