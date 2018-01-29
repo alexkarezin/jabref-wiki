@@ -20,6 +20,12 @@ Feel free to add something. We are open to suggestions for including tools in ou
 - http://up-for-grabs.net/#/tags/latex - [up-for-grabs.net](http://up-for-grabs.net) is a site listing open source projects welcoming beginners
 - https://github.com/MunGell/awesome-for-beginners#java
 
+## Code Contribution Sites
+
+- https://www.codetriage.com/jabref/jabref/
+- http://up-for-grabs.net - https://github.com/up-for-grabs/up-for-grabs.net/blob/gh-pages/_data/projects/jabref.yml
+- https://contribulator.24pullrequests.com/JabRef/jabref
+
 ## Quamaco metrics
 
 * [@Lochmann2013]
