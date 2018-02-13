@@ -1,3 +1,6 @@
+## November 2018
+- https://developers.google.com/open-source/gsoc/timeline
+
 ## Next next telco
 
 JabCon
