@@ -1,12 +1,14 @@
 This page lists alternatives to JabRef.
 
-Please discuss with us at the mailing list if you miss features in JabRef being available at the other tools
+Please discuss with us at [the forum](http://discourse.jabref.org/) list if you miss features in JabRef being available at the other tools
 
-A large list of possible reference managers is provided by [WikiPedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software). 
+- A large list of possible reference managers is provided by [WikiPedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software). 
+- [alternative.to](http://alternativeto.net/software/jabref/) also provides a list of popular alternatives.
+- An interactive table is provided at the [ultimate reference management software comparision](https://ultimate-comparisons.github.io/ultimate-reference-management-software-comparison/).
+- An evaluation from the year 2007 of collaborative literature tools: [Fachstudie Nr. 61](http://www2.informatik.uni-stuttgart.de/cgi-bin/NCSTRL/NCSTRL_view.pl?id=FACH-0061&mod=0&engl=1).
+
 In the list below, we pick interesting candidates. 
-Some of them are not listed at WikiPedia.
-
-[alternative.to](http://alternativeto.net/software/jabref/) also provides a list of popular alternatives.
+Some of them are not listed at the lists above.
 
 # BibTeX-based
 
@@ -64,5 +66,3 @@ Some of them are not listed at WikiPedia.
 * [RefWorks](https://www.refworks.com/)
 * [Scientilla](http://www.scientilla.org/)
 * [WIKINDX](http://wikindx.sourceforge.net/)
-
-An evaluation from the year 2007 of collaborative literature tools: [Fachstudie Nr. 61](http://www2.informatik.uni-stuttgart.de/cgi-bin/NCSTRL/NCSTRL_view.pl?id=FACH-0061&mod=0&engl=1).
