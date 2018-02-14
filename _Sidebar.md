@@ -22,6 +22,7 @@
     - [[High Level Documentation]]
     - [[Repository Branches|Branches]]
     - [[Continuous Integration|CI]]
+    - [[Locally use Install4J|Install4J]]
 - Release
     - [[Releasing a new version]]
     - [[Information update after a release]]
