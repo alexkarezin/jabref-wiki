@@ -15,16 +15,20 @@ Some of them are not listed at the lists above.
 ## Cross-Platform
 
 * [Bib-it](http://bib-it.sourceforge.net/index.php)
- * BibTeX style generator (bst): Bib-it features an advanced GUI based bst generator
- * Development discontinued
+  * BibTeX style generator (bst): Bib-it features an advanced GUI based bst generator
+  * Development discontinued
 * [Bibfilex](https://sites.google.com/site/bibfilex/)
 * [Bibi](http://bibi.sourceforge.net/)
 * [Docear](http://www.docear.org/), successor of http://www.sciplore.org
- * Friendly fork of JabRef. Source: https://github.com/Docear
- * https://github.com/stlanger/Docear seems to be another fork
+  * Friendly fork of JabRef. Source: https://github.com/Docear
+  * https://github.com/stlanger/Docear seems to be another fork
 * [ebib](https://github.com/joostkremers/ebib), plugin für EMACS
 * [org-bibref](https://gitorious.org/org-bibref), plugin for EMACS
 * [sixpack](http://sourceforge.net/projects/sixpack/) - development discontinued
+
+There are also scripts for working in an automated way on BibTeX files:
+
+* [bibutils](https://sourceforge.net/p/bibutils/home/bib2xml/)
 
 ## Linux
 * [KBibTeX](http://home.gna.org/kbibtex/)
@@ -54,6 +58,7 @@ Some of them are not listed at the lists above.
 * [Aigaion](https://sourceforge.net/projects/aigaion/)
 * [BibORB](http://savannah.nongnu.org/projects/biborb/)
 * [BibServer](https://github.com/okfn/bibserver) - unsure whether it is really collaborative or for single users only.
+* [CloudRef](https://github.com/JabRef/cloudref/) - prototype to show how collaboratively maintain bibtex entries.
 * [F1000 Workspace](http://f1000.com/work/) - [10$/month](https://f1000.com/work/profile/#/subscription/) - see also https://labworm.com/tool/workspace
 * [Mendeley](https://www.mendeley.com/)
 * [Papers](http://www.papersapp.com/)
