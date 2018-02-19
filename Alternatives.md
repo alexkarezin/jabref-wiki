@@ -40,15 +40,14 @@ Some of them are not listed at the lists above.
 # Non-BibTeX-based
 
 * [Bibus](http://bibus-biblio.sourceforge.net/)
- * Also offers integration with MS Word and LibreOffice.org
+  * Also offers integration with MS Word and LibreOffice.org
 * [calibre](http://calibre-ebook.com/) for eBooks, [Source Code](https://github.com/kovidgoyal/calibre)
 * [EndNote](http://endnote.com/product-details/basic)
 * [Zotero](https://www.zotero.org/)
- * Recommended plugin: [Zotero: Better Bib(La)TeX (BBT)](https://github.com/ZotPlus/zotero-better-bibtex)
- * Integration with JabRef: [JabFox Firefox Addon](https://github.com/JabRef/JabFox)
-
+  * Recommended plugin: [Zotero: Better Bib(La)TeX (BBT)](https://github.com/ZotPlus/zotero-better-bibtex)
+  * Integration with JabRef: [JabFox Firefox Addon](https://github.com/JabRef/JabFox)
 * [ReadCube](https://www.readcube.com/)
- * Seems quite good to deal with pdf files
+  * Seems quite good to deal with pdf files
 
 ## Collaborative
 
