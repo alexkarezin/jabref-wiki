@@ -1,14 +1,7 @@
 ## November 2018
 - https://developers.google.com/open-source/gsoc/timeline
 
-## Next next telco
-
-JabCon
-- [ ] Merchandise - Was genau? (T-Shirts?) Bug Bounty
-- [ ] Bugs fixen! Stability coding instead of features?!
-- [ ] Issues gemeinsam durchgehen
-- [ ] Status codesigning
-- [ ] Featureset next releases. What should V5.0 be?
+## Next telco
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
@@ -18,6 +11,42 @@ JabCon
 - [ ] Cleanup [branches]( https://github.com/JabRef/jabref/branches )?
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2018-02-23
+
+- [x] rueckblick jabcon
+  - [x] Merchandise - Was genau? (T-Shirts?) Bug Bounty
+  - [x] Bugs fixen! Stability coding instead of features?!
+  - [x] Issues gemeinsam durchgehen
+  - [x] Status codesigning: March, 6th
+- [x] Flyer: Looks good. Can be printed when comments are incorporated. Linus wants 100 pcs.
+- [x] Featureset next releases. What should V5.0 be?
+  - 4.2 when certificate is ready
+  - discussion: javafx
+    - Drivers:
+      - test user for javafx thing
+      - Being release ready
+      - conflicts at branches
+      - testing to public should offer a thing without obvious issues
+      - maintable takes approx. 4 month to be finished after start of test phase
+    - Ideas:
+      - stable branch + master branch (javafx)
+      - maintable branch (javafx) + master branch
+    - Decision:
+      - after 4.2 release:
+        - master gets maintable-beta merged
+        - stable branch branch for bug fixes to keep it release ready
+        - stable always (!) merged into master
+
+            - Idea: 5.0-alpha release, can be continiously made alpha-1, alpha-2, ...
+
+  - Discussion 
+      - new PRs should target maintable-beta branch
+      - new PRs should target master branch
+- [x] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
+- Social media buttons: will be tracked and we check whether they are really used
+- [x] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- [x] Status and main topic for next release. This time [v4.2]( https://github.com/JabRef/jabref/milestone/17 ).
 
 ## 2017-01-12
 
