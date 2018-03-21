@@ -23,7 +23,7 @@
     - [[Repository Branches|Branches]]
     - [[Continuous Integration|CI]]
     - [[Locally use Install4J|Install4J]]
-    - [[Creating Custom Icons|Cusome-SVG-Icons-for-JabRef]]
+    - [[Creating Custom Icons|Custom-SVG-Icons-for-JabRef]]
 - Release
     - [[Releasing a new version]]
     - [[Information update after a release]]
