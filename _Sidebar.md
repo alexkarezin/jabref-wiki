@@ -23,6 +23,7 @@
     - [[Repository Branches|Branches]]
     - [[Continuous Integration|CI]]
     - [[Locally use Install4J|Install4J]]
+    - [[Custom Icons|CustomIcons]]
 - Release
     - [[Releasing a new version]]
     - [[Information update after a release]]
