@@ -3,6 +3,7 @@
 
 ## Next telco
 
+- [ ] Code Signing Certificate
 - [ ] Status of next release
 - [ ] Merchandise Status and Marketing Possibilities (Flyer Distribution)
 - [ ] Status of maintable-beta (imho we cannot maintain two versions for too long side-by-side)
