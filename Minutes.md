@@ -3,6 +3,9 @@
 
 ## Next telco
 
+- [ ] Status of next release
+- [ ] Status of maintable-beta (imho we cannot maintain two versions for too long side-by-side)
+- [ ] Rename maintable-beta branch to v5
 - [ ] Become a [DANTE e.V. project](http://dante.de/)
 
 ### Topics discussed in each telephone conference
