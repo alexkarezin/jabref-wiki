@@ -8,7 +8,8 @@
 - [ ] Merchandise Status and Marketing Possibilities (Flyer Distribution)
 - [ ] Status of maintable-beta (imho we cannot maintain two versions for too long side-by-side)
 - [ ] Rename maintable-beta branch to v5
-- [ ] Become a [DANTE e.V. project](http://dante.de/)
+- [ ] http://www.systemtestportal.org/ (@koppor)
+- [ ] Report from [DANTE Frühjahrstagung](https://www.dante.de/events/dante2018-1/Programm.html) (@koppor)
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
