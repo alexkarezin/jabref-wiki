@@ -3,11 +3,6 @@
 
 ## Next telco
 
-- [ ] Code Signing Certificate
-- [ ] Status of next release
-- [ ] Merchandise Status and Marketing Possibilities (Flyer Distribution)
-- [ ] Status of maintable-beta (imho we cannot maintain two versions for too long side-by-side)
-- [ ] Rename maintable-beta branch to v5
 - [ ] http://www.systemtestportal.org/ (@koppor)
 - [ ] Report from [DANTE Frühjahrstagung](https://www.dante.de/events/dante2018-1/Programm.html) (@koppor)
 
@@ -19,6 +14,37 @@
 - [ ] Cleanup [branches]( https://github.com/JabRef/jabref/branches )?
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2018-04-20
+
+- [X] Merchandise:
+    - Linus collects cups and flyers  in Bamberg on April 30.
+    - Flyers are distributed in Bamberg by the university library
+    - Each SOSE conference participant received a flyer
+    - Stefan can send everybody JabRef flyers
+    - Tobias checks if the MPI has resources to print the flyers locally
+    - Check possibilities for creating a own store with merchandise products
+    
+- [X] Code Signing Certificate
+    - Needs some more time :/
+- [X] Status of maintable-beta (imho we cannot maintain two versions for too long side-by-side)
+    - Implementation is hardening, still some minor bugs. Performance problems?
+- [X] Rename maintable-beta branch to v5
+    - To be done together with the first alpha/beta release
+- [X] Status of next release
+ - Release 4.2 soon, even without Code Signing Certificate. Remaining issues: https://github.com/JabRef/jabref/milestone/17
+
+
+
+### Topics discussed in each telephone conference
+- [X] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
+- [X] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- [X] Status and main topic for next release. This time [v4.2]( https://github.com/JabRef/jabref/milestone/17 ).
+- [ ] [Old Waiting for feedback issues]( https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback )
+- [ ] Cleanup [branches]( https://github.com/JabRef/jabref/branches )?
+- [ ] Prioritize, discuss, and close the mass of open issues
+- [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
 
 ## 2018-02-23
 
