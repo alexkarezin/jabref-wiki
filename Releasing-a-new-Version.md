@@ -80,13 +80,6 @@ $ sftp -P 9922 files_jabref_org@files.jabref.org:www/jres
   - At the very end of the file:
     `[Unreleased]: https://github.com/JabRef/jabref/compare/v3.4...HEAD`
 
-2. `README.md`  
-  Readd development info at the beginning of the file:
-  ```md
-  # JabRef Development Version
-  This version is a development version. Features may not work as expected.
-  ```
-
 3. `build.gradle`
   - `version` 4.3-dev
   - `version number` 4.3.0.1
