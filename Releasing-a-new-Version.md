@@ -91,19 +91,7 @@ $ sftp -P 9922 files_jabref_org@files.jabref.org:www/jres
 
 ## Publish Binaries 
 
-1. Sourceforge
-  - Navigate to <https://sourceforge.net/projects/jabref/files/>
-  - Click "Add Folder"
-  - Choose `v3.4` as folder name
-  - Navigate into `v3.4`
-  - Click "Add File"
-  - Drag'n'drop files
-  - After successful upload: Click "Done"
-  - For each file:
-    - click on i
-    - select it as default download for the appropriate platform
-
-2. FossHub (via developer account)
+1. FossHub (via developer account)
   - It is very important to do that **BEFORE** GitHub, because of the auto update feature.
   - Use tools/wget
     - point to the binaries at the build artifacts of CircleCI (the ones at https://builds.jabref.org/ also work)
