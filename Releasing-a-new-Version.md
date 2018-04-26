@@ -82,7 +82,7 @@ $ sftp -P 9922 files_jabref_org@files.jabref.org:www/jres
 
 3. `build.gradle`
   - `version` 4.3-dev
-  - `version number` 4.3.0.1
+  - `version number` 4.2.0.1
   Rationale: We could possibly do a bugfix release, so we only increment the major version on the next release.
 
 4. Commit the changes for the new dev cycle  
