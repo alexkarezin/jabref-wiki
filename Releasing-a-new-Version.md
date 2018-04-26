@@ -29,33 +29,22 @@ $ sftp -P 9922 files_jabref_org@files.jabref.org:www/jres
   - Commit changes and update `.mailmap` if necessary.
 
 1. `CHANGELOG.md`  
-  Change version from `[Unreleased]` to `[3.4] – 2016-06-02`.
+  Change version from `[Unreleased]` to `[4.2] – 2018-04-26`.
   At the very end of the file:
-  `[3.4]: https://github.com/JabRef/jabref/compare/v3.3...v3.4`
-
-2. `README.md`  
-  Replace 
-  ```md
-  # JabRef Development Version
-  This version is a development version. Features may not work as expected.
-  ```
-  by
-  ``` 
-  # JabRef Version 3.4
-  ```
+  `[4.2]: https://github.com/JabRef/jabref/compare/v4.1...v4.2`
 
 3. `build.gradle`   
-  - `version` (3.4, 3.4dev)
-  - `project.ext.threeDotVersion` = `3.4.0.0`
+  - `version` (4.2, 4.2dev)
+  - `project.ext.threeDotVersion` = `4.2.0.0`
 
 4. Create a release commit
-  `git commit -m "Release v3.4"`
+  `git commit -m "Release v4.2"`
  
 
 ## Do Release
 
-1. `git tag v3.4`
-2. `git push origin v3.4`
+1. `git tag v4.2`
+2. `git push origin v4.2`
 3. Download binaries from CircleCI
 
 
@@ -99,8 +88,8 @@ $ sftp -P 9922 files_jabref_org@files.jabref.org:www/jres
   ```
 
 3. `build.gradle`
-  - `version` 3.5-dev
-  - `version number` 3.4.0.1
+  - `version` 4.3-dev
+  - `version number` 4.3.0.1
   Rationale: We could possibly do a bugfix release, so we only increment the major version on the next release.
 
 4. Commit the changes for the new dev cycle  
