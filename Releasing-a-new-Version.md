@@ -22,7 +22,7 @@ $ sftp -P 9922 files_jabref_org@files.jabref.org:www/jres
   Use the same URLs as in the last step (meda file URLs).
 
 
-# Prepare project files
+## Prepare project files
 
 1. Update `AUTHORS` file
   - `generate-authors.sh`
