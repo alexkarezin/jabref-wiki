@@ -1,13 +1,13 @@
 ## Update bundled Java JREs
 
-1. Open install4J
+1. Open _install4J_
 
 2. Download JREs (Toolbar Button)  
   - Select most recent 
     - Windows (x86)
     - Windows (amd64)
     - Macosx (amd64) `[unpacked]`
-  - They will be stored inside `C:\Users\<username>\.install4j6\jres`
+  - They will be stored inside `C:\Users\<username>\.install4j7\jres`
 
 3. Copy these files to jabref.org `files_jabref_org@files.jabref.org:www/jres` using [sftp](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol). Send your ssh pubkey to @koppor to get access.
 ```
