@@ -7,6 +7,7 @@
 - [ ] http://www.systemtestportal.org/ (@koppor)
 - [ ] v4.3 and switch of master branch to maintable-beta
 - [ ] subsequent 4.x releases after master switch and first beta 5.0
+- [ ] Move away from CloudFlare to GitHub-only page hosting (refs https://blog.github.com/2018-05-01-github-pages-custom-domains-https/). https://files.jabref.org/ and https://builds.jabref.org/ hosted on Scaleway (because of file size), discourse on discourse, everything else on GitHub.
 - [ ] Are there action points because of GDBPR (@koppor; see e.g., https://github.com/erichard/awesome-gdpr).
 
 ### Topics discussed in each telephone conference
