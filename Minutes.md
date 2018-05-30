@@ -10,6 +10,7 @@
 - [ ] subsequent 4.x releases after master switch and first beta 5.0
 - [ ] Move away from CloudFlare to GitHub-only page hosting (refs https://blog.github.com/2018-05-01-github-pages-custom-domains-https/). https://files.jabref.org/ and https://builds.jabref.org/ hosted on Scaleway (because of file size), discourse on discourse, everything else on GitHub.
 - [ ] Are there action points because of GDBPR (@koppor; see e.g., https://github.com/erichard/awesome-gdpr). See also [The Practical Guide to GDPR](https://lutz.donnerhacke.de/eng/Blog/The-practical-guide-to-GDPR)
+- [ ] Student project to improve UI
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
