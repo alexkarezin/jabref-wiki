@@ -5,6 +5,7 @@
 
 - [ ] Report from [DANTE Frühjahrstagung](https://www.dante.de/events/dante2018-1/Programm.html) (@koppor)
 - [ ] http://www.systemtestportal.org/ (@koppor)
+- [ ] Release 4.3 or 4.2.1
 - [ ] v4.3 and switch of master branch to maintable-beta
 - [ ] subsequent 4.x releases after master switch and first beta 5.0
 - [ ] Move away from CloudFlare to GitHub-only page hosting (refs https://blog.github.com/2018-05-01-github-pages-custom-domains-https/). https://files.jabref.org/ and https://builds.jabref.org/ hosted on Scaleway (because of file size), discourse on discourse, everything else on GitHub.
