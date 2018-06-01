@@ -3,15 +3,6 @@
 
 ## Next telco
 
-- [ ] Report from [DANTE Frühjahrstagung](https://www.dante.de/events/dante2018-1/Programm.html) (@koppor)
-- [ ] http://www.systemtestportal.org/ (@koppor)
-- [ ] Release 4.3 or 4.2.1
-- [ ] v4.3 and switch of master branch to maintable-beta
-- [ ] subsequent 4.x releases after master switch and first beta 5.0
-- [ ] Move away from CloudFlare to GitHub-only page hosting (refs https://blog.github.com/2018-05-01-github-pages-custom-domains-https/). https://files.jabref.org/ and https://builds.jabref.org/ hosted on Scaleway (because of file size), discourse on discourse, everything else on GitHub.
-- [ ] Are there action points because of GDBPR (@koppor; see e.g., https://github.com/erichard/awesome-gdpr). See also [The Practical Guide to GDPR](https://lutz.donnerhacke.de/eng/Blog/The-practical-guide-to-GDPR)
-- [ ] Student project to improve UI
-
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
@@ -20,6 +11,21 @@
 - [ ] Cleanup [branches]( https://github.com/JabRef/jabref/branches )?
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2018-06-01
+
+- [x] Report from [DANTE Frühjahrstagung](https://www.dante.de/events/dante2018-1/Programm.html) (@koppor)
+  - Folien: https://www.dante.de/events/dante2018-1/Programm/vortraege.html#koppJabRef
+  - Folien: https://www.dante.de/events/dante2018-1/Programm/vortraege.html#koppFragerunde
+- [x] Vereinsgründung - Notar wg. Schatzmeister, Gebühren. Wenn >10 Developer, dann gehen wir diesen Weg
+- [x] http://www.systemtestportal.org/ (@koppor) - aquire users from forum to do that @koppor
+- [x] Release 4.3 or 4.2.1 -> 4.3
+- [x] v4.3 and switch of master branch to maintable-beta AND  subsequent 4.x releases after master switch and first beta 5.0
+  - New branch `v4.x`
+  - `maintable-beta` (https://github.com/JabRef/jabref/pull/3621) goes into `master`.
+- [x] Move away from CloudFlare to GitHub-only page hosting (refs https://blog.github.com/2018-05-01-github-pages-custom-domains-https/). https://files.jabref.org/ and https://builds.jabref.org/ hosted on Scaleway (because of file size), discourse on discourse, everything else on GitHub.
+- [x] Are there action points because of GDBPR (@koppor; see e.g., https://github.com/erichard/awesome-gdpr). See also [The Practical Guide to GDPR](https://lutz.donnerhacke.de/eng/Blog/The-practical-guide-to-GDPR)
+- [x] Student project to improve UI
 
 ## 2018-04-20
 
