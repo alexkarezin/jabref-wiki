@@ -1,6 +1,13 @@
+## Ensure that all tests are green
+
+1. Execute test locally to ensure everything (especially the fetchers) is working
+2. MathSciNet and zbNet may fail
+
+Discussion at https://github.com/JabRef/jabref/issues/3854.
+
 ## Update bundled Java JREs
 
-1. Open _install4J_
+1. Open [install4J](https://www.ej-technologies.com/products/install4j/overview.html)
 
 2. Download JREs (Toolbar Button)  
   - Select most recent 
