@@ -3,6 +3,7 @@
 
 ## Next telco
 
+- [ ] Logo-Lizenz (ETH-Mail)
 - [ ] Android App for JabRef
 
 ### Topics discussed in each telephone conference
