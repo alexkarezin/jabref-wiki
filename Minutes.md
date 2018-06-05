@@ -3,6 +3,8 @@
 
 ## Next telco
 
+- [ ] Android App for JabRef
+
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
