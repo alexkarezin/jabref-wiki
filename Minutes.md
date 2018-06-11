@@ -3,9 +3,10 @@
 
 ## Next telco
 
-- [ ] Logo-Lizenz (ETH-Mail)
-- [ ] Android App for JabRef
-- [ ] Paper with Jöran
+- [ ] Logo-Lizenz (ETH-Mail) (via @koppor)
+- [ ] Android App for JabRef (via @koppor)
+- [ ] Paper with Jöran (via @koppor)
+- [ ] Igor Steinmacher - OSS course (via @koppor)
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
