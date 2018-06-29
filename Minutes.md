@@ -3,11 +3,6 @@
 
 ## Next telco
 
-- [ ] Logo-Lizenz (ETH-Mail) (via @koppor)
-- [ ] Android App for JabRef (via @koppor)
-- [ ] Paper with Jöran (via @koppor)
-- [ ] Igor Steinmacher - OSS course (via @koppor)
-
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
@@ -16,6 +11,18 @@
 - [ ] Cleanup [branches]( https://github.com/JabRef/jabref/branches )?
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2018-06-29
+
+- [x] Logo-Lizenz (ETH-Mail) (via @koppor)
+- [x] Android App for JabRef (via @koppor)
+- [x] Paper with Jöran (via @koppor)
+- [x] Igor Steinmacher - OSS course (via @koppor)
+  - ideally sometime between July 4 and July 10, in a time slot that's not too awkward from China (realistically morning or early afternoon Germany time).
+- [x] Usability Master Student at TUM
+- [x] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
+- [x] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- [ ] Status and main topic for next release. This time [v4.4]( https://github.com/JabRef/jabref/milestone/19 ) and [v5.0]( https://github.com/JabRef/jabref/milestone/18 ).
 
 ## 2018-06-01
 
