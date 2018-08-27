@@ -4,6 +4,7 @@
 ## Next telco
 - JabCon 2019/Zeus 2019
 - Certificate
+- Features that should be implemented as part of the student project of Igor Steinmacher 
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
