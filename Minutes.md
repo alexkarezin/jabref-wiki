@@ -1,6 +1,10 @@
 ## November 2018
 - https://developers.google.com/open-source/gsoc/timeline
 
+## October 2018
+- Hacktoberfest 
+
+
 ## Next telco
 - JabCon 2019/Zeus 2019
 - Certificate
