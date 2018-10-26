@@ -6,13 +6,12 @@
 
 
 ## Next telco
-- JabCon 2019/Zeus 2019
-- Chaos Communication Congress (?)
-- Recommendations/Mr.Dlib
+
+- Chaos Communication Congress Assembly?
 - Certificate
 - Features that should be implemented as part of the student project of Igor Steinmacher 
 - Architecture Analysis with KAU/Joerg Lenhard
-- JabRef Usability Study
+- JabRef Usability Study Results
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
@@ -22,6 +21,28 @@
 - [ ] Cleanup [branches]( https://github.com/JabRef/jabref/branches )?
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2018-10-26
+
+- [x] JabCon 2019/Zeus 2019
+  - Dates are problematic for Tobi and Linus. Christoph unclear, due to job in 2019.
+- [x] Chaos Communication Congress
+  - Potentially nice opportunity to meet people and prospective contributors
+  - Linus is going, Christoph is interested, Tobi maybe  2 days
+  - Organizing an assembly? Maybe if we have 4 JabRef people?
+- [x] Hackathon in Paderborn in March
+  - Maybe not the best opportunity to meet
+- [X] Recommendations/Mr.Dlib
+  - PR Merged https://github.com/JabRef/jabref/pull/4361
+  - Linus reports from his talk to Joeran
+- [X] Certificate
+  - Comodo ignores the ticket for validation. Try to escalate?
+- [X] JabRef Usability Study 
+- [x] 5.0 Release
+  - Bugfixing
+  - Stable in MS Windows
+  - Unstable in MacOs
+  - 5.0 should run in Java9
 
 ## 2018-06-29
 
