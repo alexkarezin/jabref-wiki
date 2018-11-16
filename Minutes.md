@@ -1,13 +1,5 @@
-## November 2018
-- https://developers.google.com/open-source/gsoc/timeline
-
-## October 2018
-- Hacktoberfest 
-
-
 ## Next telco
 
-- Chaos Communication Congress Assembly?
 - Certificate
 - Features that should be implemented as part of the student project of Igor Steinmacher 
 - Architecture Analysis with KAU/Joerg Lenhard
@@ -21,6 +13,20 @@
 - [ ] Cleanup [branches]( https://github.com/JabRef/jabref/branches )?
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2018-11-16
+
+- [x] Chaos Communication Congress Assembly?
+  - No formal assembly, maybe join another assembly
+  - We'll meet in Leipzig (Christoph, Tobi, Linus)
+- [x] Certificate
+  - no new progress
+- [x] Google Summer of Code https://developers.google.com/open-source/gsoc/timeline
+  - Deadline Feb 6, 2019
+  - Define topic at 35c3, probably around PDF integration
+- [x] Hacktoberfest 
+  - Many contributors, overall good quality
+- [X] Christmas release of first beta v5.0?
 
 ## 2018-10-26
 
