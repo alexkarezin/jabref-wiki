@@ -18,6 +18,7 @@
     - [[Translating JabRef Interface | https://help.jabref.org/en/TranslatingGUI]]
     - [[Integrating new translations from Crowdin]]
     - [[Using JavaFX | Code---JavaFX]]
+    - [[UI recommendations]]
     - [[Tools]]
     - [[High Level Documentation]]
     - [[Repository Branches|Branches]]
