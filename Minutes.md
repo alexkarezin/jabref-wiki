@@ -1,14 +1,40 @@
 ## Next telco
 
-- Certificate
-- Features that should be implemented as part of the student project of Igor Steinmacher 
-- Architecture Analysis with KAU/Joerg Lenhard
-- JabRef Usability Study Results
-- Mr.DLib UI experimentation
-- Google Summer of Code
-- 5.0 Alpha Release
-- JabCon?
 
+
+## 2019-01-25
+
+- [X] Certificate
+  - Try to abort the process, get money back.
+  - Talk to Oliver
+- [X] Features that should be implemented as part of the student project of Igor Steinmacher
+  - Talk to Oliver at ZEUS
+- [X] Architecture Analysis with KAU/Joerg Lenhard
+  - Seems to be upcoming.
+  - Christoph takes care about it with Joerg
+- [X] JabRef Usability Study Results
+  - Martin reports about his project
+  - Martin will create issues in Github.
+  - ZEUS Paper is under review
+  - Blog entries about the usability
+- [X] Mr.DLib UI experimentation
+  - They can do that if the UI versions are still reasonable.
+  - Focus should be on great recommendations.
+- [X] Google Summer of Code
+  - Which project? PDF integration: Search PDF, Import Metadata, PDF viewer.
+  - Alternative: Social Features, sharing of references, Chrome integration
+  - More interplay between references and papers.
+  - MS Word integration
+- [X] 5.0 Alpha Release
+  - Alpha should be released sooner than later
+  - Try to convert most of the dialogues of JavaFX, before release: https://github.com/JabRef/jabref/issues/3861
+  - What, acutally is the problem with MacOs? Probable JavaFx calling Swing.
+  - Release in 1-2 months
+- [X] JabCon?
+  - Since most people are not there, there will be no JabCon
+- [X] Merch
+  - Buy some swag for the ZEUS participants
+  - Pro magnets
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
