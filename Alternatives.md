@@ -70,3 +70,5 @@ There are also scripts for working in an automated way on BibTeX files:
 * [RefWorks](https://www.refworks.com/)
 * [Scientilla](http://www.scientilla.org/)
 * [WIKINDX](http://wikindx.sourceforge.net/)
+
+See also <https://ultimate-comparisons.github.io/ultimate-reference-management-software-comparison/> for an overview and feature-comparison.
