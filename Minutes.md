@@ -1,6 +1,12 @@
 ## Next telco
 
+## 2019-02-19
 
+- [X] Olly has to write certificate authority an email to cancel the process
+- [X] GSoC: Let's see if we get accepted and how many students apply.
+- [X] JabCon Sindelfingen: Olly's house warming party (to be announced)
+- [X] Martin has presented his Masters's thesis at ZEUS
+- [x] Remove Swing in about two months, then release!
 
 ## 2019-01-25
 
