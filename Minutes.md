@@ -1,5 +1,5 @@
 ## Next telco
-
+- [ ] https://github.com/JabRef/jabref/pull/4707#issuecomment-469396509
 ## 2019-02-19
 
 - [X] Olly has to write certificate authority an email to cancel the process
