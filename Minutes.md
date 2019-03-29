@@ -1,6 +1,37 @@
 ## Next telco
-- [ ] https://github.com/JabRef/jabref/pull/4707#issuecomment-469396509
-- [ ] GSoC 
+- [ ] GSoC
+
+### Topics discussed in each telephone conference
+- [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
+- [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
+- [ ] Status and main topic for next release. This time [v4.4]( https://github.com/JabRef/jabref/milestone/19 ) and [v5.0]( https://github.com/JabRef/jabref/milestone/18 ).
+- [ ] [Old Waiting for feedback issues]( https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback )
+- [ ] Cleanup [branches]( https://github.com/JabRef/jabref/branches )?
+- [ ] Prioritize, discuss, and close the mass of open issues
+- [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2019-03-29
+
+- [x] Introduction of the people in the devcall
+- [x] GSoC 
+  - Application closes in 11 days, we should support the candidates with good PRs so far in guiding them to useful projects
+- [x] [#4707](https://github.com/JabRef/jabref/pull/4707#issuecomment-469396509) Group and reorder the Main Menu (tabs & icons)
+  - How to group the items in the menus?
+  - Martin will create additional documentation in the Wiki
+  - Will subsequently create an issue to check if everything is correct according to the specification in the Wiki
+- [X] [#2115](https://github.com/JabRef/jabref/issues/2115), [#4798](https://github.com/JabRef/jabref/pull/4798) Entry Editor Issues
+  - Entry Preview should be an additional tab? So where should we put it?
+  - How should the Entry Editor look in future?
+  - Multiline-vs-single fields (year, bibtexkey) Tobi will implement this
+- [X] [#4689](https://github.com/JabRef/jabref/issues/4689), [#4690](https://github.com/JabRef/jabref/issues/4690) Identifiers in the Entry Editor
+  - Implement as proposed, in case of URL in a MISC entry: duplicate it to required fields and Web Resources
+- [X] [#4688](https://github.com/JabRef/jabref/issues/4688) Entry Editor: change Optional Fields tab
+  - Robin will have a look
+- [X] [#4694](https://github.com/JabRef/jabref/pull/4694) Remove global search feature
+  - Remove it for now and think about search in general
+- [X] [#4717](https://github.com/JabRef/jabref/pull/4717) Remove "plain text import" feature
+  - Remove for now an create followup issue
+- [X] Discussions for Leisure Time: [Firefighting Drones](https://www.aerones.com/eng/firefighting_drone/)
 
 ## 2019-02-19
 
@@ -44,14 +75,7 @@
   - Buy some swag for the ZEUS participants
   - Pro magnets
 
-### Topics discussed in each telephone conference
-- [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
-- [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
-- [ ] Status and main topic for next release. This time [v4.4]( https://github.com/JabRef/jabref/milestone/19 ) and [v5.0]( https://github.com/JabRef/jabref/milestone/18 ).
-- [ ] [Old Waiting for feedback issues]( https://github.com/JabRef/jabref/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback )
-- [ ] Cleanup [branches]( https://github.com/JabRef/jabref/branches )?
-- [ ] Prioritize, discuss, and close the mass of open issues
-- [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
 
 ## 2018-11-16
 
