@@ -39,6 +39,8 @@ The place that should be checked after a release are the following:
 - http://filehippo.com/de/download_jabref/67564/
 - https://chocolatey.org/packages/JabRef - [@Vaquero84](https://github.com/Vaquero84/) seems to automatically track updates -> https://github.com/Vaquero84/chocolatey-packages/issues/6
 - https://framalibre.org/content/jabref
+https://github.com/JabRef/jabref/wiki/JabRef-in-the-Media
 
 ## Unmaintained
+- https://directory.fsf.org/wiki/JabRef
 - https://wiki.ubuntuusers.de/JabRef/
