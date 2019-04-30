@@ -1,7 +1,5 @@
 ## Next telco
 - [ ] GSoC
-- [ ] Developer Meeting (Possibly Stuttgart?)
-- [ ] Status of Swing Removal #4894
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
@@ -11,6 +9,13 @@
 - [ ] Cleanup [branches]( https://github.com/JabRef/jabref/branches )?
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2019-04-30
+- [X] GSoC
+- [X] Developer Meeting in Stuttgart (this time for real), ask Oliver for dates
+- [X] [LaTeX2Unicode](https://github.com/JabRef/jabref/pull/3781) Create a PR to get the JabRef behavior, else create a fork to get our tests green and move on.
+- [X] [JPMS](https://github.com/JabRef/jabref/pull/4230) Closed this PR, needs to be re-done.
+- [X] [Status of Swing Removal](https://github.com/JabRef/jabref/pull/4894) Define an Exception for the UndoManager, merge as fast as possible
 
 ## 2019-03-29
 
