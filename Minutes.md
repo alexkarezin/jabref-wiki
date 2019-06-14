@@ -1,6 +1,7 @@
 ## Next telco
 - [ ] GSoC
 - [ ] Polish language (Request from Crowdin)
+- [ ] Olly has to write certificate authority an email to cancel the process
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
