@@ -31,20 +31,24 @@ $ sftp -P 9922 files_jabref_org@files.jabref.org:www/jres
 
 ## Prepare project files
 
-1. Update `AUTHORS` file
+1. Update Journal Abbreviation List
+  - https://github.com/JabRef/abbrv.jabref.org
+  - ̀`combineJournalLists.py outfile infile1 infile2 ...`
+
+2. Update `AUTHORS` file
   - `generate-authors.sh`
   - Commit changes and update `.mailmap` if necessary.
 
-1. `CHANGELOG.md`  
+3. `CHANGELOG.md`  
   Change version from `[Unreleased]` to `[4.2] – 2018-04-26`.
   At the very end of the file:
   `[4.2]: https://github.com/JabRef/jabref/compare/v4.1...v4.2`
 
-3. `build.gradle`   
+4. `build.gradle`   
   - `version` (4.2, 4.2dev)
   - `project.ext.threeDotVersion` = `4.2.0.0`
 
-4. Create a release commit
+5. Create a release commit
   `git commit -m "Release v4.2"`
  
 
