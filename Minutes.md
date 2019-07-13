@@ -1,8 +1,6 @@
 ## Next telco
-- [ ] GSoC
-- [ ] Polish language (Request from Crowdin)
-- [ ] Olly has to write certificate authority an email to cancel the process
-- [ ] Collaborate with https://ra21.org/?
+
+
 
 ### Topics discussed in each telephone conference
 - [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
@@ -12,6 +10,14 @@
 - [ ] Cleanup [branches]( https://github.com/JabRef/jabref/branches )?
 - [ ] Prioritize, discuss, and close the mass of open issues
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
+
+## 2019-07-13
+- [X] GSoC
+- [X] Mentor Summit: Christoph and Tobi will go
+- [X] Polish language (Request from Crowdin)
+- [x] Olly has to write certificate authority an email to cancel the process
+- [X] Collaborate with https://ra21.org/?
+- [X] JabRef Code and Sleep Sindelfingen
 
 ## 2019-04-30
 - [X] GSoC
