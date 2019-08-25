@@ -4,6 +4,7 @@ This wiki provides information centered around development and documentation of 
 The end-user documentation is available at <https://help.jabref.org>.
 
 ## General Information
+
 * [Main website](http://www.jabref.org): JabRef, its features, releases
 * [[Donations]]: Usage of donations, and how to make a donation
 * [[Development Strategy]]: How we are currently pushing JabRef forward
@@ -18,7 +19,9 @@ The end-user documentation is available at <https://help.jabref.org>.
 * [How to Help](https://help.jabref.org/en/FAQcontributing)
 * [Setup a local Workspace - step-by-step](Guidelines-for-setting-up-a-local-workspace)
 * [[Code Howtos]]: tips and tricks for coders.
-* [Feature Requests collected on SourceForge](FeatureRequests-Sorted). Currently, feature requests are collected on [GitHub](https://github.com/JabRef/jabref/labels/feature)
+* Feature requests are collected on [GitHub](https://github.com/JabRef/jabref/labels/feature)
+  * The alternative is the forum at <http://discourse.jabref.org/>.
+  * "Historical" requests from sourceforge are clustered at [Feature Requests collected on SourceForge](FeatureRequests-Sorted).
 * [Sync your fork with the JabRef repository](https://help.github.com/articles/syncing-a-fork/)
 * [Translating JabRef Interface](https://help.jabref.org/en/TranslatingGUI): JabRef interface in your preferred language.
 * [[Tools]]: Useful software for an easier programming
