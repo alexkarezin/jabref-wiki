@@ -5,30 +5,6 @@
 
 Discussion at https://github.com/JabRef/jabref/issues/3854.
 
-## Update bundled Java JREs
-
-1. Open [install4J](https://www.ej-technologies.com/products/install4j/overview.html)
-
-2. Download JREs (Toolbar Button)  
-  - Select most recent 
-    - Windows (x86)
-    - Windows (amd64)
-    - Macosx (amd64) `[unpacked]`
-  - They will be stored inside `C:\Users\<username>\.install4j7\jres`
-
-3. Copy these files to jabref.org `files_jabref_org@files.jabref.org:www/jres` using [sftp](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol). Send your ssh pubkey to @koppor to get access.
-```
-$ sftp -P 9922 files_jabref_org@files.jabref.org:www/jres
-```
-
-4. Adapt install4j media files config
-  Just select the new JREs and change the URLs
-
-5. Adapt `scripts/prepare-install4j.sh`  
-  For instance, replace 66 by 77 in the file names.  
-  Use the same URLs as in the last step (meda file URLs).
-
-
 ## Prepare project files
 
 1. Update Journal Abbreviation List
@@ -40,24 +16,23 @@ $ sftp -P 9922 files_jabref_org@files.jabref.org:www/jres
   - Commit changes and update `.mailmap` if necessary.
 
 3. `CHANGELOG.md`  
-  Change version from `[Unreleased]` to `[4.2] – 2018-04-26`.
+  Change version from `[Unreleased]` to `[5.0] – 2019-08-25`.
   At the very end of the file:
-  `[4.2]: https://github.com/JabRef/jabref/compare/v4.1...v4.2`
+  `[5.0]: https://github.com/JabRef/jabref/compare/v4.1...v5.0`
 
 4. `build.gradle`   
-  - `version` (4.2, 4.2dev)
-  - `project.ext.threeDotVersion` = `4.2.0.0`
+  - `version` (5.0, 5.0-dev)
+  - `project.ext.threeDotVersion` = `5.0.0.0`
 
 5. Create a release commit
-  `git commit -m "Release v4.2"`
+  `git commit -m "Release v5.0"`
  
 
 ## Do Release
 
-1. `git tag v4.2`
-2. `git push origin v4.2`
+1. `git tag v5.0`
+2. `git push origin v5.0`
 3. Download binaries from CircleCI
-
 
 ## Test Release
 
@@ -92,8 +67,8 @@ $ sftp -P 9922 files_jabref_org@files.jabref.org:www/jres
     `[Unreleased]: https://github.com/JabRef/jabref/compare/v3.4...HEAD`
 
 3. `build.gradle`
-  - `version` 4.3-dev
-  - `version number` 4.2.0.1
+  - `version` 5.0-dev
+  - `version number` 5.0.0.1
   Rationale: We could possibly do a bugfix release, so we only increment the major version on the next release.
 
 4. Commit the changes for the new dev cycle  
