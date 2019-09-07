@@ -6,9 +6,9 @@
 3.  Move all test related libs to classpath
 4. Move jmh to classpath as well
 5. Go to Source -> Mark src/jmh as test folder
-6. Go to Module dependencies 
-6.1. Select `org.controlsfx.controls` in the list
-6.2. Add export and opens entry  for `impl.org.controlsfx.autocompletion`, `impl.org.controlsfx.skin` and `org.controlsfx.control.textfield`  to `org.jabref`
+6. Go to Module dependencies   
+  6.1. Select `org.controlsfx.controls` in the list  
+6.2. Add export and opens entry  for `impl.org.controlsfx.autocompletion`, `impl.org.controlsfx.skin` and `org.controlsfx.control.textfield` to `org.jabref`  
 6.3. Select `javafx.controls` add epxorts and opens entry for `com.sun.javafx.scene.control`  to `org.jabref`
 
 JPMS options should look like this:
