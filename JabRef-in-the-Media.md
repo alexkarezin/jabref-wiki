@@ -19,7 +19,7 @@ Feel free to add something. We are open to suggestions for including tools in ou
 - https://www.teuderun.de/latex/literaturverwaltung/jabref/ (German)
 - https://www.tub.tuhh.de/publizieren/literaturverwaltung/jabref/
 - https://mediatum.ub.tum.de/doc/1316333/1316333.pdf (Comparisons of different Reference management systems, German)
-- 
+- https://softfamous.com/jabref/
 
 ### awesome lists
 
