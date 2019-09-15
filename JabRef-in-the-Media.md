@@ -15,6 +15,11 @@ Feel free to add something. We are open to suggestions for including tools in ou
 - https://www.researchgate.net/project/Miscellanea-12 (Link Collection of useful resources for scientific research)
 - https://medevel.com/jabref-reference-manager/
 - https://medevel.com/9-citation-managers/
+- https://wiki.openoffice.org/wiki/Bibliographic_Software_and_Standards_Information#JabRef
+- https://www.teuderun.de/latex/literaturverwaltung/jabref/ (German)
+- https://www.tub.tuhh.de/publizieren/literaturverwaltung/jabref/
+- https://mediatum.ub.tum.de/doc/1316333/1316333.pdf (Comparisons of different Reference management systems, German)
+- 
 
 ### awesome lists
 
