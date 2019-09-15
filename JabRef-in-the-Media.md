@@ -70,6 +70,8 @@ Integration of the Scientific Recommender System Mr. DLib into the Reference Man
 * @Datta2010: Datta, A. (2010). SoJa: Collaborative reference management using a decentralized social information system Proc. 6th Int Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom) Conf, 2010, 1-9. URL: http://eudl.eu/doi/10.4108/icst.collaboratecom.2010.32
 * @Ali2012: Ali, N.; Sabané, A.; Guéhéneuc, Y. G. & Antoniol, G. (2012) Improving Bug Location Using Binary Class Relationships Proc. IEEE 12th Int Source Code Analysis and Manipulation (SCAM) Working Conf, 2012, 174-183 URL: http://ieeexplore.ieee.org/document/6392116/?arnumber=6392116
 * Developing a 21st Century Global Library for Mathematics Research [arXiv](https://arxiv.org/abs/1404.1905)
+* @Adam2018: Adam, M.; Hoffmann, K.; Musiat, J.; Rahm, S.; Stöhr, M. & Wenzel, C. (20018)   Literaturverwaltungsprogramme im Überblick URL: https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-233817
+
 
   [Elmar Juergens]: https://www.cqse.eu/de/team/elmar-juergens/
   [Stefan Wagner]: http://www.uni-stuttgart.de/hkom/experten/experten/wagner.html
