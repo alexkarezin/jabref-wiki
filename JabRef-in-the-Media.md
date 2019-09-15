@@ -71,6 +71,7 @@ Integration of the Scientific Recommender System Mr. DLib into the Reference Man
 * @Ali2012: Ali, N.; Sabané, A.; Guéhéneuc, Y. G. & Antoniol, G. (2012) Improving Bug Location Using Binary Class Relationships Proc. IEEE 12th Int Source Code Analysis and Manipulation (SCAM) Working Conf, 2012, 174-183 URL: http://ieeexplore.ieee.org/document/6392116/?arnumber=6392116
 * Developing a 21st Century Global Library for Mathematics Research [arXiv](https://arxiv.org/abs/1404.1905)
 * @Adam2018: Adam, M.; Hoffmann, K.; Musiat, J.; Rahm, S.; Stöhr, M. & Wenzel, C. (20018)   Literaturverwaltungsprogramme im Überblick URL: https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-233817
+* @Roughton2016: Roughton, J. & Crutchfield, N. Becoming a Curator for the Safety System  Job Hazard Analysis, Elsevier, 2016, 361-376 URL: https://doi.org/10.1016/B978-0-12-803441-5.00014-3
 
 
   [Elmar Juergens]: https://www.cqse.eu/de/team/elmar-juergens/
