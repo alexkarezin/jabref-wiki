@@ -50,6 +50,10 @@ Integration of the Scientific Recommender System Mr. DLib into the Reference Man
 * @Steidl2014: Daniela Steidl, Benjamin Hummel, Elmar Juergens: Incremental Origin Analysis of Source Code Files. Proceedings of the 11th Working Conference on Mining Software Repositories (MSR’14), 2014. http://dx.doi.org/10.1145/2597073.2597111
 * @Tramullas2015: Jesús Tramullas, Ana I. Sánchez-Casabón, Piedad Garrido-Picazo: Studies and analysis of reference management software: a literature review. Accepted to be published in El Profesional de la Informaci\'on, 2015,  http://arxiv.org/abs/1508.07480
 * @Wagner2015: [Stefan Wagner] et al.: Operationalised Product Quality Models and Assessment. Information and Software Technology archive, Volume 62 Issue C, June 2015, Pages 101-123, Butterworth-Heinemann Newton, MA, USA, http://dx.doi.org/10.1016/j.infsof.2015.02.009. Fulltext: http://elib.uni-stuttgart.de/opus/volltexte/2015/9916/pdf/quamoco.pdf
+* @Lenhard2018: Lenhard, J.; Blom, M. & Herold, S.
+Exploring the suitability of source code metrics for indicating architectural inconsistencies 
+Software Quality Journal, Springer Science and Business Media LLC, 2018, 27, 241-274
+URL: https://link.springer.com/article/10.1007/s11219-018-9404-z#Sec8
 
 ## Other
 
@@ -69,9 +73,9 @@ Integration of the Scientific Recommender System Mr. DLib into the Reference Man
 * @Hossen2014: Hossen, M. K.; Kagdi, H. & Poshyvanyk, D. (2014). Amalgamating Source Code Authors, Maintainers, and Change Proneness to Triage Change Requests Proceedings of the 22Nd International Conference on Program Comprehension, ACM, 130-141. URL: https://dl.acm.org/citation.cfm?doid=2597008.2597147
 * @Datta2010: Datta, A. (2010). SoJa: Collaborative reference management using a decentralized social information system Proc. 6th Int Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom) Conf, 2010, 1-9. URL: http://eudl.eu/doi/10.4108/icst.collaboratecom.2010.32
 * @Ali2012: Ali, N.; Sabané, A.; Guéhéneuc, Y. G. & Antoniol, G. (2012) Improving Bug Location Using Binary Class Relationships Proc. IEEE 12th Int Source Code Analysis and Manipulation (SCAM) Working Conf, 2012, 174-183 URL: http://ieeexplore.ieee.org/document/6392116/?arnumber=6392116
+* @Roughton2016: Roughton, J. & Crutchfield, N. Becoming a Curator for the Safety System  Job Hazard Analysis, Elsevier, 2016, 361-376 URL: https://doi.org/10.1016/B978-0-12-803441-5.00014-3
 * Developing a 21st Century Global Library for Mathematics Research [arXiv](https://arxiv.org/abs/1404.1905)
 * @Adam2018: Adam, M.; Hoffmann, K.; Musiat, J.; Rahm, S.; Stöhr, M. & Wenzel, C. (20018)   Literaturverwaltungsprogramme im Überblick URL: https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-233817
-* @Roughton2016: Roughton, J. & Crutchfield, N. Becoming a Curator for the Safety System  Job Hazard Analysis, Elsevier, 2016, 361-376 URL: https://doi.org/10.1016/B978-0-12-803441-5.00014-3
 * @Nascimento2019: Nascimento, D. M. C.; von Flach Garcia Chavez, C. & Bittencourt, R. A.
 Does FLOSS in Software Engineering Education Narrow the Theory-Practice Gap? A Study Grounded on Students' Perception 
 IFIP Advances in Information and Communication Technology, Springer International Publishing, 2019, 153-164
