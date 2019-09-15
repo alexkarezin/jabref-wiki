@@ -72,7 +72,10 @@ Integration of the Scientific Recommender System Mr. DLib into the Reference Man
 * Developing a 21st Century Global Library for Mathematics Research [arXiv](https://arxiv.org/abs/1404.1905)
 * @Adam2018: Adam, M.; Hoffmann, K.; Musiat, J.; Rahm, S.; Stöhr, M. & Wenzel, C. (20018)   Literaturverwaltungsprogramme im Überblick URL: https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-233817
 * @Roughton2016: Roughton, J. & Crutchfield, N. Becoming a Curator for the Safety System  Job Hazard Analysis, Elsevier, 2016, 361-376 URL: https://doi.org/10.1016/B978-0-12-803441-5.00014-3
-
+* @Nascimento2019: Nascimento, D. M. C.; von Flach Garcia Chavez, C. & Bittencourt, R. A.
+Does FLOSS in Software Engineering Education Narrow the Theory-Practice Gap? A Study Grounded on Students' Perception 
+IFIP Advances in Information and Communication Technology, Springer International Publishing, 2019, 153-164
+URL: https://doi.org/10.1007/978-3-030-20883-7_14
 
   [Elmar Juergens]: https://www.cqse.eu/de/team/elmar-juergens/
   [Stefan Wagner]: http://www.uni-stuttgart.de/hkom/experten/experten/wagner.html
