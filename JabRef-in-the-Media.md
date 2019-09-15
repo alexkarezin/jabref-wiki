@@ -13,6 +13,8 @@ Feel free to add something. We are open to suggestions for including tools in ou
 - http://www.heise.de/download/special-software-tipps-fuer-die-master-und-bachelorarbeit-150891.html?hg=1&hgi=12&hgf=false (German only)
 - https://www.heise.de/download/product/jabref-24459
 - https://www.researchgate.net/project/Miscellanea-12 (Link Collection of useful resources for scientific research)
+- https://medevel.com/jabref-reference-manager/
+- https://medevel.com/9-citation-managers/
 
 ### awesome lists
 
