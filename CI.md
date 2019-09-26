@@ -3,10 +3,10 @@ Since popular CI systems do not support parallel execution (easily), we have to 
 
 An overview on all available CI systems is provided at <https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software>.
 
-## CirceCI
+## Github Actions
 
-Creates binaries (using [gradle](https://gradle.org/) and [Install4J](https://www.ej-technologies.com/products/install4j/overview.html)) and uploads them to <https://builds.jabref.org>.
-These binaries are created without any checks to have them available as quickly as possible, even if the localization or some fetchers are broken. Deep link: https://circleci.com/gh/JabRef/jabref/.
+Creates binaries (using [gradle](https://gradle.org/)) and uploads them to <https://builds.jabref.org>.
+These binaries are created without any checks to have them available as quickly as possible, even if the localization or some fetchers are broken. Deep link: https://github.com/JabRef/jabref/actions?workflow=Deployment.
 
 ## TravisCI
 
