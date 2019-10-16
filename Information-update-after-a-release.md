@@ -35,11 +35,11 @@ The place that should be checked after a release are the following:
      - https://sv.wikipedia.org/wiki/JabRef
      - https://uk.wikipedia.org/wiki/JabRef
      - https://zh.wikipedia.org/wiki/JabRef
+- WikiData: https://www.wikidata.org/wiki/Q1676802
 - http://www.heise.de/download/jabref.html
 - http://filehippo.com/de/download_jabref/67564/
 - https://chocolatey.org/packages/JabRef - [@Vaquero84](https://github.com/Vaquero84/) seems to automatically track updates -> https://github.com/Vaquero84/chocolatey-packages/issues/6
 - https://framalibre.org/content/jabref
-https://github.com/JabRef/jabref/wiki/JabRef-in-the-Media
 
 ## Unmaintained
 - https://directory.fsf.org/wiki/JabRef
