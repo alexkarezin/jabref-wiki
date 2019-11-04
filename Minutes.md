@@ -1,8 +1,12 @@
 ## Next telco
 
-
+- [ ] Hacktoberfest 2019 reflection
+  - Rules 2020:
+    - for a T-Shirt A) at least 500 SLOC changed. B) only JabRef code
+- [ ] JabCon 2020
 
 ### Topics discussed in each telephone conference
+
 - [ ] [Everything tagged with devcall]( https://github.com/JabRef/jabref/labels/devcall ) - includes [closed issues](  https://github.com/JabRef/jabref/issues?q=label%3Adevcall+is%3Aclosed ) and [closed PRs]( https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Aopen+label%3Adevcall )
 - [ ] [PR status]( https://github.com/JabRef/jabref/pulls )?
 - [ ] Status and main topic for next release. This time [v4.4]( https://github.com/JabRef/jabref/milestone/19 ) and [v5.0]( https://github.com/JabRef/jabref/milestone/18 ).
@@ -12,6 +16,7 @@
 - [ ] See ["Discussions for Leisure Time"](#discussions-for-leisure-time)
 
 ## 2019-07-13
+
 - [X] GSoC
 - [X] Mentor Summit: Christoph and Tobi will go
 - [X] Polish language (Request from Crowdin)
