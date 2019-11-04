@@ -1,8 +1,10 @@
 ## Next telco
 
 - [ ] Hacktoberfest 2019 reflection
+  - Some users 5 pull requests, changing 29 SLOC
   - Rules 2020:
-    - for a T-Shirt A) at least 500 SLOC changed. B) only JabRef code
+    - for a Sticker A) at leat two PRs plus at least 100 SLOC changed, B) only JabRef code
+    - for a T-Shirt A) at least 1000 SLOC changed. B) only JabRef code
 - [ ] JabCon 2020
 
 ### Topics discussed in each telephone conference
