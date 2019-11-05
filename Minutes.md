@@ -5,6 +5,7 @@
   - Rules 2020:
     - for a Sticker A) at leat two PRs plus at least 100 SLOC changed, B) only JabRef code
     - for a T-Shirt A) at least 1000 SLOC changed. B) only JabRef code
+    - Or: Must fix an issue
 - [ ] JabCon 2020
 
 ### Topics discussed in each telephone conference
