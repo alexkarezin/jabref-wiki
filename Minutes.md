@@ -7,6 +7,7 @@
     - for a T-Shirt A) at least 1000 SLOC changed. B) only JabRef code
     - Or: Must fix an issue
 - [ ] JabCon 2020
+- [ ] Beta 5.0 Release
 
 ### Topics discussed in each telephone conference
 
